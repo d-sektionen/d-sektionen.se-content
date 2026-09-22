@@ -1,0 +1,54 @@
+{
+  "alumni-blogg": {
+    "name": "Alumni-blogg",
+    "description": "Bloggen som skrivs av alumner!"
+  },
+  "exjobb": {
+    "name": "Exjobb",
+    "description": "Ska ej vara med i nyhetsflödet med alla nyheter."
+  },
+  "foretagsevent": {
+    "name": "Företagsevent"
+  },
+  "graduate-program": {
+    "name": "Graduate program"
+  },
+  "gymnasieelev": {
+    "name": "Gymnasieelev",
+    "description": "Här samlas alla inlägg som är relaterade gymnasieelever."
+  },
+  "intervjuer-fortroendevalda-varmote-2020": {
+    "name": "Intervjuer, förtroendevalda vårmöte 2020"
+  },
+  "intervjuer-fortroendevalda-varmote-2021": {
+    "name": "Intervjuer, förtroendevalda vårmöte 2021"
+  },
+  "intervjuer-fortroendevalda-vintermote-2020": {
+    "name": "Intervjuer, förtroendevalda vintermöte 2020"
+  },
+  "intervjuer-fortroendevalda-vintermote-2021": {
+    "name": "Intervjuer, förtroendevalda vintermöte 2021"
+  },
+  "platsannonser": {
+    "name": "Platsannonser",
+    "description": "test"
+  },
+  "presentation-av-utskott-ht19": {
+    "name": "Presentation av utskott HT19"
+  },
+  "sektionsaktiv-i-fokus": {
+    "name": "Sektionsaktiv i fokus",
+    "description": "En samling artiklar där sektionsaktiva i våra utskott intervjuas/presenteras."
+  },
+  "sektionsnyheter": {
+    "name": "Sektionsnyheter",
+    "description": "Nyheter från sektionen. Dessa är viktiga och får gärna visas lite tydligare."
+  },
+  "rekrytering": {
+    "name": "— Rekrytering"
+  },
+  "studentnyheter": {
+    "name": "Studentnyheter",
+    "description": "Nyheter från LiU, LinTek och studentföreningar."
+  }
+}
