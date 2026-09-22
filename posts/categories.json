@@ -5,7 +5,8 @@
   },
   "exjobb": {
     "name": "Exjobb",
-    "description": "Ska ej vara med i nyhetsflödet med alla nyheter."
+    "description": "Ska ej vara med i nyhetsflödet med alla nyheter.",
+    "fontPage": false
   },
   "foretagsevent": {
     "name": "Företagsevent"
