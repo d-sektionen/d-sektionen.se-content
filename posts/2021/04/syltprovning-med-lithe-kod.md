@@ -5,7 +5,7 @@ categories:
   - "studentnyheter"
 ---
 
-[![](images/lithekod_gamejam_compressed-1024x502.jpg)](https://d-sektionen.se/wp-content/uploads/2021/04/lithekod_gamejam_compressed-scaled.jpg)
+![](images/lithekod_gamejam_compressed-1024x502.jpg)
 
 Här kommer lite info från LiTHe kod, som ska hålla i ett event inför deras nästa Game Jam!
 

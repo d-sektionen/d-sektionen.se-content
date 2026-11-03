@@ -3,7 +3,7 @@ title: "NärU Presenterar: Kvällsevent med Knowit"
 date: 2022-04-28
 ---
 
-[![](images/knowit-event-1024x681.jpg)](https://d-sektionen.se/wp-content/uploads/2022/04/knowit-event.jpg)
+![](images/knowit-event-1024x681.jpg)
 
 Varmt välkommen på kvällsevent tillsammans med Knowit!
 

@@ -19,4 +19,4 @@ Anmäl dig [här](https://forms.gle/RvW4srkHBA1bceUM6) senast 16:e maj och glöm
 Läs mer om Ericsson: [https://www.ericsson.com/en/careers/student-young-professionals](https://www.ericsson.com/en/careers/student-young-professionals)  
 Välkommen!
 
-[![](images/fb-event-banner-1024x576.jpg)](https://d-sektionen.se/wp-content/uploads/2025/05/fb-event-banner-scaled.jpg)
+![](images/fb-event-banner-1024x576.jpg)

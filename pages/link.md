@@ -4,7 +4,7 @@ category: "Utskott"
 date: 2014-12-09
 ---
 
-[![](images/logotyp_linkdagarna.png)](//d-sektionen.se/wp-content/uploads/2020/11/logotyp_linkdagarna.png)
+![](images/logotyp_linkdagarna.png)
 
   
 

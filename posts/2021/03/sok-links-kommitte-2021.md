@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-[![](images/link_header-1024x576.png)](https://d-sektionen.se/wp-content/uploads/2021/03/link_header.png)
+![](images/link_header-1024x576.png)
 
 Nu har äntligen ansökan till årets LINK kommitté öppnat! Vill du vara delaktig i en av Sveriges största mässor inom data och IT? Ta chansen och sök eller nominera någon till LINK 2021!   
 I kommittén för LINK får du inte bara ett väldigt roligt år där du lär känna en massa nya människor från olika program, men även erfarenhet och utveckling studierna ofta inte kan ge. Kombinationen närheten till företag och planering som ger fysiska resultat skapar en snygg merit till ditt CV!  

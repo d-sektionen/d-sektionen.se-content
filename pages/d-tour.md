@@ -31,4 +31,4 @@ Hoppas vi ses på campus i februari!
 
 //Datateknologsektionens marknadsföringsutskott
 
-[![](images/vit_bakgrund-5.jpg)](https://d-sektionen.se/wp-content/uploads/2025/11/vit_bakgrund-5.jpg)
+![](images/vit_bakgrund-5.jpg)

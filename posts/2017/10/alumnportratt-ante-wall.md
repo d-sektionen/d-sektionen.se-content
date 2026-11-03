@@ -39,9 +39,9 @@ Ska man beskriva en dag eller två som har varit helt galet roliga är ju när v
 
 **Du får väldigt gärna skicka en eller ett par bilder om du önskar!**
 
-\[caption id="attachment\_5254" align="alignnone" width="539"\][![](images/ante_1-678x1024.jpg)](//d-sektionen.se/wp-content/uploads/2017/10/ante_1.jpg) Här står jag och serverar öl på Muchen Hoben i full karaktär Nolle-p 2014\[/caption\]
+\[caption id="attachment\_5254" align="alignnone" width="539"\]![](images/ante_1-678x1024.jpg) Här står jag och serverar öl på Muchen Hoben i full karaktär Nolle-p 2014\[/caption\]
 
-\[caption id="attachment\_5255" align="alignnone" width="594"\][![](images/ante_2.jpg)](//d-sektionen.se/wp-content/uploads/2017/10/ante_2.jpg) En av många kvällar med gott sällskap på \[hg\]\[/caption\]Ett par lite snabbare frågor: **Din favoritkurs under studietiden?** TDDD23: Design and Programming of Computer Games var rolig genom hela kursen, iallafall om man har ett spelintresse. Där fick man verkligen göra något som man bara tyckte var roligt och fick låta sin fantasi flöda!
+\[caption id="attachment\_5255" align="alignnone" width="594"\]![](images/ante_2.jpg) En av många kvällar med gott sällskap på \[hg\]\[/caption\]Ett par lite snabbare frågor: **Din favoritkurs under studietiden?** TDDD23: Design and Programming of Computer Games var rolig genom hela kursen, iallafall om man har ett spelintresse. Där fick man verkligen göra något som man bara tyckte var roligt och fick låta sin fantasi flöda!
 
 **Vilken kurs tyckte du var svårast?** Hmm, TDDI09: Systeminstallation var nog dock den kursen som jag lade ner mest tid på tror jag och jag kommer ihåg att den var klurig.
 

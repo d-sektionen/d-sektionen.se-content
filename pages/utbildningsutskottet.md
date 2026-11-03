@@ -4,7 +4,7 @@ category: "Utskott"
 date: 2016-01-29
 ---
 
-[![](images/utbu-logga-1.png)](https://d-sektionen.se/wp-content/uploads/2023/10/utbu-logga-1.png)
+![](images/utbu-logga-1.png)
 
 Utbildningsutskottet har i uppgift att bevaka utbildningen på våra program och är uppdelat i fyra mindre studienämnder, en för varje program. Utskottet ansvarar för att samla in kursutvärderingar. Dessutom arbetar utskottet med att utveckla kurser och se till att utbildningen håller högsta klass. Utskottets syfte är att tjäna som länk mellan studenter på programmet, Lintek och universitet. Denna text har som syfte att förklara vissa grundläggande begrepp och sammanhang när det gäller studiebevakning.
 

@@ -6,7 +6,7 @@ categories:
   - "studentnyheter"
 ---
 
-[![](images/d_fum-1024x768.png)](https://d-sektionen.se/wp-content/uploads/2021/03/d_fum.png)
+![](images/d_fum-1024x768.png)
 
 Hejhej, här kommer ett meddelande från oss i LinTek!
 

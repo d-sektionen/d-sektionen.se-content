@@ -5,7 +5,7 @@ categories:
   - "platsannonser"
 ---
 
-[![](images/Jobb-Pitch-2021-3-1024x525.jpg)](https://d-sektionen.se/wp-content/uploads/2021/06/Jobb-Pitch-2021-3.jpg)
+![](images/Jobb-Pitch-2021-3-1024x525.jpg)
 
 Bli en av oss!
 

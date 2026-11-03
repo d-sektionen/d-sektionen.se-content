@@ -5,7 +5,7 @@ date: 2022-03-30
 
 ”Tech Evolution har för mig varit den perfekta balansen mellan kompetensutveckling och arbetslivserfarenhet. Detta är något som gjort att jag känt att jag har tagit stormsteg mot att bli en så bra utvecklare som möjligt redan under dom första månaderna. Tack vare den kompetensen som finns här på Forefront har jag alltid fått svar på alla mina frågor, svåra som dumma.” – Martin Lindblom" 
 
-[![](images/image.png)](https://d-sektionen.se/wp-content/uploads/2022/04/image.png)
+![](images/image.png)
 
 Ansök till Forefronts talangprogram Tech Evolution! Programmet finns i Malmö, Halmstad, Linköping, Stockholm, Västerås, Sundsvall, Östersund och Åre.
 
@@ -25,4 +25,4 @@ Programmet startar i augusti så ansök nu på [https://emp.jobylon.com/jobs/684
 
 Mer information finns här: [https://forefront.se/tech-evolution/](https://forefront.se/tech-evolution/)
 
-[![](images/forefront-konsulter-s187-1024x1024.jpg)](https://d-sektionen.se/wp-content/uploads/2022/03/forefront-konsulter-s187.jpg)
+![](images/forefront-konsulter-s187-1024x1024.jpg)

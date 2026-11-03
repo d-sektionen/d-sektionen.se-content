@@ -3,7 +3,7 @@ title: "NärU Presenterar: Scanias kodutmaning"
 date: 2021-11-09
 ---
 
-[![](images/0001-1024x768.jpg)](https://d-sektionen.se/wp-content/uploads/2021/11/0001-scaled.jpg)
+![](images/0001-1024x768.jpg)
 
 **_Scania Code Challenge!_**  
 

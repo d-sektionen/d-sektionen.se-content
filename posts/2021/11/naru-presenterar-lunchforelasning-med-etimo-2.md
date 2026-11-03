@@ -5,7 +5,7 @@ categories:
   - "foretagsevent"
 ---
 
-[![](images/Bild1.png)](https://d-sektionen.se/wp-content/uploads/2021/11/Bild1.png)
+![](images/Bild1.png)
 
 Den 30:e november kommer Etimo att berätta om "Mjukvaruutveckling i olika stora organisationer". Ni kommer att få höra Erik Malm från Etimo om vad som skiljer sig mellan startups och bolag med flera tusen anställda - med fokus på startup, scaleup och storbolag. 
 

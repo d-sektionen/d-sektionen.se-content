@@ -17,7 +17,7 @@ Har du ett event du vill se anordnas på sektionen? Det går att fixa! Som sekti
 
 ## Grupper
 
-### [![](images/Ny-AktU-logga.png)](https://d-sektionen.se/wp-content/uploads/2020/01/Ny-AktU-logga.png)
+### ![](images/Ny-AktU-logga.png)
 
 **AktU** är utskottets aktivitetsgrupp och jobbar helhjärtat med att arrangera roliga evenemang, öppna för alla. Som bas i vår verksamhet erbjuder vi brädspelskvällar samt motionsspel i form av innebandy och nostalgiska sportkvällar. Utöver det anordnar vi större evenemang såsom fulsittningar, halvtidssittningen π-balen för alla treor i D- och TBi-sektionen, samt oregelbundna event såsom brännboll eller grillkvällar. Vårt mål är att erbjuda en bred uppsättning aktiviteter där det ska finnas någonting för alla!
 
@@ -37,7 +37,7 @@ Har du några frågor kring AktU eller är intresserad av ett samarbete? Kontakt
 [aktivitetsgruppen@d-sektionen.se](mailto:aktivitetsgruppen@d-sektionen.se)  
 **
 
-### [![](images/D-LAN.png)](https://d-sektionen.se/wp-content/uploads/2025/11/D-LAN.png)
+### ![](images/D-LAN.png)
 
 **D-LAN** anordnar årets höjdpunkt för spelintresserade studenter, nämligen Östergötlands största LAN-event! På D-LAN kan du spela spel med vänner, eller mot vänner och tävla för att vinna tokfina priser! 
 
@@ -46,7 +46,7 @@ Utöver D-LAN håller vi även D-WAN som är ett online turnering på hösten oc
 **Florian Trabjerg (Projektledare, D-LAN 2027)  
 [projektledare@d-lan.se](mailto:projektledare@d-lan.se)**
 
-### [![](images/logo_svart_bkg_1500x1500-dband.jpg)](https://d-sektionen.se/wp-content/uploads/2020/09/logo_svart_bkg_1500x1500-dband.jpg)
+### ![](images/logo_svart_bkg_1500x1500-dband.jpg)
 
 **D-Band** är D-sektionens alldeles egna sektionsband, och spelar covers med fantastisk fart och energi! 
 
@@ -58,7 +58,7 @@ Har du frågor eller är del av en förening och skulle vilja boka D-Band för e
 [d-band@d-sektionen.se](mailto:d-band@d-sektionen.se)  
 **
 
-### [![](images/logo.png)](https://d-sektionen.se/wp-content/uploads/2021/11/logo.png)
+### ![](images/logo.png)
 
 **D20** – för dig som tycker att verkligheten är överskattad.
 
@@ -71,7 +71,7 @@ Nyfiken? Följ oss, joina servern, eller skicka en magisk missiv till [D20@d-sek
 **Ida Andersson (Gamemaster, D20 2027)  
 [**D20@D-sektionen.se**](mailto:D20@D-sektionen.se)**
 
-### [![](images/VitBakgrund-2.png)](https://d-sektionen.se/wp-content/uploads/2024/12/VitBakgrund-2.png)
+### ![](images/VitBakgrund-2.png)
 
 **SchlagU** är D-sektionens alldeles egna schlager-undergrupp som är till för att skapa och arrangera underhållande musikrelaterade evenemang! Vi organiserar allt från karaokekvällar och melodifestivalen watch-alongs till musikquiz för att främja gemenskapen och musikintresset på sektionen. Vi anordnar även en insamling för pengar till Musikhjälpen under Musikhjälpen-veckan, samt massa andra roliga event under året! <3
 

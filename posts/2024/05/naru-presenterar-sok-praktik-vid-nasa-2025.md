@@ -3,7 +3,7 @@ title: "NärU presenterar: Sök praktik vid NASA 2025"
 date: 2024-05-02
 ---
 
-[![](images/NASA-1.png)](https://d-sektionen.se/wp-content/uploads/2024/05/NASA-1.png)
+![](images/NASA-1.png)
 
 **Sista ansökningsdag 16 maj 2024**
 

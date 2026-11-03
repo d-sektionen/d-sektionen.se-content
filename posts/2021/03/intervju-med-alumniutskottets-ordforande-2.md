@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-varmote-2021"
 ---
 
-[![](images/alumni_cajsa-576x1024.jpg)](https://d-sektionen.se/wp-content/uploads/2021/03/alumni_cajsa.jpg)
+![](images/alumni_cajsa-576x1024.jpg)
 
 Vi klämmer in en till intervju innan dagen är slut, nu är det dags för Alumniutskottets ordförande Cajsa Wargren att berätta lite om sin post!
 

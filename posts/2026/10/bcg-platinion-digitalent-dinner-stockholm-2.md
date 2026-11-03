@@ -18,4 +18,4 @@ Learn more and apply by Sunday, November 1 to secure your spot:
 Travel expenses from other parts of Sweden to Stockholm will be covered by BCG  
 Platinion.
 
-[![](images/PLA_DIGITALENTDINNER-STK.jpg)](https://d-sektionen.se/wp-content/uploads/2026/10/PLA_DIGITALENTDINNER-STK.jpg)
+![](images/PLA_DIGITALENTDINNER-STK.jpg)

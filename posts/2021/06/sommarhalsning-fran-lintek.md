@@ -6,7 +6,7 @@ categories:
   - "studentnyheter"
 ---
 
-[![](images/Sommarhalsning_LinTek-1024x576.jpg)](https://d-sektionen.se/wp-content/uploads/2021/06/Sommarhalsning_LinTek.jpg)
+![](images/Sommarhalsning_LinTek-1024x576.jpg)
 
 Halloj sektionen! Här kommer lite information från LinTek!
 

@@ -3,7 +3,7 @@ title: "NärU Presenterar: Lunchföreläsning med Valtech"
 date: 2021-10-06
 ---
 
-[![](images/large-Welcome-to-the-Jungle-04-1024x684.jpg)](https://d-sektionen.se/wp-content/uploads/2021/10/large-Welcome-to-the-Jungle-04.jpg)
+![](images/large-Welcome-to-the-Jungle-04-1024x684.jpg)
 
 Välkommen på lunchföreläsning med Valtech!
 

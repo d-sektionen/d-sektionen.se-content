@@ -5,7 +5,7 @@ tags:
   - "naru"
 ---
 
-[![](images/1707730253112-1e73555e-285c-41a9-8837-71c19ff7ecf3_1.jpg)](https://d-sektionen.se/wp-content/uploads/2024/02/1707730253112-1e73555e-285c-41a9-8837-71c19ff7ecf3_1.jpg)
+![](images/1707730253112-1e73555e-285c-41a9-8837-71c19ff7ecf3_1.jpg)
 
 <!--more-->
 

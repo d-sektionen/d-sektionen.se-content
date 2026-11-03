@@ -15,4 +15,4 @@ We have one for you. How about taking a step towards your career by putting know
 
 The ads are open until late January – check out the exact date for the ad you are interested in.
 
-[![](images/Sommarjobb-2023-annons-1024x576.png)](https://d-sektionen.se/wp-content/uploads/2023/01/Sommarjobb-2023-annons.png)
+![](images/Sommarjobb-2023-annons-1024x576.png)

@@ -5,7 +5,7 @@ categories:
   - "exjobb"
 ---
 
-[![](images/image001-1024x539.jpg)](https://d-sektionen.se/wp-content/uploads/2021/11/image001.jpg)
+![](images/image001-1024x539.jpg)
 
 Nu har vi på Cybercom gått ihop med Knowit. Vi kallas numera Knowit Connectivity och jobbar med R&D uppdrag och algoritmutveckling.
 

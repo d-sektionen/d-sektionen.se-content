@@ -13,4 +13,4 @@ Register your interest today!
 Hope to see you there!​  
 Team Ericsson ​
 
-[![](images/Newsletter-banner-1024x273.png)](https://d-sektionen.se/wp-content/uploads/2026/09/Newsletter-banner.png)
+![](images/Newsletter-banner-1024x273.png)

@@ -13,4 +13,4 @@ You can expect international client cases, a steep learning curve, and the possi
 
 Learn more and apply by September 27 with your CV, including a short motivational paragraph on the role, and all university transcripts: https://www.bcgplatinion.com/careers/internships/it-strategy-consulting-internship-2027-nordics
 
-[![](images/VA-2027-STK-1080x1350-1-819x1024.png)](https://d-sektionen.se/wp-content/uploads/2026/08/VA-2027-STK-1080x1350-1.png)
+![](images/VA-2027-STK-1080x1350-1-819x1024.png)

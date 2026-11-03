@@ -33,4 +33,4 @@ Eller Forefronts programansvarig Sophia Caspár: [sophia.caspar@forefront.se](m
 
 PS: Du kan söka till vårt talangprogram Tech Evolution redan nu: [https://tinyurl.com/techevo23](https://tinyurl.com/techevo23)
 
-[![](images/forefront-event-1024x577.png)](https://d-sektionen.se/wp-content/uploads/2023/02/forefront-event.png)
+![](images/forefront-event-1024x577.png)

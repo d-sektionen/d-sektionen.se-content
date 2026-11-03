@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-[![](images/LINK_Header_sok_note-1024x535.png)](https://d-sektionen.se/wp-content/uploads/2021/02/LINK_Header_sok_note.png)
+![](images/LINK_Header_sok_note-1024x535.png)
 
 I fredags stängde ansökan för LINKs ledningsgrupp 2021 men vi saknar fortfarande en gruppansvarig till IT-gruppen. Vill du utveckla dig inom webb och IT? Träffa nya vänner och vara med och anordna en grym mässa? Då är denna posten perfekt för dig.
 

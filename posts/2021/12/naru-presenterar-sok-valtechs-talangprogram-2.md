@@ -3,7 +3,7 @@ title: "NärU Presenterar: Sök Valtechs talangprogram"
 date: 2021-12-08
 ---
 
-[![](images/030320-LinkedIn-1-1024x536.png)](https://d-sektionen.se/wp-content/uploads/2021/12/030320-LinkedIn-1.png)
+![](images/030320-LinkedIn-1-1024x536.png)
 
 **Varmt välkommen till Valtechs talangprogram!**
 

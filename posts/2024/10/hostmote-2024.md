@@ -7,7 +7,7 @@ categories:
 
 Höstmötet kommer hållas **10:e november** 2024 klockan **15:00** i sal **A1**.
 
-[![](images/Hostmote-1-1024x462.png)](https://d-sektionen.se/wp-content/uploads/2024/10/Hostmote-1.png)
+![](images/Hostmote-1-1024x462.png)
 
 Hej D-student! Här kommer information om sektionens höstmöte att samlas. Ett sektionsmöte är sektionens högst beslutande organ, och det är sektionsmöten som beslutar om till exempel sektionens budgetering, framtida arbetssätt, stadgar, reglemente, med mera. För mer information om hur ett sektionsmöte fungerar finns en beskrivning av relevanta termer och processer på [d-sektionen.se/sektionsmote](https://d-sektionen.se/sektionsmote/).
 

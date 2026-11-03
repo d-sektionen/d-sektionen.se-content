@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-[![](images/Varmote-1024x462.png)](https://d-sektionen.se/wp-content/uploads/2025/04/Varmote.png)
+![](images/Varmote-1024x462.png)
 
 Vårmötet kommer att hållas **27:e april** 2025 klockan **14:00** i sal **C4**.
 

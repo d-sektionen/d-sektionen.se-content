@@ -33,11 +33,11 @@ Det finns väldigt många anledningar till varför jag gillar att jobba på Spot
 
 Kanske inte just en dag, men i början när jag anställdes gick jag gå på “Intro Days”. Tre dagar då hela Spotifys ledning talade och nyanställda från alla kontor i världen flygs in till Stockholm, för att prata om företaget och vart vi var på väg. Riktigt roligt och engagerande!
 
-[![](images/image1.jpg)](//d-sektionen.se/wp-content/uploads/2017/09/image1.jpg)
+![](images/image1.jpg)
 
 Jag som megalur under Häfvet, Nolle-P 2013. Tror jag faktiskt höll mig från att sova under denna tillställning. (Foto: Lingsektionen)
 
-[![](images/image2-768x1024.jpg)](https://d-sektionen.se/wp-content/uploads/2017/09/image2.jpg)
+![](images/image2-768x1024.jpg)
 
 Jag exjobbade i Boston hösten 2016. Väl där passade jag på göra en road trip ner till Miami, där Washington D.C. blev ett stopp.
 

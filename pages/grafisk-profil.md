@@ -16,8 +16,8 @@ Om du som sektionsaktiv har frågor om loggor, tryckbeställningar eller annat t
 
 För vektorbaserade loggor eller den runda loggan, kontakta Art Director.
 
-[![Color\_white](images/Color_white.png)](/wp-content/uploads/2015/06/Color_white.png) [![Color\_black](images/Color_black.png)](/wp-content/uploads/2015/06/Color_black.png) [![White](images/White.png)](/wp-content/uploads/2015/06/White.png) [![Black](images/Black.png)](/wp-content/uploads/2015/06/Black.png)
+![Color\_white](images/Color_white.png) ![Color\_black](images/Color_black.png) ![White](images/White.png) ![Black](images/Black.png)
 
 ## Programmärken
 
-[![U\_märke](images/U_märke.png)](/wp-content/uploads/2013/10/U_märke.png) [![IT\_märke](images/IT_märke.png)](/wp-content/uploads/2013/10/IT_märke.png) [![IP\_märke](images/IP_märke.png)](/wp-content/uploads/2013/10/IP_märke.png) [![D\_märke](images/D_märke.png)](/wp-content/uploads/2013/10/D_märke.png)
+![U\_märke](images/U_märke.png) ![IT\_märke](images/IT_märke.png) ![IP\_märke](images/IP_märke.png) ![D\_märke](images/D_märke.png)

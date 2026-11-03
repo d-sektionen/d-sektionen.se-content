@@ -6,7 +6,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-[![](images/att.lwWJbdZZhVa4RgcP1ATXEKgkeDh-bW5gApbmy16ZV90-1024x576.jpg)](https://d-sektionen.se/wp-content/uploads/2025/03/att.lwWJbdZZhVa4RgcP1ATXEKgkeDh-bW5gApbmy16ZV90.jpg)
+![](images/att.lwWJbdZZhVa4RgcP1ATXEKgkeDh-bW5gApbmy16ZV90-1024x576.jpg)
 
 Datateknologsektionen på LiU är en av Sveriges äldsta datateknologiska utbildningar och i början av 2026 fyller vår fina sektion 50 år! För att fira detta ska vi i Jubileumsutskottet planera ett STORT firande där vi vill främja gemenskapen på sektionen genom att ha flera evenemang under en veckas tid. Vill du vara med och bestämma hur vi ska fira vår fina sektion, sök då till Jubileumsutskottet!
 

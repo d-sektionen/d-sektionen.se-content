@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-varmote-2021"
 ---
 
-[![](images/infochef_1-768x1024.jpg)](https://d-sektionen.se/wp-content/uploads/2021/03/infochef_1.jpg)
+![](images/infochef_1-768x1024.jpg)
 
 Nu är vi tyvärr framme i sista iterationen i intervju-serien! Visste du att det är Infoutskottet som genomfört och publicerat dessa intervjuer? Ansvarig för detta utskott är sektionens Infochef Anton Oom, och denne är sist ut att bli intervjuad!
 

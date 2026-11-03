@@ -10,7 +10,7 @@ Mer information om Donna hittar du på vår hemsida, [här](https://donna.d-sek
 
 <figure>
 
-[![](images/DONNA2627_omslagsbild_liten.png)](https://d-sektionen.se/wp-content/uploads/2026/08/DONNA2627_omslagsbild_liten.png)
+![](images/DONNA2627_omslagsbild_liten.png)
 
 <figcaption>
 
@@ -26,7 +26,7 @@ _Donna på sociala medier:_
 _[Donna på Facebook](http://www.facebook.com/donnad-sektionen)_  
 _[Donna på Instagram](http://www.instagram.com/donna_dsektionen)_
 
-[![13987460\_554820711370633\_4409692854337125298\_o](images/13987460_554820711370633_4409692854337125298_o.jpg)](https://d-sektionen.se/wp-content/uploads/2014/01/13987460_554820711370633_4409692854337125298_o.jpg)
+![13987460\_554820711370633\_4409692854337125298\_o](images/13987460_554820711370633_4409692854337125298_o.jpg)
 
 **Frågor? Skriv till oss!  
 Josefiné Sahlström (Ordförande 26/27)  

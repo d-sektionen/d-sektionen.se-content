@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-[![](images/Sektionsfotografering-1024x462.png)](https://d-sektionen.se/wp-content/uploads/2025/02/Sektionsfotografering.png)
+![](images/Sektionsfotografering-1024x462.png)
 
 Kära sektion!
 
