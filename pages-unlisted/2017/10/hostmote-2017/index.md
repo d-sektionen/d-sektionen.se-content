@@ -17,11 +17,11 @@ Glöm inte att du är mer än välkommen till att _motkandidera_ till någon av 
 
 ## Protokoll
 
-Protokollet från höstmötet kan hittas [här](https://d-sektionen.se/wp-content/uploads/2017/11/protokoll_hostmote_2017.pdf).
+Protokollet från höstmötet kan hittas [här](/docs/2017/11/protokoll_hostmote_2017.pdf).
 
 ## Föredragningslista
 
-[Föredragningslista för D-sektionens höstmöte 2017](https://d-sektionen.se/wp-content/uploads/2017/10/Föredragningslista-för-D-sektionens-höstmöte-2017-2.pdf)
+[Föredragningslista för D-sektionens höstmöte 2017](/docs/2017/10/F%C3%B6redragningslista-f%C3%B6r-D-sektionens-h%C3%B6stm%C3%B6te-2017-2.pdf)
 
 ## Nomineringar
 
@@ -32,61 +32,61 @@ Valberedningen har nominerat följande:
 
 ## Dokument
 
-[Kallelse](https://d-sektionen.se/wp-content/uploads/2017/10/Kallelse-för-D-sektionens-höstmöte-2017.pdf)
+[Kallelse](/docs/2017/10/Kallelse-f%C3%B6r-D-sektionens-h%C3%B6stm%C3%B6te-2017.pdf)
 
-[Reglemente](https://d-sektionen.se/wp-content/uploads/2017/10/Reglemente.pdf)
+[Reglemente](/docs/2017/10/Reglemente.pdf)
 
-[Stadgar](https://d-sektionen.se/wp-content/uploads/2017/10/Stadgar.pdf)
+[Stadgar](/docs/2017/10/Stadgar.pdf)
 
-[Motionsmall pdf](https://d-sektionen.se/wp-content/uploads/2017/10/Motionsmall-D-sektionens-ho%CC%88stmo%CC%88te-2017.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2017/10/Motionsmall-D-sektionens-ho%CC%88stmo%CC%88te-2017.odt), [docx](https://d-sektionen.se/wp-content/uploads/2017/10/Motionsmall-D-sektionens-ho%CC%88stmo%CC%88te-2017.docx)
+[Motionsmall pdf](/docs/2017/10/Motionsmall-D-sektionens-h%C3%B6stm%C3%B6te-2017.pdf), [odt](/docs/2017/10/Motionsmall-D-sektionens-h%C3%B6stm%C3%B6te-2017.odt), [docx](/docs/2017/10/Motionsmall-D-sektionens-h%C3%B6stm%C3%B6te-2017.docx)
 
-[Sektionsmöte FAQ](https://d-sektionen.se/wp-content/uploads/2017/10/Sektionsmöte-FAQ-1.pdf)
+[Sektionsmöte FAQ](/docs/2017/10/Sektionsm%C3%B6te-FAQ-1.pdf)
 
-[Måldokument 17/18](https://d-sektionen.se/wp-content/uploads/2017/10/Måldokument-172F18.pdf)
+[Måldokument 17/18](/docs/2017/10/M%C3%A5ldokument-172F18.pdf)
 
 ## Inkomna dokument
 
 ### D-Group 2016-2017
 
-[Resultatrapport D-Group 2016\_2017](https://d-sektionen.se/wp-content/uploads/2017/10/Resultatrapport-D-Group-2016_2017.pdf)
+[Resultatrapport D-Group 2016\_2017](/docs/2017/10/Resultatrapport-D-Group-2016_2017.pdf)
 
-[Resultat D-Group 2016\_2017](https://d-sektionen.se/wp-content/uploads/2017/10/Resultat-D-Group-2016_2017.pdf)
+[Resultat D-Group 2016\_2017](/docs/2017/10/Resultat-D-Group-2016_2017.pdf)
 
-[Kommentarer Resultatenheter D-Group 2016\_2017](https://d-sektionen.se/wp-content/uploads/2017/10/Kommentarer-Resultatenheter-D-Group-2016_2017.pdf)
+[Kommentarer Resultatenheter D-Group 2016\_2017](/docs/2017/10/Kommentarer-Resultatenheter-D-Group-2016_2017.pdf)
 
-[Ekonomisk berättelse för D-Group 2016\_2017](https://d-sektionen.se/wp-content/uploads/2017/10/Ekonomisk-berättelse-för-D-Group-2016_2017.pdf)
+[Ekonomisk berättelse för D-Group 2016\_2017](/docs/2017/10/Ekonomisk-ber%C3%A4ttelse-f%C3%B6r-D-Group-2016_2017.pdf)
 
-[Balansrapport D-Group 2016\_2017](https://d-sektionen.se/wp-content/uploads/2017/10/Balansrapport-D-Group-2016_2017.pdf)
+[Balansrapport D-Group 2016\_2017](/docs/2017/10/Balansrapport-D-Group-2016_2017.pdf)
 
-[Verksamhetsberättelse D-Group 1617](https://d-sektionen.se/wp-content/uploads/2017/10/Verksamhetsberättelse-D-Group-1617.pdf)
+[Verksamhetsberättelse D-Group 1617](/docs/2017/10/Verksamhetsber%C3%A4ttelse-D-Group-1617.pdf)
 
 ### LINK 2015-2016
 
-[Balansrapport-LINK2015](https://d-sektionen.se/wp-content/uploads/2017/10/Balansrapport-LINK2015.pdf)
+[Balansrapport-LINK2015](/docs/2017/10/Balansrapport-LINK2015.pdf)
 
-[Ekonomiskredovisning\_LINK2015](https://d-sektionen.se/wp-content/uploads/2017/10/Ekonomiskredovisning_LINK2015.pdf)
+[Ekonomiskredovisning\_LINK2015](/docs/2017/10/Ekonomiskredovisning_LINK2015.pdf)
 
-[Resultatrapport-LINK2015](https://d-sektionen.se/wp-content/uploads/2017/10/Resultatrapport-LINK2015.pdf)
+[Resultatrapport-LINK2015](/docs/2017/10/Resultatrapport-LINK2015.pdf)
 
-[Verksamhetsberättelse LINK2015](https://d-sektionen.se/wp-content/uploads/2017/10/Verksamhetsberättelse-LINK2015.pdf)
+[Verksamhetsberättelse LINK2015](/docs/2017/10/Verksamhetsber%C3%A4ttelse-LINK2015.pdf)
 
 ### STABEN 2016-2017
 
-[Balansrapport STABEN 2016\_2017](https://d-sektionen.se/wp-content/uploads/2017/10/Balansrapport-STABEN-2016_2017.pdf)
+[Balansrapport STABEN 2016\_2017](/docs/2017/10/Balansrapport-STABEN-2016_2017.pdf)
 
-[Ekonomisk berättelse för STABEN 2016\_2017](https://d-sektionen.se/wp-content/uploads/2017/10/Ekonomisk-berättelse-för-STABEN-2016_2017.pdf)
+[Ekonomisk berättelse för STABEN 2016\_2017](/docs/2017/10/Ekonomisk-ber%C3%A4ttelse-f%C3%B6r-STABEN-2016_2017.pdf)
 
-[Kommentarer Resultatenheter STABEN 2016\_2017](https://d-sektionen.se/wp-content/uploads/2017/10/Kommentarer-Resultatenheter-STABEN-2016_2017.pdf)
+[Kommentarer Resultatenheter STABEN 2016\_2017](/docs/2017/10/Kommentarer-Resultatenheter-STABEN-2016_2017.pdf)
 
-[Resultat STABEN 2016\_2017](https://d-sektionen.se/wp-content/uploads/2017/10/Resultat-STABEN-2016_2017.pdf)
+[Resultat STABEN 2016\_2017](/docs/2017/10/Resultat-STABEN-2016_2017.pdf)
 
-[Resultatrapport STABEN 2016\_2017](https://d-sektionen.se/wp-content/uploads/2017/10/Resultatrapport-STABEN-2016_2017.pdf)
+[Resultatrapport STABEN 2016\_2017](/docs/2017/10/Resultatrapport-STABEN-2016_2017.pdf)
 
-[Verksamhetsberättelse\_STABEN\_2016](https://d-sektionen.se/wp-content/uploads/2017/10/Verksamhetsberättelse_STABEN_2016.pdf)
+[Verksamhetsberättelse\_STABEN\_2016](/docs/2017/10/Verksamhetsber%C3%A4ttelse_STABEN_2016.pdf)
 
 ## Motioner/propositioner
 
-- [Proposition angående sektionsaktivas sektionstillhörighet](https://d-sektionen.se/wp-content/uploads/2017/10/Proposition-angående-sektionsaktivas-sektionstillhörighet.pdf)
+- [Proposition angående sektionsaktivas sektionstillhörighet](/docs/2017/10/Proposition-ang%C3%A5ende-sektionsaktivas-sektionstillh%C3%B6righet.pdf)
 
 ## Anmälningsformulär
 

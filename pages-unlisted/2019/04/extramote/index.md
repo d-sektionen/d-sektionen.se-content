@@ -17,21 +17,21 @@ Ett sektionsmöte är sektionens högst beslutande organ. Lett av sektionens sty
 
 ## Föredragningslista
 
-- [Preliminär föredragningslista](https://d-sektionen.se/wp-content/uploads/2019/04/troll-Föredragningslista-1.pdf)
+- [Preliminär föredragningslista](/docs/2019/04/troll-F%C3%B6redragningslista-1.pdf)
 
 ## Dokument
 
-- [Kallelse](https://d-sektionen.se/wp-content/uploads/2019/04/troll-kallelse-1.pdf)
+- [Kallelse](/docs/2019/04/troll-kallelse-1.pdf)
 - [Reglemente](https://github.com/d-sektionen/styrdokument/raw/master/output/reglemente.pdf)
 - [Stadgar](https://github.com/d-sektionen/styrdokument/raw/master/output/stadgar.pdf)
-- [Motionsmall pdf](https://d-sektionen.se/wp-content/uploads/2018/01/Motionsmall-D-sektionens-vinterm%C3%B6te-2018.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2018/01/Motionsmall-D-sektionens-vinterm%C3%B6te-2018.odt), [docx](https://d-sektionen.se/wp-content/uploads/2018/01/Motionsmall-D-sektionens-vinterm%C3%B6te-2018.docx)
-- [Måldokument 18/19](https://d-sektionen.se/wp-content/uploads/2018/11/M%C3%A5ldokument-182F19-1.pdf)
+- [Motionsmall pdf](/docs/2018/01/Motionsmall-D-sektionens-vinterm%C3%B6te-2018.pdf), [odt](/docs/2018/01/Motionsmall-D-sektionens-vinterm%C3%B6te-2018.odt), [docx](/docs/2018/01/Motionsmall-D-sektionens-vinterm%C3%B6te-2018.docx)
+- [Måldokument 18/19](/docs/2018/11/M%C3%A5ldokument-182F19-1.pdf)
 
 ### Motioner
 
-- [Motion mat sektionsmöte](https://d-sektionen.se/wp-content/uploads/2019/04/Motion-mat-sektionsmöte-1.pdf)
-- [Motion dgruppen](https://d-sektionen.se/wp-content/uploads/2019/04/Motion-dgrupppen.pdf)
-- [Motion åvvefärg](https://d-sektionen.se/wp-content/uploads/2019/04/Motion-åvefärg.pdf)
+- [Motion mat sektionsmöte](/docs/2019/04/Motion-mat-sektionsm%C3%B6te-1.pdf)
+- [Motion dgruppen](/docs/2019/04/Motion-dgrupppen.pdf)
+- [Motion åvvefärg](/docs/2019/04/Motion-%C3%A5vef%C3%A4rg.pdf)
 
 ## Anmälan
 

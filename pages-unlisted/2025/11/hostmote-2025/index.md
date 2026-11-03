@@ -23,13 +23,13 @@ Glöm dessutom inte att du är mer än välkommen att _skicka in motioner_. Det
 
 ## Protokoll
 
-[Protokoll höstmöte 2025](https://d-sektionen.se/wp-content/uploads/2026/01/Protokoll-Sektionens-hostmote-2025.pdf)
+[Protokoll höstmöte 2025](/docs/2026/01/Protokoll-Sektionens-hostmote-2025.pdf)
 
 ## Föredragningslista
 
-[Preliminär Föredragningslista](https://d-sektionen.se/wp-content/uploads/2025/11/Preliminar_foredragningslista-2025.pdf)
+[Preliminär Föredragningslista](/docs/2025/11/Preliminar_foredragningslista-2025.pdf)
 
-[Slutgiltig föredragningslista](https://d-sektionen.se/wp-content/uploads/2025/11/Slutgiltig_foredragningslista_for_hostmotet-2.pdf)
+[Slutgiltig föredragningslista](/docs/2025/11/Slutgiltig_foredragningslista_for_hostmotet-2.pdf)
 
 ## Personval
 
@@ -69,68 +69,68 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 
 ## Dokument
 
-- [Kallelse](https://d-sektionen.se/wp-content/uploads/2025/11/Kallelse_till_hostmote.pdf)
+- [Kallelse](/docs/2025/11/Kallelse_till_hostmote.pdf)
 
 - [Stadgar](https://styrdokument.d-sektionen.se/stadgar.pdf)
 
 - [Reglemente](https://styrdokument.d-sektionen.se/reglemente.pdf)
 
-- [Måldokument 25/26](https://d-sektionen.se/wp-content/uploads/2025/11/Måldokument-25_26.docx.pdf)
+- [Måldokument 25/26](/docs/2025/11/M%C3%A5ldokument-25_26.docx.pdf)
 
-- Motionsmall [pdf](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.odt), [docx](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.docx)
+- Motionsmall [pdf](/docs/2019/10/Motionsmall-D-sektionen-2019.pdf), [odt](/docs/2019/10/Motionsmall-D-sektionen-2019.odt), [docx](/docs/2019/10/Motionsmall-D-sektionen-2019.docx)
 
-- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](https://d-sektionen.se/wp-content/uploads/2019/10/elektroniskrostningpolicy.pdf)
+- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](/docs/2019/10/elektroniskrostningpolicy.pdf)
 
 ## Inkomna dokument
 
-- [Budgetrevidering 25/26](https://d-sektionen.se/wp-content/uploads/2025/11/Forslag-budgetrevidering-hostmotet-2025-11-16.pdf)
+- [Budgetrevidering 25/26](/docs/2025/11/Forslag-budgetrevidering-hostmotet-2025-11-16.pdf)
 
-- [Nuvarande balansrapport 24/25](https://d-sektionen.se/wp-content/uploads/2025/11/Nuvarande_balansrapport-_24_25.pdf)
+- [Nuvarande balansrapport 24/25](/docs/2025/11/Nuvarande_balansrapport-_24_25.pdf)
 
-- [Preliminär ekonomisk berättelse 24/25](https://d-sektionen.se/wp-content/uploads/2025/11/Preliminar_ekonomisk_berattelse_24_25.pdf)
+- [Preliminär ekonomisk berättelse 24/25](/docs/2025/11/Preliminar_ekonomisk_berattelse_24_25.pdf)
 
-- [Nuvarande resultatrapport 24/25](https://d-sektionen.se/wp-content/uploads/2025/11/Nuvarande_resultatrapport_24_25.pdf)
+- [Nuvarande resultatrapport 24/25](/docs/2025/11/Nuvarande_resultatrapport_24_25.pdf)
 
 ### _Verksamhetsberättelser 24/25:_
 
-- [Alumniutskottet](https://d-sektionen.se/wp-content/uploads/2025/11/Verksamhetsberattelse-Alumni24_25.pdf)
+- [Alumniutskottet](/docs/2025/11/Verksamhetsberattelse-Alumni24_25.pdf)
 
-- [D-Group](https://d-sektionen.se/wp-content/uploads/2025/11/Verksamhetsberattelse-D-Group-24_25.pdf)
+- [D-Group](/docs/2025/11/Verksamhetsberattelse-D-Group-24_25.pdf)
 
-- [InfU](https://d-sektionen.se/wp-content/uploads/2025/11/InfU-Verksamhetsberettelse.pdf)
+- [InfU](/docs/2025/11/InfU-Verksamhetsberettelse.pdf)
 
 - Donna
 
-- [Ekonomiutskottet](https://d-sektionen.se/wp-content/uploads/2025/11/Verksamhetsberattelse_EkU_24_25-1.pdf)
+- [Ekonomiutskottet](/docs/2025/11/Verksamhetsberattelse_EkU_24_25-1.pdf)
 
-- [Eventutskottet](https://d-sektionen.se/wp-content/uploads/2025/11/Verksamhetsberattelse-24_25-EventU.pdf)
+- [Eventutskottet](/docs/2025/11/Verksamhetsberattelse-24_25-EventU.pdf)
 
-- [LINK](https://d-sektionen.se/wp-content/uploads/2025/11/LINK-2024-verksamhetsar.pdf)
+- [LINK](/docs/2025/11/LINK-2024-verksamhetsar.pdf)
 
-- [Markndasföringsutskottet](https://d-sektionen.se/wp-content/uploads/2025/11/Verksamhetsberattelse-MafU-24_25.pdf)
+- [Markndasföringsutskottet](/docs/2025/11/Verksamhetsberattelse-MafU-24_25.pdf)
 
-- [Näringslivsutskottet](https://d-sektionen.se/wp-content/uploads/2025/11/Verksamhetsberattelse-NarU-2024_2025.pdf)
+- [Näringslivsutskottet](/docs/2025/11/Verksamhetsberattelse-NarU-2024_2025.pdf)
 
-- [Pubutskottet](https://d-sektionen.se/wp-content/uploads/2025/11/Verksamhetsberattelse-PubU-24_25.pdf)
+- [Pubutskottet](/docs/2025/11/Verksamhetsberattelse-PubU-24_25.pdf)
 
-- [STABEN](https://d-sektionen.se/wp-content/uploads/2025/11/STABEN-2024-Verksamhetsberattelse.pdf)
+- [STABEN](/docs/2025/11/STABEN-2024-Verksamhetsberattelse.pdf)
 
-- [Styrelsen](https://d-sektionen.se/wp-content/uploads/2025/11/Verksamhetsberattelse-Styret-24_25.pdf)
+- [Styrelsen](/docs/2025/11/Verksamhetsberattelse-Styret-24_25.pdf)
 
-- [Utbildningsutskottet](https://d-sektionen.se/wp-content/uploads/2025/11/UtbU-verksamhetsberättelse-24_25.pdf)
+- [Utbildningsutskottet](/docs/2025/11/UtbU-verksamhetsber%C3%A4ttelse-24_25.pdf)
 
-- [Valberedningen](https://d-sektionen.se/wp-content/uploads/2025/11/Valberedningen-Verksamhetsberattelse-24_25.pdf)
+- [Valberedningen](/docs/2025/11/Valberedningen-Verksamhetsberattelse-24_25.pdf)
 
-- [WebbU](https://d-sektionen.se/wp-content/uploads/2025/11/WebbU-24_25-Verksamhetsberattelse.pdf)
+- [WebbU](/docs/2025/11/WebbU-24_25-Verksamhetsberattelse.pdf)
 
-- [Werk](https://d-sektionen.se/wp-content/uploads/2025/11/Verksamhetsberattelse-Werkmasteriet-24_25.pdf)
+- [Werk](/docs/2025/11/Verksamhetsberattelse-Werkmasteriet-24_25.pdf)
 
-- [Sakrevisor](https://d-sektionen.se/wp-content/uploads/2025/11/Sakrevisions-Berattelse-24_25.pdf)
+- [Sakrevisor](/docs/2025/11/Sakrevisions-Berattelse-24_25.pdf)
 
 ## Motioner och propositioner
 
-- [Proposition angående sektionskassörens åligganden](https://d-sektionen.se/wp-content/uploads/2025/11/Proposition-Kassorens-aligganden.pdf)
+- [Proposition angående sektionskassörens åligganden](/docs/2025/11/Proposition-Kassorens-aligganden.pdf)
 
-- [Proposition angående förvaltande av dokumentation kring högtidlighållanden](https://d-sektionen.se/wp-content/uploads/2025/11/Proposition-Forvaltande-av-dokumentation-kring-hogtidlighallanden.pdf)
+- [Proposition angående förvaltande av dokumentation kring högtidlighållanden](/docs/2025/11/Proposition-Forvaltande-av-dokumentation-kring-hogtidlighallanden.pdf)
 
-- [Proposition angående tillägg av policydokument](https://d-sektionen.se/wp-content/uploads/2025/11/Proposition-Tillagg-av-policydokument.pdf)
+- [Proposition angående tillägg av policydokument](/docs/2025/11/Proposition-Tillagg-av-policydokument.pdf)

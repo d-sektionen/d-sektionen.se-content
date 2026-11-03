@@ -17,11 +17,11 @@ Glöm inte att du är mer än välkommen till att _motkandidera_ till någon av 
 
 ## Protokoll
 
-[Protokoll](https://d-sektionen.se/wp-content/uploads/2018/02/Protokoll-D-sektionens-vinterm%C3%B6te-2018-Google-Docs.pdf).
+[Protokoll](/docs/2018/02/Protokoll-D-sektionens-vinterm%C3%B6te-2018-Google-Docs.pdf).
 
 ## Föredragningslista
 
-[Föredragningslista för D-sektionens vintermöte 2018 finns här.](https://d-sektionen.se/wp-content/uploads/2018/01/Föredragningslista-för-D-sektionens-vintermöte-2018.pdf)
+[Föredragningslista för D-sektionens vintermöte 2018 finns här.](/docs/2018/01/F%C3%B6redragningslista-f%C3%B6r-D-sektionens-vinterm%C3%B6te-2018.pdf)
 
 ## Nomineringar
 
@@ -45,59 +45,59 @@ Valberedningen har nominerat följande:
 
 ## Dokument
 
-- [Kallelse](https://d-sektionen.se/wp-content/uploads/2018/01/Kallelse-för-D-sektionens-vintermöte-2018-1.pdf)
-- [Reglemente](https://d-sektionen.se/wp-content/uploads/2017/10/Reglemente.pdf)
-- [Stadgar](https://d-sektionen.se/wp-content/uploads/2017/10/Stadgar.pdf)
-- [Motionsmall pdf](https://d-sektionen.se/wp-content/uploads/2018/01/Motionsmall-D-sektionens-vintermöte-2018.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2018/01/Motionsmall-D-sektionens-vintermöte-2018.odt), [docx](https://d-sektionen.se/wp-content/uploads/2018/01/Motionsmall-D-sektionens-vintermöte-2018.docx)
-- [Sektionsmöte FAQ](https://d-sektionen.se/wp-content/uploads/2018/01/Sektionsmöte-FAQ.pdf)
-- [Måldokument 17/18](https://d-sektionen.se/wp-content/uploads/2017/10/Måldokument-172F18.pdf)
+- [Kallelse](/docs/2018/01/Kallelse-f%C3%B6r-D-sektionens-vinterm%C3%B6te-2018-1.pdf)
+- [Reglemente](/docs/2017/10/Reglemente.pdf)
+- [Stadgar](/docs/2017/10/Stadgar.pdf)
+- [Motionsmall pdf](/docs/2018/01/Motionsmall-D-sektionens-vinterm%C3%B6te-2018.pdf), [odt](/docs/2018/01/Motionsmall-D-sektionens-vinterm%C3%B6te-2018.odt), [docx](/docs/2018/01/Motionsmall-D-sektionens-vinterm%C3%B6te-2018.docx)
+- [Sektionsmöte FAQ](/docs/2018/01/Sektionsm%C3%B6te-FAQ.pdf)
+- [Måldokument 17/18](/docs/2017/10/M%C3%A5ldokument-172F18.pdf)
 
 ## Inkomna dokument
 
 ### Donna 16/17
 
-- [Balansrapport Donna1617](https://d-sektionen.se/wp-content/uploads/2018/01/Balansrapport.pdf)
-- [Ekonomisk berättelse Donna1617](https://d-sektionen.se/wp-content/uploads/2018/01/Ekonomisk-berättelse.pdf)
-- [Huvudbok Donna1617](https://d-sektionen.se/wp-content/uploads/2018/01/Huvudbok.pdf)
-- [Resultat Donna1617](https://d-sektionen.se/wp-content/uploads/2018/01/Resultat-16_17-Totalbudget-1.pdf)
-- [Resultatrapport Donna1617](https://d-sektionen.se/wp-content/uploads/2018/01/Resultatrapport.pdf)
-- [Resultatrapport helår Donna1617](https://d-sektionen.se/wp-content/uploads/2018/01/Resultatrapport_helår.pdf)
-- [Revisionsberättelse Donna1617](https://d-sektionen.se/wp-content/uploads/2018/01/Revisionsberättelse-Donna.docx)
+- [Balansrapport Donna1617](/docs/2018/01/Balansrapport.pdf)
+- [Ekonomisk berättelse Donna1617](/docs/2018/01/Ekonomisk-ber%C3%A4ttelse.pdf)
+- [Huvudbok Donna1617](/docs/2018/01/Huvudbok.pdf)
+- [Resultat Donna1617](/docs/2018/01/Resultat-16_17-Totalbudget-1.pdf)
+- [Resultatrapport Donna1617](/docs/2018/01/Resultatrapport.pdf)
+- [Resultatrapport helår Donna1617](/docs/2018/01/Resultatrapport_hel%C3%A5r.pdf)
+- [Revisionsberättelse Donna1617](/docs/2018/01/Revisionsber%C3%A4ttelse-Donna.docx)
 
 ### LINK 16/17
 
-- [Balansrapport LINK1617](https://d-sektionen.se/wp-content/uploads/2018/01/Balansrapport-LINK1617.pdf)
-- [Ekonomisk redovisning LINK1617](https://d-sektionen.se/wp-content/uploads/2018/01/Ekonomisk-redovisning-LINK1617.pdf)
-- [Resultatrapport LINK1617](https://d-sektionen.se/wp-content/uploads/2018/01/Resultatrapport-LINK1617.pdf)
-- [Revisionsberättelse LINK1617](https://d-sektionen.se/wp-content/uploads/2018/01/Revisionsberättelse-LINK1617.pdf)
-- [Verksamhetsberättelse LINK1617](https://d-sektionen.se/wp-content/uploads/2018/01/Verksamhetsberättelse-LINK1617.pdf)
+- [Balansrapport LINK1617](/docs/2018/01/Balansrapport-LINK1617.pdf)
+- [Ekonomisk redovisning LINK1617](/docs/2018/01/Ekonomisk-redovisning-LINK1617.pdf)
+- [Resultatrapport LINK1617](/docs/2018/01/Resultatrapport-LINK1617.pdf)
+- [Revisionsberättelse LINK1617](/docs/2018/01/Revisionsber%C3%A4ttelse-LINK1617.pdf)
+- [Verksamhetsberättelse LINK1617](/docs/2018/01/Verksamhetsber%C3%A4ttelse-LINK1617.pdf)
 
 ## Motioner och propositioner
 
 ### Propositioner
 
-- [Proposition angående styrelseposten sekreterare, reglemente](https://d-sektionen.se/wp-content/uploads/2018/01/Proposition-angående-styrelseposten-sekreterare-reglemente.pdf)
-- [Proposition angående styrelseposten sekreterare, stadgar](https://d-sektionen.se/wp-content/uploads/2018/01/Proposition-angående-styrelseposten-sekreterare-stadgar.pdf)
-- [Proposition angående sektionsaktivas sektionstillhörighet](https://d-sektionen.se/wp-content/uploads/2018/01/Proposition-angående-sektionsaktivas-sektionstillhörighet.pdf)
-- [Proposition angående tystnadsplikt](https://d-sektionen.se/wp-content/uploads/2018/01/Proposition-angående-tystnadsplikt.pdf)
+- [Proposition angående styrelseposten sekreterare, reglemente](/docs/2018/01/Proposition-ang%C3%A5ende-styrelseposten-sekreterare-reglemente.pdf)
+- [Proposition angående styrelseposten sekreterare, stadgar](/docs/2018/01/Proposition-ang%C3%A5ende-styrelseposten-sekreterare-stadgar.pdf)
+- [Proposition angående sektionsaktivas sektionstillhörighet](/docs/2018/01/Proposition-ang%C3%A5ende-sektionsaktivas-sektionstillh%C3%B6righet.pdf)
+- [Proposition angående tystnadsplikt](/docs/2018/01/Proposition-ang%C3%A5ende-tystnadsplikt.pdf)
 
 ### Motioner
 
-- [Motion angående ett bildande av CaseGrupp](https://d-sektionen.se/wp-content/uploads/2018/01/Motion-angående-ett-bildande-av-CaseGrupp.pdf)
-    - [Styrelsens motionssvar angående ett bildande av CaseGrupp](https://d-sektionen.se/wp-content/uploads/2018/01/Motionssvar-angående-ett-bildande-av-CaseGrupp.pdf)
-- [Motion angående budgettillskott Werkmästeriet](https://d-sektionen.se/wp-content/uploads/2018/01/wrk-motion-vintermöte-2018.pdf)
-    - [Tillhörande budgetförslag](https://d-sektionen.se/wp-content/uploads/2018/01/Proposition-Vintermöte.xlsx)
-    - [Styrelsens motionssvar angående budgettillskott Werkmästeriet](https://d-sektionen.se/wp-content/uploads/2018/01/Motionssvar-angående-budgettillskott-Werkmästeriet.pdf)
-- [Motion angående förtydligande av valberedningens uppdrag](https://d-sektionen.se/wp-content/uploads/2018/01/Motion-angående-förtydligande-av-valberedningens-uppdrag.pdf)
-    - [Styrelsens motionssvar angående förtydligande av valberedningens uppdrag](https://d-sektionen.se/wp-content/uploads/2018/01/Motionssvar-angående-förtydligande-av-valberedningens-uppdrag.pdf)
-- [Motion angående Barbas färger](https://d-sektionen.se/wp-content/uploads/2018/01/Motion-angående-Barbas-färger.pdf)
-    - [Styrelsens motionssvar angående Barbas färger](https://d-sektionen.se/wp-content/uploads/2018/01/Motionssvar-angående-Barbas-färger.pdf)
-- [Motion angående utökad sektionsstyrelse](https://d-sektionen.se/wp-content/uploads/2018/01/Motion-angående-utökad-sektionsstyrelse.pdf)
-    - [Styrelsens motionssvar angående utökad sektionsstyrelse](https://d-sektionen.se/wp-content/uploads/2018/01/Motionssvar-angående-utökad-sektionsstyrelse.pdf)
-- [Motion angående internationalisering av sektionshemsidan](https://d-sektionen.se/wp-content/uploads/2018/01/Motion-angående-internationalisering-av-sektionshemsidan.pdf)
-    - [Styrelsens motionssvar angående internationalisering av sektionshemsidan](https://d-sektionen.se/wp-content/uploads/2018/01/Motionssvar-angående-internationalisering-av-sektionshemsidan.pdf)
-- [Motion angående Donnas aktivitet under nolleperioden](https://d-sektionen.se/wp-content/uploads/2018/01/Motion-angående-Donnas-aktivitet-under-nolleperioden.pdf)
-    - [Styrelsens motionssvar angående Donnas aktivitet under nolleperioden](https://d-sektionen.se/wp-content/uploads/2018/01/Motionssvar-angående-Donnas-aktivitet-under-nolleperioden.pdf)
+- [Motion angående ett bildande av CaseGrupp](/docs/2018/01/Motion-ang%C3%A5ende-ett-bildande-av-CaseGrupp.pdf)
+    - [Styrelsens motionssvar angående ett bildande av CaseGrupp](/docs/2018/01/Motionssvar-ang%C3%A5ende-ett-bildande-av-CaseGrupp.pdf)
+- [Motion angående budgettillskott Werkmästeriet](/docs/2018/01/wrk-motion-vinterm%C3%B6te-2018.pdf)
+    - [Tillhörande budgetförslag](/docs/2018/01/Proposition-Vinterm%C3%B6te.xlsx)
+    - [Styrelsens motionssvar angående budgettillskott Werkmästeriet](/docs/2018/01/Motionssvar-ang%C3%A5ende-budgettillskott-Werkm%C3%A4steriet.pdf)
+- [Motion angående förtydligande av valberedningens uppdrag](/docs/2018/01/Motion-ang%C3%A5ende-f%C3%B6rtydligande-av-valberedningens-uppdrag.pdf)
+    - [Styrelsens motionssvar angående förtydligande av valberedningens uppdrag](/docs/2018/01/Motionssvar-ang%C3%A5ende-f%C3%B6rtydligande-av-valberedningens-uppdrag.pdf)
+- [Motion angående Barbas färger](/docs/2018/01/Motion-ang%C3%A5ende-Barbas-f%C3%A4rger.pdf)
+    - [Styrelsens motionssvar angående Barbas färger](/docs/2018/01/Motionssvar-ang%C3%A5ende-Barbas-f%C3%A4rger.pdf)
+- [Motion angående utökad sektionsstyrelse](/docs/2018/01/Motion-ang%C3%A5ende-ut%C3%B6kad-sektionsstyrelse.pdf)
+    - [Styrelsens motionssvar angående utökad sektionsstyrelse](/docs/2018/01/Motionssvar-ang%C3%A5ende-ut%C3%B6kad-sektionsstyrelse.pdf)
+- [Motion angående internationalisering av sektionshemsidan](/docs/2018/01/Motion-ang%C3%A5ende-internationalisering-av-sektionshemsidan.pdf)
+    - [Styrelsens motionssvar angående internationalisering av sektionshemsidan](/docs/2018/01/Motionssvar-ang%C3%A5ende-internationalisering-av-sektionshemsidan.pdf)
+- [Motion angående Donnas aktivitet under nolleperioden](/docs/2018/01/Motion-ang%C3%A5ende-Donnas-aktivitet-under-nolleperioden.pdf)
+    - [Styrelsens motionssvar angående Donnas aktivitet under nolleperioden](/docs/2018/01/Motionssvar-ang%C3%A5ende-Donnas-aktivitet-under-nolleperioden.pdf)
 
 ## Anmälan
 

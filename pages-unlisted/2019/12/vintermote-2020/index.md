@@ -33,17 +33,17 @@ D-sektionens förmöte:
 
 Föreslagen motions- & propositionsordning:
 
-1. [Motion angående ändring av Valberedningens organisation](https://d-sektionen.se/wp-content/uploads/2020/01/MotionValberedningensOrganisation.pdf)
-2. [Proposition angående sektionsaktivas åtaganden](https://d-sektionen.se/wp-content/uploads/2020/01/Proposition-ang%C3%A5ende-sektionsaktivas-%C3%A5taganden.pdf)
-3. [Proposition angående deadline för inskickning av propositioner och motioner](https://d-sektionen.se/wp-content/uploads/2020/01/Proposition-ang%C3%A5ende-deadline-f%C3%B6r-inskickning-av-propositioner-och-motioner.pdf)
+1. [Motion angående ändring av Valberedningens organisation](/docs/2020/01/MotionValberedningensOrganisation.pdf)
+2. [Proposition angående sektionsaktivas åtaganden](/docs/2020/01/Proposition-ang%C3%A5ende-sektionsaktivas-%C3%A5taganden.pdf)
+3. [Proposition angående deadline för inskickning av propositioner och motioner](/docs/2020/01/Proposition-ang%C3%A5ende-deadline-f%C3%B6r-inskickning-av-propositioner-och-motioner.pdf)
 
 ## Protokoll
 
-[Protokoll D-sektionens vintermöte 2020](https://d-sektionen.se/wp-content/uploads/2020/02/protokoll-vintermote-2020.pdf)
+[Protokoll D-sektionens vintermöte 2020](/docs/2020/02/protokoll-vintermote-2020.pdf)
 
 ## Föredragningslista
 
-[Slutgiltig föredragningslista D-sektionens vintermöte 2020](https://d-sektionen.se/wp-content/uploads/2020/01/Slutgiltig-föredragningslista-vintermöte-2020.pdf)
+[Slutgiltig föredragningslista D-sektionens vintermöte 2020](/docs/2020/01/Slutgiltig-f%C3%B6redragningslista-vinterm%C3%B6te-2020.pdf)
 
 ## Nomineringar
 
@@ -86,12 +86,12 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 
 ## Dokument
 
-- [Kallelse](https://d-sektionen.se/wp-content/uploads/2020/01/Kallelse-vintermöte-2020.pdf)
+- [Kallelse](/docs/2020/01/Kallelse-vinterm%C3%B6te-2020.pdf)
 - [Stadgar](https://styrdokument.d-sektionen.se/stadgar.pdf)
-- [Reglemente](https://d-sektionen.se/wp-content/uploads/2019/12/Reglemente_19-20_v2.pdf)
-- [Motionsmall pdf](https://d-sektionen.se/wp-content/uploads/2019/12/Motionsmall-D-sektionen-2020.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2019/12/Motionsmall-D-sektionen-2020.odt), [docx](https://d-sektionen.se/wp-content/uploads/2019/12/Motionsmall-D-sektionen-2020.docx)
-- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](https://d-sektionen.se/wp-content/uploads/2019/10/elektroniskrostningpolicy.pdf)
-- [Process för inval av ledamöter](https://d-sektionen.se/wp-content/uploads/2020/01/Process-för-inval-av-ledamöter.pdf)
+- [Reglemente](/docs/2019/12/Reglemente_19-20_v2.pdf)
+- [Motionsmall pdf](/docs/2019/12/Motionsmall-D-sektionen-2020.pdf), [odt](/docs/2019/12/Motionsmall-D-sektionen-2020.odt), [docx](/docs/2019/12/Motionsmall-D-sektionen-2020.docx)
+- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](/docs/2019/10/elektroniskrostningpolicy.pdf)
+- [Process för inval av ledamöter](/docs/2020/01/Process-f%C3%B6r-inval-av-ledam%C3%B6ter.pdf)
 
 ## Inkomna dokument
 
@@ -103,20 +103,20 @@ Inga dokument inkomna ännu.
 
 Vid andra läsningen av stadgeändringen kan det vid förra mötet antagna stadgeändringsförslaget endast bifallas eller avslås.
 
-- [Motion angående korrigering av stadgar](https://d-sektionen.se/wp-content/uploads/2019/10/Motion-om-korrigering-av-Stadgar.pdf)
-    - [Motionssvar från höstmötet 2019 angående korrigering av stadgar](https://d-sektionen.se/wp-content/uploads/2019/11/Motionssvar-ang%C3%A5ende-korrigering-av-stadgar.pdf)
-- [Motion angående uppdelning av webb-/infoutskottet, stadgeändring](https://d-sektionen.se/wp-content/uploads/2019/11/Motion-ang%C3%A5ende-uppdelning-av-webb-_infoutskottet-stadge%C3%A4ndring.pdf)
-    - [Motionssvar från höstmötet 2019 angående uppdelning av webb-/infoutskottet, stadgeändring](https://d-sektionen.se/wp-content/uploads/2019/11/Motionssvar-ang%C3%A5ende-uppdelning-av-webb-_Infoutskottet-stadge%C3%A4ndring.pdf)
+- [Motion angående korrigering av stadgar](/docs/2019/10/Motion-om-korrigering-av-Stadgar.pdf)
+    - [Motionssvar från höstmötet 2019 angående korrigering av stadgar](/docs/2019/11/Motionssvar-ang%C3%A5ende-korrigering-av-stadgar.pdf)
+- [Motion angående uppdelning av webb-/infoutskottet, stadgeändring](/docs/2019/11/Motion-ang%C3%A5ende-uppdelning-av-webb-_infoutskottet-stadge%C3%A4ndring.pdf)
+    - [Motionssvar från höstmötet 2019 angående uppdelning av webb-/infoutskottet, stadgeändring](/docs/2019/11/Motionssvar-ang%C3%A5ende-uppdelning-av-webb-_Infoutskottet-stadge%C3%A4ndring.pdf)
 
 ### Motioner
 
-- [Motion angående ändring av Valberedningens organisation](https://d-sektionen.se/wp-content/uploads/2020/01/MotionValberedningensOrganisation.pdf)
-    - [Motionssvar angående ändring av Valberedningens organisation](https://d-sektionen.se/wp-content/uploads/2020/01/Motionssvar-angående-ändring-av-Valberedningens-organisation.pdf)
+- [Motion angående ändring av Valberedningens organisation](/docs/2020/01/MotionValberedningensOrganisation.pdf)
+    - [Motionssvar angående ändring av Valberedningens organisation](/docs/2020/01/Motionssvar-ang%C3%A5ende-%C3%A4ndring-av-Valberedningens-organisation.pdf)
 
 ### Propositioner
 
-- [Proposition angående sektionsaktivas åtaganden](https://d-sektionen.se/wp-content/uploads/2020/01/Proposition-angående-sektionsaktivas-åtaganden.pdf)
-- [Proposition angående deadline för inskickning av propositioner och motioner](https://d-sektionen.se/wp-content/uploads/2020/01/Proposition-angående-deadline-för-inskickning-av-propositioner-och-motioner.pdf)
+- [Proposition angående sektionsaktivas åtaganden](/docs/2020/01/Proposition-ang%C3%A5ende-sektionsaktivas-%C3%A5taganden.pdf)
+- [Proposition angående deadline för inskickning av propositioner och motioner](/docs/2020/01/Proposition-ang%C3%A5ende-deadline-f%C3%B6r-inskickning-av-propositioner-och-motioner.pdf)
 
 ## Anmälan
 

@@ -3,7 +3,7 @@ title: "Vårmöte 2017"
 date: 2017-03-27
 ---
 
-**Protokoll för vårmötet 2017 finns nu under Sektionsdokument > Aktuella dokument** Eller via denna länk: [Protokoll D-sektionens vårmöte 2017](https://d-sektionen.se/wp-content/uploads/2015/06/prot_varmote_17.pdf)
+**Protokoll för vårmötet 2017 finns nu under Sektionsdokument > Aktuella dokument** Eller via denna länk: [Protokoll D-sektionens vårmöte 2017](/docs/2015/06/prot_varmote_17.pdf)
 
 Vårmötet är den 3:e maj klockan 17:00 i sal C1.
 
@@ -48,7 +48,7 @@ Mötet kommer också att, enligt sektionens stadgar §5.5, besluta om inkomna mo
 
 ## Slutgiltig föredragningslista
 
-- [Föredragningslista för D-sektionens vårmöte 2017](https://d-sektionen.se/wp-content/uploads/2017/03/foredrag_vmote_2017_final.pdf)
+- [Föredragningslista för D-sektionens vårmöte 2017](/docs/2017/03/foredrag_vmote_2017_final.pdf)
     
     ## Nomineringar
     
@@ -88,19 +88,19 @@ Mötet kommer också att, enligt sektionens stadgar §5.5, besluta om inkomna mo
     
     ## Dokument
     
-    [Reglemente](https://d-sektionen.se/wp-content/uploads/2016/05/Datateknologsektionens-reglemente-16-17.pdf) [Förslag till reglemente 17/18](https://d-sektionen.se/wp-content/uploads/2017/03/Datateknologsektionensreglemente1718.pdf) [Stadgar](https://d-sektionen.se/wp-content/uploads/2015/06/d-sek-stadgar104.pdf) [Motionsmall pdf](https://d-sektionen.se/wp-content/uploads/2015/10/Datateknologsektionen-motionsmall.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2015/10/Datateknologsektionen-motionsmall.odt), [docx](https://d-sektionen.se/wp-content/uploads/2015/10/Datateknologsektionen-motionsmall.docx)
+    [Reglemente](/docs/2016/05/Datateknologsektionens-reglemente-16-17.pdf) [Förslag till reglemente 17/18](/docs/2017/03/Datateknologsektionensreglemente1718.pdf) [Stadgar](/docs/2015/06/d-sek-stadgar104.pdf) [Motionsmall pdf](/docs/2015/10/Datateknologsektionen-motionsmall.pdf), [odt](/docs/2015/10/Datateknologsektionen-motionsmall.odt), [docx](/docs/2015/10/Datateknologsektionen-motionsmall.docx)
     
     ## Inkomna dokument
     
-    - [Budget DONNA 17/18](https://d-sektionen.se/wp-content/uploads/2017/03/DONNA1718_budget.pdf)
-    - [Budget STABEN 17/18](https://d-sektionen.se/wp-content/uploads/2017/03/budget_staben_1718.pdf)
-    - [Budget D-Group 17/18](https://d-sektionen.se/wp-content/uploads/2017/03/budget_dgroup_1718.pdf)
-    - [Budget D-sektionen 17/18](https://d-sektionen.se/wp-content/uploads/2017/03/budget_sektionen_1718.pdf)
-    - [Budget AktU 17/18](https://d-sektionen.se/wp-content/uploads/2017/03/budget_aktu_1718.pdf)
-    - [Budget LINK 17/18](https://d-sektionen.se/wp-content/uploads/2017/03/budget_link_1718.pdf)
-    - [Verksamhetsberättelse STABEN 15/16](https://d-sektionen.se/wp-content/uploads/2017/03/verkberatt_staben_1516.pdf)
-    - [Resultatrapport STABEN 15/16](https://d-sektionen.se/wp-content/uploads/2017/03/Resultatrapport-STABEN1516.pdf)
-    - [Balansrapport STABEN 15/16](https://d-sektionen.se/wp-content/uploads/2017/03/Balansrapport-STABEN1516.pdf)
+    - [Budget DONNA 17/18](/docs/2017/03/DONNA1718_budget.pdf)
+    - [Budget STABEN 17/18](/docs/2017/03/budget_staben_1718.pdf)
+    - [Budget D-Group 17/18](/docs/2017/03/budget_dgroup_1718.pdf)
+    - [Budget D-sektionen 17/18](/docs/2017/03/budget_sektionen_1718.pdf)
+    - [Budget AktU 17/18](/docs/2017/03/budget_aktu_1718.pdf)
+    - [Budget LINK 17/18](/docs/2017/03/budget_link_1718.pdf)
+    - [Verksamhetsberättelse STABEN 15/16](/docs/2017/03/verkberatt_staben_1516.pdf)
+    - [Resultatrapport STABEN 15/16](/docs/2017/03/Resultatrapport-STABEN1516.pdf)
+    - [Balansrapport STABEN 15/16](/docs/2017/03/Balansrapport-STABEN1516.pdf)
     
     ## Motioner/propositioner
     

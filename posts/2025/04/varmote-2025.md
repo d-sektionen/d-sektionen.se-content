@@ -27,13 +27,13 @@ Glöm dessutom inte att du är mer än välkommen att _skicka in motioner_. Det
 
 ## Protokoll
 
-[Protokoll Vårmöte 2025](https://d-sektionen.se/wp-content/uploads/2025/05/Varmote-2025-protokoll-signerat.pdf)
+[Protokoll Vårmöte 2025](/docs/2025/05/Varmote-2025-protokoll-signerat.pdf)
 
 ## Föredragningslista
 
-[Preliminär Föredragningslista](https://d-sektionen.se/wp-content/uploads/2025/04/Preliminar_foredragningslista-varmote-2025.pdf)
+[Preliminär Föredragningslista](/docs/2025/04/Preliminar_foredragningslista-varmote-2025.pdf)
 
-[Slutgiltig Föredragningslista](https://d-sektionen.se/wp-content/uploads/2025/04/Slutgiltig_foredragningslista_varmote_2025.pdf)
+[Slutgiltig Föredragningslista](/docs/2025/04/Slutgiltig_foredragningslista_varmote_2025.pdf)
 
 ## Nomineringar
 
@@ -103,24 +103,24 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 
 ## Dokument
 
-- [Kallelse Vårmöte 2025](https://d-sektionen.se/wp-content/uploads/2025/04/Kallelse_varmote_2025.pdf)
+- [Kallelse Vårmöte 2025](/docs/2025/04/Kallelse_varmote_2025.pdf)
 
-- [Måldokument 24/25](https://d-sektionen.se/wp-content/uploads/2024/12/Maldokument-24_25.pdf)
+- [Måldokument 24/25](/docs/2024/12/Maldokument-24_25.pdf)
 
 - [Stadgar](https://styrdokument.d-sektionen.se/stadgar.pdf)
 
-- [Reglemente](https://d-sektionen.se/wp-content/uploads/2025/01/reglemente-2025_01_17.pdf)
+- [Reglemente](/docs/2025/01/reglemente-2025_01_17.pdf)
 
-- Motionsmall [pdf](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.odt), [docx](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.docx)
+- Motionsmall [pdf](/docs/2019/10/Motionsmall-D-sektionen-2019.pdf), [odt](/docs/2019/10/Motionsmall-D-sektionen-2019.odt), [docx](/docs/2019/10/Motionsmall-D-sektionen-2019.docx)
 
-- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](https://d-sektionen.se/wp-content/uploads/2019/10/elektroniskrostningpolicy.pdf)
+- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](/docs/2019/10/elektroniskrostningpolicy.pdf)
 
 ## Inkomna dokument
 
-[Styrbudget](https://d-sektionen.se/wp-content/uploads/2025/04/Styrbudget_Varmote_2025.pdf)
+[Styrbudget](/docs/2025/04/Styrbudget_Varmote_2025.pdf)
 
-[Detaljbudget](https://d-sektionen.se/wp-content/uploads/2025/04/Detaljbudget_Varmote_2025.pdf)
+[Detaljbudget](/docs/2025/04/Detaljbudget_Varmote_2025.pdf)
 
 ## Motioner och Propositioner
 
-[Motion - Tidpunkt av Valberedningens inval](https://d-sektionen.se/wp-content/uploads/2025/04/motion-tidpunkt-inval-valleb-ordf.odt)
+[Motion - Tidpunkt av Valberedningens inval](/docs/2025/04/motion-tidpunkt-inval-valleb-ordf.odt)

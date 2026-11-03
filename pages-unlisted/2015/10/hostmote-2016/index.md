@@ -37,13 +37,13 @@ Valberedningen har nominerat följande:
 
 ## Dokument
 
-[Reglemente](https://d-sektionen.se/wp-content/uploads/2016/05/Datateknologsektionens-reglemente-16-17.pdf)
+[Reglemente](/docs/2016/05/Datateknologsektionens-reglemente-16-17.pdf)
 
-[Stadgar](https://d-sektionen.se/wp-content/uploads/2016/03/Datateknologsektionens-stadgar-v1-03.pdf)
+[Stadgar](/docs/2016/03/Datateknologsektionens-stadgar-v1-03.pdf)
 
-[Motionsmall pdf](https://d-sektionen.se/wp-content/uploads/2015/10/Datateknologsektionen-motionsmall.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2015/10/Datateknologsektionen-motionsmall.odt), [docx](https://d-sektionen.se/wp-content/uploads/2015/10/Datateknologsektionen-motionsmall.docx)
+[Motionsmall pdf](/docs/2015/10/Datateknologsektionen-motionsmall.pdf), [odt](/docs/2015/10/Datateknologsektionen-motionsmall.odt), [docx](/docs/2015/10/Datateknologsektionen-motionsmall.docx)
 
-[Exempelmotion](https://d-sektionen.se/wp-content/uploads/2015/10/motion-ang%C3%A5ende-flytt-av-val-av-tjejf%C3%B6reningens-ordf%C3%B6rande-och-kass%C3%B6r.pdf)
+[Exempelmotion](/docs/2015/10/motion-ang%C3%A5ende-flytt-av-val-av-tjejf%C3%B6reningens-ordf%C3%B6rande-och-kass%C3%B6r.pdf)
 
 ## Inkomna dokument
 

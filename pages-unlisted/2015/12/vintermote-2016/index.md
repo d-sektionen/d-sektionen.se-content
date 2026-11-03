@@ -9,7 +9,7 @@ Motioner och eventuella punkter till mötet ska senast vara inkomna till sekrete
 
 När: 1:a februari 17:15 Var: C2 i C-huset
 
-[FAQ](/wp-content/uploads/2016/02/FAQ.pdf)
+[FAQ](/docs/2016/02/FAQ.pdf)
 
 ## Nomineringar
 
@@ -24,24 +24,24 @@ När: 1:a februari 17:15 Var: C2 i C-huset
 
 Aktuella Stadgar och Reglemente ser du under Sektionsdokument.
 
-- [Föredragningslista för D-sektionens vintermöte 2016 - uppdaterad](/wp-content/uploads/2016/02/Föredragningslista-uppdaterad.pdf)
-- [Proposition angående namnbyte på Studentrådet](/wp-content/uploads/2015/12/Proposition-angående-namnbyte-på-Studentrådet.pdf)
-- [Proposition ansvarsfrihet Arbetsmarknadsgruppen](/wp-content/uploads/2016/01/PropositionansvarsfrihetArbetsmarknadsgruppen.pdf)
-- [Motionsmall pdf](https://d-sektionen.se/wp-content/uploads/2015/10/Datateknologsektionen-motionsmall.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2015/10/Datateknologsektionen-motionsmall.odt), [docx](https://d-sektionen.se/wp-content/uploads/2015/10/Datateknologsektionen-motionsmall.docx)
-- [Exempelmotion](https://d-sektionen.se/wp-content/uploads/2015/10/motion-ang%C3%A5ende-flytt-av-val-av-tjejf%C3%B6reningens-ordf%C3%B6rande-och-kass%C3%B6r.pdf)
+- [Föredragningslista för D-sektionens vintermöte 2016 - uppdaterad](/docs/2016/02/F%C3%B6redragningslista-uppdaterad.pdf)
+- [Proposition angående namnbyte på Studentrådet](/docs/2015/12/Proposition-ang%C3%A5ende-namnbyte-p%C3%A5-Studentr%C3%A5det.pdf)
+- [Proposition ansvarsfrihet Arbetsmarknadsgruppen](/docs/2016/01/PropositionansvarsfrihetArbetsmarknadsgruppen.pdf)
+- [Motionsmall pdf](/docs/2015/10/Datateknologsektionen-motionsmall.pdf), [odt](/docs/2015/10/Datateknologsektionen-motionsmall.odt), [docx](/docs/2015/10/Datateknologsektionen-motionsmall.docx)
+- [Exempelmotion](/docs/2015/10/motion-ang%C3%A5ende-flytt-av-val-av-tjejf%C3%B6reningens-ordf%C3%B6rande-och-kass%C3%B6r.pdf)
 
 ### Staben 14/15
 
-- [Verksamhetsberättelse](/wp-content/uploads/2016/01/Verksamhetsberättelse-STABEN-14-15.pdf)
-- [Resultatrapport](/wp-content/uploads/2016/02/ResultatrapportSTABEN1415.pdf)
-- [Ekonomisk Berättelse](/wp-content/uploads/2016/02/Ekonomisk-Berättelse-STABEN-14-15.pdf)
-- [Budgetjämförelse](/wp-content/uploads/2016/02/BudgetjämförelseSTABEN1415.pdf)
-- [Balansrapport](/wp-content/uploads/2016/02/BalansrapportSTABEN1415.pdf)
+- [Verksamhetsberättelse](/docs/2016/01/Verksamhetsber%C3%A4ttelse-STABEN-14-15.pdf)
+- [Resultatrapport](/docs/2016/02/ResultatrapportSTABEN1415.pdf)
+- [Ekonomisk Berättelse](/docs/2016/02/Ekonomisk-Ber%C3%A4ttelse-STABEN-14-15.pdf)
+- [Budgetjämförelse](/docs/2016/02/Budgetj%C3%A4mf%C3%B6relseSTABEN1415.pdf)
+- [Balansrapport](/docs/2016/02/BalansrapportSTABEN1415.pdf)
 
 ### Donna 13/14
 
-- - [Verksamhetsberättelse](/wp-content/uploads/2016/01/Verksamhetsberättelse-Donna-13-14.pdf)
-    - [Resultatrapport](/wp-content/uploads/2016/02/Donna-1314-Resultatrapport.pdf)
+- - [Verksamhetsberättelse](/docs/2016/01/Verksamhetsber%C3%A4ttelse-Donna-13-14.pdf)
+    - [Resultatrapport](/docs/2016/02/Donna-1314-Resultatrapport.pdf)
 
 </ul
 

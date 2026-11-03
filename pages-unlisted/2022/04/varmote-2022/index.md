@@ -14,23 +14,23 @@ Observera att mycket information kommer läggas till under de kommande veckorna,
 
 ## Protokoll
 
-[Protokoll vårmöte 2022](https://d-sektionen.se/wp-content/uploads/2022/05/protokoll_varmote_2022.pdf)
+[Protokoll vårmöte 2022](/docs/2022/05/protokoll_varmote_2022.pdf)
 
 ## Föredragningslista
 
-[Slutgiltig föredragningslista](https://d-sektionen.se/wp-content/uploads/2022/04/slutgiltig_foredragningslista_varmote_2022.pdf)
+[Slutgiltig föredragningslista](/docs/2022/04/slutgiltig_foredragningslista_varmote_2022.pdf)
 
 ## Dokument
 
-- [Kallelse](https://d-sektionen.se/wp-content/uploads/2022/04/kallelse_varmote.pdf)
+- [Kallelse](/docs/2022/04/kallelse_varmote.pdf)
 - [Stadgar](http://styrdokument.d-sektionen.se/stadgar.pdf)
 - [Reglemente](http://styrdokument.d-sektionen.se/reglemente.pdf)
-- Motionsmall [pdf](https://d-sektionen.se/wp-content/uploads/2019/12/Motionsmall-D-sektionen-2020.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2019/12/Motionsmall-D-sektionen-2020.odt), [docx](https://d-sektionen.se/wp-content/uploads/2019/12/Motionsmall-D-sektionen-2020.docx)
-- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](https://d-sektionen.se/wp-content/uploads/2019/10/elektroniskrostningpolicy.pdf)
+- Motionsmall [pdf](/docs/2019/12/Motionsmall-D-sektionen-2020.pdf), [odt](/docs/2019/12/Motionsmall-D-sektionen-2020.odt), [docx](/docs/2019/12/Motionsmall-D-sektionen-2020.docx)
+- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](/docs/2019/10/elektroniskrostningpolicy.pdf)
 
 ## Inkomna dokument
 
-[Sektionsbudget 21/22](https://d-sektionen.se/wp-content/uploads/2022/04/D-sektionen_rambudget_22_23.pdf)
+[Sektionsbudget 21/22](/docs/2022/04/D-sektionen_rambudget_22_23.pdf)
 
 ## Motioner och propositioner
 

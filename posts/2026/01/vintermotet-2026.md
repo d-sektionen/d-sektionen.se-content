@@ -25,13 +25,13 @@ Glöm dessutom inte att du är mer än välkommen att _skicka in motioner_. Det
 
 ## Protokoll
 
-[Protokoll vintermöte 2026](https://d-sektionen.se/wp-content/uploads/2026/04/vintermöte-2026.pdf)
+[Protokoll vintermöte 2026](/docs/2026/04/vinterm%C3%B6te-2026.pdf)
 
 ## Föredragningslista
 
-[Preliminär föredragningslista](https://d-sektionen.se/wp-content/uploads/2025/01/Preliminar_foredragningslista_vintermote_2025.pdf)
+[Preliminär föredragningslista](/docs/2025/01/Preliminar_foredragningslista_vintermote_2025.pdf)
 
-[Slutgiltig föredragningslista](https://d-sektionen.se/wp-content/uploads/2026/02/Slutgiltig_foredragningslista-1.pdf)
+[Slutgiltig föredragningslista](/docs/2026/02/Slutgiltig_foredragningslista-1.pdf)
 
 ## Nomineringar
 
@@ -87,17 +87,17 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 
 ## Dokument
 
-[Kallelse Vintermöte 2026](https://d-sektionen.se/wp-content/uploads/2026/01/Kallelse_till_vintermote-4.pdf)
+[Kallelse Vintermöte 2026](/docs/2026/01/Kallelse_till_vintermote-4.pdf)
 
-[Måldokument 25/26](https://d-sektionen.se/wp-content/uploads/2024/12/Maldokument-24_25.pdf)
+[Måldokument 25/26](/docs/2024/12/Maldokument-24_25.pdf)
 
-[Stadgar](https://d-sektionen.se/wp-content/uploads/2026/01/stadgar.pdf)
+[Stadgar](/docs/2026/01/stadgar.pdf)
 
-[Reglemente](https://d-sektionen.se/wp-content/uploads/2025/01/reglemente-2025_01_17.pdf)
+[Reglemente](/docs/2025/01/reglemente-2025_01_17.pdf)
 
-Motionsmall [pdf](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.odt), [docx](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.docx)
+Motionsmall [pdf](/docs/2019/10/Motionsmall-D-sektionen-2019.pdf), [odt](/docs/2019/10/Motionsmall-D-sektionen-2019.odt), [docx](/docs/2019/10/Motionsmall-D-sektionen-2019.docx)
 
-[Policy för elektroniskt röstningssystem i samband med sektionsmöten](https://d-sektionen.se/wp-content/uploads/2019/10/elektroniskrostningpolicy.pdf)
+[Policy för elektroniskt röstningssystem i samband med sektionsmöten](/docs/2019/10/elektroniskrostningpolicy.pdf)
 
 ## Inkomna dokument
 
@@ -105,10 +105,10 @@ Inga inkommna dokument
 
 ## _**Verksamhetsberättelser 24/25:**_
 
-[Sakrevisions-Berättelse-24/25-vintermöte2026](https://d-sektionen.se/wp-content/uploads/2026/01/Sakrevisions-Berättelse-24_25-Vintermöte-2026-1.pdf)
+[Sakrevisions-Berättelse-24/25-vintermöte2026](/docs/2026/01/Sakrevisions-Ber%C3%A4ttelse-24_25-Vinterm%C3%B6te-2026-1.pdf)
 
-[Donna-24/25 verksamhetsberättelse](https://d-sektionen.se/wp-content/uploads/2026/01/Donna-2024_2025-verksamhetsberättelse.pdf)
+[Donna-24/25 verksamhetsberättelse](/docs/2026/01/Donna-2024_2025-verksamhetsber%C3%A4ttelse.pdf)
 
 ## Motioner och Propositioner
 
-[Proposition angående sektionskassörens åligganden](https://d-sektionen.se/wp-content/uploads/2025/11/Proposition-Kassorens-aligganden.pdf)
+[Proposition angående sektionskassörens åligganden](/docs/2025/11/Proposition-Kassorens-aligganden.pdf)

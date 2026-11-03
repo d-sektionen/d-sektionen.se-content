@@ -26,7 +26,7 @@ Sektionerna är till för att förgylla din tillvaro som student. Till varje utb
 
 ### Datateknologsektionen
 
-Tack vare sektionens långa [historia](/historia/ "Historia") har vi en god status på universitetet och ett gott samarbete med näringslivet. Sektionen arbetar för att erbjuda sektionens medlemmar ett gott utbud av aktiviteter och ett nära samarbete med andra sektioner och därigenom skall ha en så bra studietid som möjligt. Sektionen arbetar på många olika plan för att förgylla studietiden. De som driver sektionens arbete är [styrelsen](/styrelsenkansli/ "Styrelsen") med mycket hälp från [kansliet](/kansli/ "Kansliet") och 15 olika utskott som representerar sektionen inom olika områden. För att visa lite mer hur det är att vara sektionsaktiv har vi tagit fram en liten [broschyr](https://d-sektionen.se/wp-content/uploads/2021/05/d-sektionen-broschyr-compressed.pdf) där vi beskriver just detta!
+Tack vare sektionens långa [historia](/historia/ "Historia") har vi en god status på universitetet och ett gott samarbete med näringslivet. Sektionen arbetar för att erbjuda sektionens medlemmar ett gott utbud av aktiviteter och ett nära samarbete med andra sektioner och därigenom skall ha en så bra studietid som möjligt. Sektionen arbetar på många olika plan för att förgylla studietiden. De som driver sektionens arbete är [styrelsen](/styrelsenkansli/ "Styrelsen") med mycket hälp från [kansliet](/kansli/ "Kansliet") och 15 olika utskott som representerar sektionen inom olika områden. För att visa lite mer hur det är att vara sektionsaktiv har vi tagit fram en liten [broschyr](/docs/2021/05/d-sektionen-broschyr-compressed.pdf) där vi beskriver just detta!
 
 ## Nolle-P
 

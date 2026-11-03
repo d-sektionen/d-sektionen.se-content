@@ -11,7 +11,7 @@ Just nu arbetar forskare vid Linköpings universitet med ett mobilstöd som ska 
 
 <!--more-->
 
-Mer information hittar du [här](https://d-sektionen.se/wp-content/uploads/2020/11/Inbjudan1.pdf)!
+Mer information hittar du [här](/docs/2020/11/Inbjudan1.pdf)!
 
 Har du frågor eller vill anmäla dig?  
 Då kan du kontakta Katarina Åsberg på [katarina.asberg@liu.se](mailto:katarina.asberg@liu.se).

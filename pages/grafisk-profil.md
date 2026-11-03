@@ -4,7 +4,7 @@ category: "Sektionen"
 date: 2019-02-13
 ---
 
-[Grafisk Profil](/wp-content/uploads/2013/10/Grafisk-Profil.pdf)
+[Grafisk Profil](/docs/2013/10/Grafisk-Profil.pdf)
 
 ## Art Director
 

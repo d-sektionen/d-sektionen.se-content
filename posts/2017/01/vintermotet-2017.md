@@ -3,7 +3,7 @@ title: "Vintermötet 2017"
 date: 2017-01-31
 ---
 
-Protokollet från vintermötet 2017 ligger nu uppe under [Sektionsdokument > Aktuella dokument > Protokoll D-sektionens vintermöte 2017](https://d-sektionen.se/wp-content/uploads/2015/06/protokoll_v2017.pdf).
+Protokollet från vintermötet 2017 ligger nu uppe under [Sektionsdokument > Aktuella dokument > Protokoll D-sektionens vintermöte 2017](/docs/2015/06/protokoll_v2017.pdf).
 
 Grattis till
 

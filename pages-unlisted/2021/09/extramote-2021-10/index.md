@@ -17,35 +17,35 @@ På denna sida kommer information om D-sektionens extrainsatta sektionsmöte att
 
 På grund av Styrelsens planering utifrån de nuvarande restriktioner kommer deltagande på sektionsmötet att ske över Zoom. För att mötet ska flyta på smidigt så har vi en guide, där vi beskriver hur omröstning, talarlista och mötet i sin helhet kommer fungera på distans. 
 
-[Distansmöte Datateknologsektionen – Guide](https://d-sektionen.se/wp-content/uploads/2020/11/Sektionsmöte-på-distans.pdf)
+[Distansmöte Datateknologsektionen – Guide](/docs/2020/11/Sektionsm%C3%B6te-p%C3%A5-distans.pdf)
 
 ## Protokoll
 
-[Protokoll för D-sektionens höstmöte 2020](https://d-sektionen.se/wp-content/uploads/2021/10/signerad_protokoll_extramote_ht21.pdf).
+[Protokoll för D-sektionens höstmöte 2020](/docs/2021/10/signerad_protokoll_extramote_ht21.pdf).
 
 ## Föredragningslista
 
-[Slutgiltig föredragningslista](https://d-sektionen.se/wp-content/uploads/2021/10/slutgiltig_foredragningslista_extramote-2021.pdf)
+[Slutgiltig föredragningslista](/docs/2021/10/slutgiltig_foredragningslista_extramote-2021.pdf)
 
 ## Dokument
 
-- [Kallelse](https://d-sektionen.se/wp-content/uploads/2021/09/kallelse_extramote-kopia.pdf)
+- [Kallelse](/docs/2021/09/kallelse_extramote-kopia.pdf)
 - [Stadgar](http://styrdokument.d-sektionen.se/stadgar.pdf)
 - [Reglemente](http://styrdokument.d-sektionen.se/reglemente.pdf)
-- Motionsmall [pdf](https://d-sektionen.se/wp-content/uploads/2019/12/Motionsmall-D-sektionen-2020.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2019/12/Motionsmall-D-sektionen-2020.odt), [docx](https://d-sektionen.se/wp-content/uploads/2019/12/Motionsmall-D-sektionen-2020.docx)
-- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](https://d-sektionen.se/wp-content/uploads/2019/10/elektroniskrostningpolicy.pdf)
-- [Sektionsbudget 21/22](https://d-sektionen.se/wp-content/uploads/2021/09/Sektionsbudget-21_22.pdf)
+- Motionsmall [pdf](/docs/2019/12/Motionsmall-D-sektionen-2020.pdf), [odt](/docs/2019/12/Motionsmall-D-sektionen-2020.odt), [docx](/docs/2019/12/Motionsmall-D-sektionen-2020.docx)
+- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](/docs/2019/10/elektroniskrostningpolicy.pdf)
+- [Sektionsbudget 21/22](/docs/2021/09/Sektionsbudget-21_22.pdf)
 
 ## Inkomna dokument
 
-- [Reviderad sektionsbudget 21/22](https://d-sektionen.se/wp-content/uploads/2021/09/Sektionsbudget-21_22-REVIDERAD.pdf)
+- [Reviderad sektionsbudget 21/22](/docs/2021/09/Sektionsbudget-21_22-REVIDERAD.pdf)
 
 ## Motioner och propositioner
 
 ### Motioner
 
-- [Motion angående att strukturera om Aktivitetsutskottets ledning](https://d-sektionen.se/wp-content/uploads/2021/09/Motion-angaende-att-strukturera-om-Aktivitetsutskottets-ledning3813.pdf)
-    - [Motionsvar](https://d-sektionen.se/wp-content/uploads/2021/10/Motionssvar-aktu.pdf)
+- [Motion angående att strukturera om Aktivitetsutskottets ledning](/docs/2021/09/Motion-angaende-att-strukturera-om-Aktivitetsutskottets-ledning3813.pdf)
+    - [Motionsvar](/docs/2021/10/Motionssvar-aktu.pdf)
 
 ### Propositioner
 

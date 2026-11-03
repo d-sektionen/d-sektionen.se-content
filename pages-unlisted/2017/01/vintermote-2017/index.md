@@ -3,7 +3,7 @@ title: "Vintermöte 2017"
 date: 2017-01-15
 ---
 
-**Protokollet från mötet** finns nu uppe under [Sektionsdokument > Aktuella dokument > Protokoll D-sektionens vintermöte 2017](https://d-sektionen.se/wp-content/uploads/2015/06/protokoll_v2017.pdf)
+**Protokollet från mötet** finns nu uppe under [Sektionsdokument > Aktuella dokument > Protokoll D-sektionens vintermöte 2017](/docs/2015/06/protokoll_v2017.pdf)
 
 Vintermötet är den 30:e januari klockan 17:00 i sal C2 (Notera ny sal). Motioner, verksamhetsberättelser och liknande dokument ska skickas in till [info@d-sektionen.se](mailto:info@d-sektionen.se) **senast 27:e januari.**
 
@@ -22,7 +22,7 @@ samt, enligt sektionens stadgar §5.5, att besluta om inkomna motioner/propositi
 
 ## Slutgiltig föredragningslista
 
-- [Föredragningslista](https://d-sektionen.se/wp-content/uploads/2017/01/fdl_v17.pdf)
+- [Föredragningslista](/docs/2017/01/fdl_v17.pdf)
 
 ## Nomineringar
 
@@ -45,36 +45,36 @@ Valberedningen har nominerat följande:
 
 ## Dokument
 
-[Reglemente](https://d-sektionen.se/wp-content/uploads/2016/05/Datateknologsektionens-reglemente-16-17.pdf)
+[Reglemente](/docs/2016/05/Datateknologsektionens-reglemente-16-17.pdf)
 
-[Stadgar](https://d-sektionen.se/wp-content/uploads/2015/06/d-sek-stadgar104.pdf)
+[Stadgar](/docs/2015/06/d-sek-stadgar104.pdf)
 
-[Motionsmall pdf](https://d-sektionen.se/wp-content/uploads/2015/10/Datateknologsektionen-motionsmall.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2015/10/Datateknologsektionen-motionsmall.odt), [docx](https://d-sektionen.se/wp-content/uploads/2015/10/Datateknologsektionen-motionsmall.docx)
+[Motionsmall pdf](/docs/2015/10/Datateknologsektionen-motionsmall.pdf), [odt](/docs/2015/10/Datateknologsektionen-motionsmall.odt), [docx](/docs/2015/10/Datateknologsektionen-motionsmall.docx)
 
-[Exempelmotion](https://d-sektionen.se/wp-content/uploads/2015/10/motion-ang%C3%A5ende-flytt-av-val-av-tjejf%C3%B6reningens-ordf%C3%B6rande-och-kass%C3%B6r.pdf)
+[Exempelmotion](/docs/2015/10/motion-ang%C3%A5ende-flytt-av-val-av-tjejf%C3%B6reningens-ordf%C3%B6rande-och-kass%C3%B6r.pdf)
 
 ## Inkomna dokument
 
-- Donna 15/16:- [Verksamhetsberättelse Donna 15/16](https://d-sektionen.se/wp-content/uploads/2017/01/vb_donna_1516.pdf)
-    - [Ekonomisk berättelse Donna 15/16](https://d-sektionen.se/wp-content/uploads/2017/01/eb_donna_1516.pdf)
-    - [Resultatrapport Donna 15/16](https://d-sektionen.se/wp-content/uploads/2017/01/rr_donna_1516.pdf)
-    - [Balansrapport Donna 15/16](https://d-sektionen.se/wp-content/uploads/2017/01/br_donna_1516.pdf)
-    - [Resultatrapport Donna 15/16 uppdelat](https://d-sektionen.se/wp-content/uploads/2017/01/rp_donna_1516_uppdelat.pdf)
+- Donna 15/16:- [Verksamhetsberättelse Donna 15/16](/docs/2017/01/vb_donna_1516.pdf)
+    - [Ekonomisk berättelse Donna 15/16](/docs/2017/01/eb_donna_1516.pdf)
+    - [Resultatrapport Donna 15/16](/docs/2017/01/rr_donna_1516.pdf)
+    - [Balansrapport Donna 15/16](/docs/2017/01/br_donna_1516.pdf)
+    - [Resultatrapport Donna 15/16 uppdelat](/docs/2017/01/rp_donna_1516_uppdelat.pdf)
 
 Aktivitetsutskottet 15/16:
 
-- - [Verksamhetsberättelse AktU 15/16](https://d-sektionen.se/wp-content/uploads/2017/01/vb_aktu_1516.pdf)
-    - [Ekonomisk berättelse AktU 15/16](https://d-sektionen.se/wp-content/uploads/2017/01/eb_aktu_1516.pdf)
-    - [Balansrapport AktU 15/16](https://d-sektionen.se/wp-content/uploads/2017/01/br_aktu_1516.pdf)
-    - [Resultatrapport AktU 15/16](https://d-sektionen.se/wp-content/uploads/2017/01/rp_aktu_1516.pdf)
-    - [Resultatrapport D-LAN 15/16](https://d-sektionen.se/wp-content/uploads/2017/01/rp_aktu_d-lan_1516.pdf)
+- - [Verksamhetsberättelse AktU 15/16](/docs/2017/01/vb_aktu_1516.pdf)
+    - [Ekonomisk berättelse AktU 15/16](/docs/2017/01/eb_aktu_1516.pdf)
+    - [Balansrapport AktU 15/16](/docs/2017/01/br_aktu_1516.pdf)
+    - [Resultatrapport AktU 15/16](/docs/2017/01/rp_aktu_1516.pdf)
+    - [Resultatrapport D-LAN 15/16](/docs/2017/01/rp_aktu_d-lan_1516.pdf)
 
 D-Group 15/16:
 
-- [Verksamhetsberättelse D-Group 15/16](https://d-sektionen.se/wp-content/uploads/2017/01/vb_d-group_1516.pdf)
-- [Ekonomisk berättelse D-Group 15/16](https://d-sektionen.se/wp-content/uploads/2017/01/eb_d-group_1516.pdf)
-- [Balansrapport D-Group 15/16](https://d-sektionen.se/wp-content/uploads/2017/01/br_d-group_1516.pdf)
-- [Resultatrapport D-Group 15/16](https://d-sektionen.se/wp-content/uploads/2017/01/rr_d-group_1516.pdf)
+- [Verksamhetsberättelse D-Group 15/16](/docs/2017/01/vb_d-group_1516.pdf)
+- [Ekonomisk berättelse D-Group 15/16](/docs/2017/01/eb_d-group_1516.pdf)
+- [Balansrapport D-Group 15/16](/docs/2017/01/br_d-group_1516.pdf)
+- [Resultatrapport D-Group 15/16](/docs/2017/01/rr_d-group_1516.pdf)
 
 ### Motioner/propositioner
 

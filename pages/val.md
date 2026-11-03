@@ -10,9 +10,9 @@ Till oss kan du antingen söka en post eller välja att nominera någon du tror 
 
 Har du frågor eller funderingar? Tveka inte att kontakta [val@d-sektionen.se](mailto:val@d-sektionen.se).
 
-[Valberedningens policy](https://d-sektionen.se/wp-content/uploads/2021/03/Valberednings-Policy.pdf)
+[Valberedningens policy](/docs/2021/03/Valberednings-Policy.pdf)
 
-[Valberedningens urvalsprocess](https://d-sektionen.se/wp-content/uploads/2021/03/Valberedningens-Urvalsprocess.pdf)
+[Valberedningens urvalsprocess](/docs/2021/03/Valberedningens-Urvalsprocess.pdf)
 
 ## Hur går det till?
 

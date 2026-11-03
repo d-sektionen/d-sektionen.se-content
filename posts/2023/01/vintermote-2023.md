@@ -13,9 +13,9 @@ På mötet kommer det bjudas på kvällsmat i form av pizza från mona-lisa! [An
 
 ## Föredragningslista
 
-[Föredragningslista](https://d-sektionen.se/wp-content/uploads/2023/01/f_redragslista_vinterm_te.pdf)
+[Föredragningslista](/docs/2023/01/f_redragslista_vinterm_te.pdf)
 
-[Slutgiltig föredragningslista](https://d-sektionen.se/wp-content/uploads/2023/01/f_redragslista_vinterm_te-1.pdf)
+[Slutgiltig föredragningslista](/docs/2023/01/f_redragslista_vinterm_te-1.pdf)
 
 ## Nomineringar
 
@@ -58,17 +58,17 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 
 ## Dokument
 
-- [Kallelse](https://d-sektionen.se/wp-content/uploads/2023/01/Kallelse_vinterm_te.pdf)
+- [Kallelse](/docs/2023/01/Kallelse_vinterm_te.pdf)
 - [Stadgar](http://styrdokument.d-sektionen.se/stadgar.pdf)
 - [Reglemente](http://styrdokument.d-sektionen.se/reglemente.pdf)
-- Motionsmall [pdf](https://d-sektionen.se/wp-content/uploads/2019/12/Motionsmall-D-sektionen-2020.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2019/12/Motionsmall-D-sektionen-2020.odt), [docx](https://d-sektionen.se/wp-content/uploads/2019/12/Motionsmall-D-sektionen-2020.docx)
-- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](https://d-sektionen.se/wp-content/uploads/2019/10/elektroniskrostningpolicy.pdf)
+- Motionsmall [pdf](/docs/2019/12/Motionsmall-D-sektionen-2020.pdf), [odt](/docs/2019/12/Motionsmall-D-sektionen-2020.odt), [docx](/docs/2019/12/Motionsmall-D-sektionen-2020.docx)
+- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](/docs/2019/10/elektroniskrostningpolicy.pdf)
 
 ## Inkomna dokument
 
-- [Budgetrevidering](https://d-sektionen.se/wp-content/uploads/2023/01/Budgetrevidering-vintermotet-2023-combined.pdf)
+- [Budgetrevidering](/docs/2023/01/Budgetrevidering-vintermotet-2023-combined.pdf)
 
 ## Motioner och propositioner
 
-- [Motion angående uppdatering av reglemente kring ekonomisk verksamhet](https://d-sektionen.se/wp-content/uploads/2023/01/Motion-om-uppdatering-av-reglemete-kring-ekonomisk-verksamhet.pdf)
-    - [Motionssvar](https://d-sektionen.se/wp-content/uploads/2023/01/Motionssvar_-Motion-angaende-uppdatering-av-reglemente-kring-ekonomisk-verksamhet.pdf)
+- [Motion angående uppdatering av reglemente kring ekonomisk verksamhet](/docs/2023/01/Motion-om-uppdatering-av-reglemete-kring-ekonomisk-verksamhet.pdf)
+    - [Motionssvar](/docs/2023/01/Motionssvar_-Motion-angaende-uppdatering-av-reglemente-kring-ekonomisk-verksamhet.pdf)

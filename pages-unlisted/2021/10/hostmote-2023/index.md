@@ -23,11 +23,11 @@ Glöm dessutom inte att du är mer än välkommen att _skicka in motioner_. Dett
 
 ## Protokoll
 
-[Protokoll för D-sektionens höstmöte 2023](https://d-sektionen.se/wp-content/uploads/2023/11/protokoll-hostmote-2023-signerat.pdf)
+[Protokoll för D-sektionens höstmöte 2023](/docs/2023/11/protokoll-hostmote-2023-signerat.pdf)
 
 ## Föredragningslista
 
-[Slutgiltig föredragningslista](https://d-sektionen.se/wp-content/uploads/2023/11/slutgiltig_foredragningslista_hostmote_2023.pdf)
+[Slutgiltig föredragningslista](/docs/2023/11/slutgiltig_foredragningslista_hostmote_2023.pdf)
 
 ## Nomineringar
 
@@ -43,83 +43,83 @@ Glöm dessutom inte att du är mer än välkommen att _skicka in motioner_. Dett
 
 ## Dokument
 
-- [Kallelse](https://d-sektionen.se/wp-content/uploads/2023/10/kallelse-hostmote-2023.pdf)
+- [Kallelse](/docs/2023/10/kallelse-hostmote-2023.pdf)
 
-- [Måldokument 23/24](https://d-sektionen.se/wp-content/uploads/2023/10/Måldokument-23_24.pdf)
+- [Måldokument 23/24](/docs/2023/10/M%C3%A5ldokument-23_24.pdf)
 
 - [Stadgar](https://styrdokument.d-sektionen.se/stadgar.pdf)
 
 - [Reglemente](https://styrdokument.d-sektionen.se/reglemente.pdf)
 
-- Motionsmall [pdf](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.odt), [docx](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.docx)
+- Motionsmall [pdf](/docs/2019/10/Motionsmall-D-sektionen-2019.pdf), [odt](/docs/2019/10/Motionsmall-D-sektionen-2019.odt), [docx](/docs/2019/10/Motionsmall-D-sektionen-2019.docx)
 
-- [Policy för elektronsikt röstningssystem i samband med sektionsmöten](https://d-sektionen.se/wp-content/uploads/2019/10/elektroniskrostningpolicy.pdf)
+- [Policy för elektronsikt röstningssystem i samband med sektionsmöten](/docs/2019/10/elektroniskrostningpolicy.pdf)
 
 ## Inkomna dokument
 
-- [Ekonomisk berättelse 22/23](https://d-sektionen.se/wp-content/uploads/2023/11/Ekonomisk-berattelse-22_23-1.pdf)
+- [Ekonomisk berättelse 22/23](/docs/2023/11/Ekonomisk-berattelse-22_23-1.pdf)
 
-- [Resultatrapport 22/23](https://d-sektionen.se/wp-content/uploads/2023/11/Resultatrapport_20220701-20230630_TEKNISKA-HOGSKOLAN-DATATEKNOLOGSEKTIONEN-1.pdf)
+- [Resultatrapport 22/23](/docs/2023/11/Resultatrapport_20220701-20230630_TEKNISKA-HOGSKOLAN-DATATEKNOLOGSEKTIONEN-1.pdf)
 
-- [Balansrapport 22/23](https://d-sektionen.se/wp-content/uploads/2023/11/Balansrapport_20220701-20230630_TEKNISKA-HOGSKOLAN-DATATEKNOLOGSEKTIONEN-1.pdf)
+- [Balansrapport 22/23](/docs/2023/11/Balansrapport_20220701-20230630_TEKNISKA-HOGSKOLAN-DATATEKNOLOGSEKTIONEN-1.pdf)
 
-- [Revisionberättelse 22/23](https://d-sektionen.se/wp-content/uploads/2023/11/REVISIONSBERÄTTELSE-D-sektionen-22_23.pdf)
+- [Revisionberättelse 22/23](/docs/2023/11/REVISIONSBER%C3%84TTELSE-D-sektionen-22_23.pdf)
 
-- [Budgetrevidering höstmöte 2023](https://d-sektionen.se/wp-content/uploads/2023/11/Budgetrevidering-hostmote-2023.pdf)
+- [Budgetrevidering höstmöte 2023](/docs/2023/11/Budgetrevidering-hostmote-2023.pdf)
 
-- [Sakrevisionsberättelse 22/23](https://d-sektionen.se/wp-content/uploads/2023/11/Sakrevisionsberättelse-22-23.pdf)
+- [Sakrevisionsberättelse 22/23](/docs/2023/11/Sakrevisionsber%C3%A4ttelse-22-23.pdf)
 
 - Alumniutskottet 22/23
-    - [Verksamhetsberättelse](https://d-sektionen.se/wp-content/uploads/2023/10/Verksamhetsberättelse-Alumniutskottet-22_23.pdf)
+    - [Verksamhetsberättelse](/docs/2023/10/Verksamhetsber%C3%A4ttelse-Alumniutskottet-22_23.pdf)
 
 - Arbetsmarknadsgruppen 22/23
-    - [Verksamhetsberättelse](https://d-sektionen.se/wp-content/uploads/2023/10/Verksamhetsberättelse-LINK-22_23.pdf)
+    - [Verksamhetsberättelse](/docs/2023/10/Verksamhetsber%C3%A4ttelse-LINK-22_23.pdf)
 
 - D-Group 22/23
-    - [Verksamhetsberättelse](https://d-sektionen.se/wp-content/uploads/2023/10/Verksamhetsberättelse-D-group-22_23.pdf)
+    - [Verksamhetsberättelse](/docs/2023/10/Verksamhetsber%C3%A4ttelse-D-group-22_23.pdf)
 
 - Donna 22/23
-    - [Verksamhetsberättelse](https://d-sektionen.se/wp-content/uploads/2023/10/Verksamhetsberättelse-Donna-2223.pdf)
+    - [Verksamhetsberättelse](/docs/2023/10/Verksamhetsber%C3%A4ttelse-Donna-2223.pdf)
 
 - Ekonomiutskottet 22/23
-    - [Verksamhetsberättelse](https://d-sektionen.se/wp-content/uploads/2023/10/Verksamhetsberättelse-DEG-22_23.pdf)
+    - [Verksamhetsberättelse](/docs/2023/10/Verksamhetsber%C3%A4ttelse-DEG-22_23.pdf)
 
 - Eventutskottet 22/23
-    - [Verksamhetsberättelse](https://d-sektionen.se/wp-content/uploads/2023/10/Eventutskottet-22_23-Verksamhetsberättelse.pdf)
+    - [Verksamhetsberättelse](/docs/2023/10/Eventutskottet-22_23-Verksamhetsber%C3%A4ttelse.pdf)
 
 - Marknadsföringsutskottet 22/23
-    - [Verksamhetsberättelse](https://d-sektionen.se/wp-content/uploads/2023/11/Verksamhetsberattelse-mafu-2223.pdf)
+    - [Verksamhetsberättelse](/docs/2023/11/Verksamhetsberattelse-mafu-2223.pdf)
 
 - Näringslivsutskottet 22/23
-    - [Verksamhetsberättelse](https://d-sektionen.se/wp-content/uploads/2023/10/Verksamhetsberättelse-NärU-22_23.pdf)
+    - [Verksamhetsberättelse](/docs/2023/10/Verksamhetsber%C3%A4ttelse-N%C3%A4rU-22_23.pdf)
 
 - Pubutskottet 22/23
-    - [Verksamhetsberättelse](https://d-sektionen.se/wp-content/uploads/2023/10/Verksamhetsberättelse-PubU-22_23.pdf)
+    - [Verksamhetsberättelse](/docs/2023/10/Verksamhetsber%C3%A4ttelse-PubU-22_23.pdf)
 
 - STABEN 22/23
-    - [Verksamhetsberättelse](https://d-sektionen.se/wp-content/uploads/2023/10/Verksamhetsberättelse-STABEN-2022.pdf)
+    - [Verksamhetsberättelse](/docs/2023/10/Verksamhetsber%C3%A4ttelse-STABEN-2022.pdf)
 
 - Styrelsen 22/23
-    - [Verksamhetsberättelse](https://d-sektionen.se/wp-content/uploads/2023/10/Verksamhetsberattelse-22_23-Stryet.pdf)
+    - [Verksamhetsberättelse](/docs/2023/10/Verksamhetsberattelse-22_23-Stryet.pdf)
 
 - Utbildningsutskottet 22/23
-    - [Verksamhetsberättelse](https://d-sektionen.se/wp-content/uploads/2023/10/Verksamhetsberättelse_utbu2223.pdf)
+    - [Verksamhetsberättelse](/docs/2023/10/Verksamhetsber%C3%A4ttelse_utbu2223.pdf)
 
 - Valberedningen 22/23
-    - [Verksamhetsberättelse](https://d-sektionen.se/wp-content/uploads/2023/10/Verksamhetsberättelse-Valberedningen-22_23.pdf)
+    - [Verksamhetsberättelse](/docs/2023/10/Verksamhetsber%C3%A4ttelse-Valberedningen-22_23.pdf)
 
 - Webbutskottet 22/23
-    - [Verksamhetsberättelse](https://d-sektionen.se/wp-content/uploads/2023/10/Versamhetsberättelse-WebbU-22_23.pdf)
+    - [Verksamhetsberättelse](/docs/2023/10/Versamhetsber%C3%A4ttelse-WebbU-22_23.pdf)
 
 - Werkmästeriet 22/23
-    - [Verksamhetsberättelse](https://d-sektionen.se/wp-content/uploads/2023/10/Verksamhetsberättelse-Werk-22_23.pdf)
+    - [Verksamhetsberättelse](/docs/2023/10/Verksamhetsber%C3%A4ttelse-Werk-22_23.pdf)
 
 ## Motioner och propositioner
 
 - Proposition angående revidering av styrdokument
-    - [Proposition](https://d-sektionen.se/wp-content/uploads/2023/10/proposition-angaende-revidering-av-styrdokument-hostmote-2023.docx.pdf)
+    - [Proposition](/docs/2023/10/proposition-angaende-revidering-av-styrdokument-hostmote-2023.docx.pdf)
 
 - Motion angående införande av en utmärkelse för extraordinära insatser
-    - [Motion](https://d-sektionen.se/wp-content/uploads/2023/10/motion-utredning-av-extra-utmärkelse-2023.pdf)
+    - [Motion](/docs/2023/10/motion-utredning-av-extra-utm%C3%A4rkelse-2023.pdf)
     
-    - [Motionssvar](https://d-sektionen.se/wp-content/uploads/2023/11/Motionssvar-angaende-inforade-av-en-utmarkelse-for-extraordinara-insatser-.pdf)
+    - [Motionssvar](/docs/2023/11/Motionssvar-angaende-inforade-av-en-utmarkelse-for-extraordinara-insatser-.pdf)

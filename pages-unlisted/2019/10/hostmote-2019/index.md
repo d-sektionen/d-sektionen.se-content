@@ -33,23 +33,23 @@ D-sektionens Förmöte:
 
 Föreslagen motionsordning:
 
-1. [Motion angående uppdelning av webb-/infoutskottet](https://d-sektionen.se/wp-content/uploads/2019/11/Motion-angående-uppdelning-av-webb-_infoutskottet.pdf)
-2. [Motion angående uppdelning av webb-/infoutskottet, stadgeändring](https://d-sektionen.se/wp-content/uploads/2019/11/Motion-angående-uppdelning-av-webb-_infoutskottet-stadgeändring.pdf)
-3. [Motion angående om införande av Ekonomigruppen](https://d-sektionen.se/wp-content/uploads/2019/11/Motion-angående-om-införande-av-Ekonomigruppen-converted.pdf)
-4. [Motion angående Aktivitetsutskottet och D-LANs struktur](https://d-sektionen.se/wp-content/uploads/2019/11/Motion-angående-Aktivitetsutskottet-och-D-LANs-struktur.pdf)
-5. [Motion angående Aktivitetsutskottet och D-LANs struktur, stadgeändring](https://d-sektionen.se/wp-content/uploads/2019/11/Motion-angående-Aktivitetsutskottet-och-D-LANs-struktur-stadgeändring.pdf)
-6. [Motion angående guldmedalj till Sebastian Bångerius](https://d-sektionen.se/wp-content/uploads/2019/11/Motion-om-Guldmedalj-till-Sebastian.pdf)
-7. [Motion angående guldmedalj till Patrik Sletmo](https://d-sektionen.se/wp-content/uploads/2019/10/Motion-om-Guldmedalj-till-Patrik.pdf)
-8. [Motion angående korrigering av Stadgar](https://d-sektionen.se/wp-content/uploads/2019/10/Motion-om-korrigering-av-Stadgar.pdf)
-9. [Motion angående utdelande av silvermedalj & bronsmedalj till Aktivitetsutskottet](https://d-sektionen.se/wp-content/uploads/2019/10/Motion-om-Silvermedalj.pdf)
+1. [Motion angående uppdelning av webb-/infoutskottet](/docs/2019/11/Motion-ang%C3%A5ende-uppdelning-av-webb-_infoutskottet.pdf)
+2. [Motion angående uppdelning av webb-/infoutskottet, stadgeändring](/docs/2019/11/Motion-ang%C3%A5ende-uppdelning-av-webb-_infoutskottet-stadge%C3%A4ndring.pdf)
+3. [Motion angående om införande av Ekonomigruppen](/docs/2019/11/Motion-ang%C3%A5ende-om-inf%C3%B6rande-av-Ekonomigruppen-converted.pdf)
+4. [Motion angående Aktivitetsutskottet och D-LANs struktur](/docs/2019/11/Motion-ang%C3%A5ende-Aktivitetsutskottet-och-D-LANs-struktur.pdf)
+5. [Motion angående Aktivitetsutskottet och D-LANs struktur, stadgeändring](/docs/2019/11/Motion-ang%C3%A5ende-Aktivitetsutskottet-och-D-LANs-struktur-stadge%C3%A4ndring.pdf)
+6. [Motion angående guldmedalj till Sebastian Bångerius](/docs/2019/11/Motion-om-Guldmedalj-till-Sebastian.pdf)
+7. [Motion angående guldmedalj till Patrik Sletmo](/docs/2019/10/Motion-om-Guldmedalj-till-Patrik.pdf)
+8. [Motion angående korrigering av Stadgar](/docs/2019/10/Motion-om-korrigering-av-Stadgar.pdf)
+9. [Motion angående utdelande av silvermedalj & bronsmedalj till Aktivitetsutskottet](/docs/2019/10/Motion-om-Silvermedalj.pdf)
 
 ## Protokoll
 
-[Protokoll D-sektionens höstmöte 2019](https://d-sektionen.se/wp-content/uploads/2019/11/Protokoll_hostmote_2019.pdf)
+[Protokoll D-sektionens höstmöte 2019](/docs/2019/11/Protokoll_hostmote_2019.pdf)
 
 ## Föredragningslista
 
-[Slutgiltig föredragningslista D-sektionens höstmöte 2019](https://d-sektionen.se/wp-content/uploads/2019/11/Slutgiltig-föredragningslista-höstmöte-2019.pdf)
+[Slutgiltig föredragningslista D-sektionens höstmöte 2019](/docs/2019/11/Slutgiltig-f%C3%B6redragningslista-h%C3%B6stm%C3%B6te-2019.pdf)
 
 ## Nomineringar
 
@@ -79,12 +79,12 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 
 ## Dokument
 
-- [Kallelse](https://d-sektionen.se/wp-content/uploads/2019/10/Kallelse-höstmöte-2019.pdf)
+- [Kallelse](/docs/2019/10/Kallelse-h%C3%B6stm%C3%B6te-2019.pdf)
 - [Stadgar](https://styrdokument.d-sektionen.se/stadgar.pdf)
 - [Reglemente](https://styrdokument.d-sektionen.se/reglemente.pdf)
-- [Motionsmall pdf](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.odt), [docx](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.docx)
-- [Måldokument 19/20](https://d-sektionen.se/wp-content/uploads/2019/10/Måldokument-19_20.pdf)
-- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](https://d-sektionen.se/wp-content/uploads/2019/10/elektroniskrostningpolicy.pdf)
+- [Motionsmall pdf](/docs/2019/10/Motionsmall-D-sektionen-2019.pdf), [odt](/docs/2019/10/Motionsmall-D-sektionen-2019.odt), [docx](/docs/2019/10/Motionsmall-D-sektionen-2019.docx)
+- [Måldokument 19/20](/docs/2019/10/M%C3%A5ldokument-19_20.pdf)
+- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](/docs/2019/10/elektroniskrostningpolicy.pdf)
 
 ## Inkomna dokument
 
@@ -96,29 +96,29 @@ Inga dokument inkomna ännu.
 
 Vid andra läsningen av stadgeändringen kan det vid förra mötet antagna stadgeändringsförslaget endast bifallas eller avslås.
 
-- [Motion angående inval av Aktivitetsutskottets förtroendevalda](https://d-sektionen.se/wp-content/uploads/2019/04/Motion-angående-inval-aktu.pdf)
-    - [Motionssvar från vårmötet 2019 angående inval av Aktivitetsutskottets förtroendevalda](https://d-sektionen.se/wp-content/uploads/2019/04/Motionssvar-ang%C3%A5ende-inval-av-Aktivitetsutskottets-f%C3%B6rtroendevalda.pdf)
+- [Motion angående inval av Aktivitetsutskottets förtroendevalda](/docs/2019/04/Motion-ang%C3%A5ende-inval-aktu.pdf)
+    - [Motionssvar från vårmötet 2019 angående inval av Aktivitetsutskottets förtroendevalda](/docs/2019/04/Motionssvar-ang%C3%A5ende-inval-av-Aktivitetsutskottets-f%C3%B6rtroendevalda.pdf)
 
 ### Motioner
 
-- [Motion angående guldmedalj till Sebastian Bångerius](https://d-sektionen.se/wp-content/uploads/2019/11/Motion-om-Guldmedalj-till-Sebastian.pdf)
-    - [Motionssvar angående guldmedalj till Sebastian Bångerius](https://d-sektionen.se/wp-content/uploads/2019/11/Motionssvar-angående-guldmedalj-till-Sebastian-Bångerius.pdf)
-- [Motion angående guldmedalj till Patrik Sletmo](https://d-sektionen.se/wp-content/uploads/2019/10/Motion-om-Guldmedalj-till-Patrik.pdf)
-    - [Motionssvar angående guldmedalj till Patrik Sletmo](https://d-sektionen.se/wp-content/uploads/2019/11/Motionssvar-angående-guldmedalj-till-Patrik-Sletmo.pdf)
-- [Motion angående korrigering av Stadgar](https://d-sektionen.se/wp-content/uploads/2019/10/Motion-om-korrigering-av-Stadgar.pdf)
-    - [Motionssvar angående korrigering av stadgar](https://d-sektionen.se/wp-content/uploads/2019/11/Motionssvar-angående-korrigering-av-stadgar.pdf)
-- [Motion angående utdelande av silvermedalj & bronsmedalj till Aktivitetsutskottet](https://d-sektionen.se/wp-content/uploads/2019/10/Motion-om-Silvermedalj.pdf)
-    - [Motionssvar angående utdelande av silvermedalj & bronsmedalj till Aktivitetsutskottet](https://d-sektionen.se/wp-content/uploads/2019/11/Motionssvar-angående-utdelande-av-silvermedalj-bronsmedalj-till-Aktivitetsutskottet.pdf)
-- [Motion angående uppdelning av webb-/infoutskottet](https://d-sektionen.se/wp-content/uploads/2019/11/Motion-angående-uppdelning-av-webb-_infoutskottet.pdf)
-    - [Motionssvar angående uppdelning av webb-/infoutskottet](https://d-sektionen.se/wp-content/uploads/2019/11/Motionssvar-angående-uppdelning-av-webb-_Infoutskottet.pdf)
-- [Motion angående uppdelning av webb-/infoutskottet, stadgeändring](https://d-sektionen.se/wp-content/uploads/2019/11/Motion-angående-uppdelning-av-webb-_infoutskottet-stadgeändring.pdf)
-    - [Motionssvar angående uppdelning av webb-/infoutskottet, stadgeändring](https://d-sektionen.se/wp-content/uploads/2019/11/Motionssvar-angående-uppdelning-av-webb-_Infoutskottet-stadgeändring.pdf)
-- [Motion angående om införande av Ekonomigruppen](https://d-sektionen.se/wp-content/uploads/2019/11/Motion-angående-om-införande-av-Ekonomigruppen-converted.pdf)
-    - [Motionssvar angående införande av Ekonomigruppen](https://d-sektionen.se/wp-content/uploads/2019/11/Motionssvar-angående-införande-av-Ekonomigruppen.pdf)
-- [Motion angående Aktivitetsutskottet och D-LANs struktur](https://d-sektionen.se/wp-content/uploads/2019/11/Motion-angående-Aktivitetsutskottet-och-D-LANs-struktur.pdf)
-    - [Motionssvar angående Aktivitetsutskottet och D-LANs struktur](https://d-sektionen.se/wp-content/uploads/2019/11/Motionssvar-angående-Aktivitetsutskottet-och-D-LANs-struktur.pdf)
-- [Motion angående Aktivitetsutskottet och D-LANs struktur, stadgeändring](https://d-sektionen.se/wp-content/uploads/2019/11/Motion-angående-Aktivitetsutskottet-och-D-LANs-struktur-stadgeändring.pdf)
-    - [Motionssvar angående Aktivitetsutskottet och D-LANs struktur, stadgeändring](https://d-sektionen.se/wp-content/uploads/2019/11/Motionssvar_-stadgeändring-AktU-D-LANs-struktur.pdf)
+- [Motion angående guldmedalj till Sebastian Bångerius](/docs/2019/11/Motion-om-Guldmedalj-till-Sebastian.pdf)
+    - [Motionssvar angående guldmedalj till Sebastian Bångerius](/docs/2019/11/Motionssvar-ang%C3%A5ende-guldmedalj-till-Sebastian-B%C3%A5ngerius.pdf)
+- [Motion angående guldmedalj till Patrik Sletmo](/docs/2019/10/Motion-om-Guldmedalj-till-Patrik.pdf)
+    - [Motionssvar angående guldmedalj till Patrik Sletmo](/docs/2019/11/Motionssvar-ang%C3%A5ende-guldmedalj-till-Patrik-Sletmo.pdf)
+- [Motion angående korrigering av Stadgar](/docs/2019/10/Motion-om-korrigering-av-Stadgar.pdf)
+    - [Motionssvar angående korrigering av stadgar](/docs/2019/11/Motionssvar-ang%C3%A5ende-korrigering-av-stadgar.pdf)
+- [Motion angående utdelande av silvermedalj & bronsmedalj till Aktivitetsutskottet](/docs/2019/10/Motion-om-Silvermedalj.pdf)
+    - [Motionssvar angående utdelande av silvermedalj & bronsmedalj till Aktivitetsutskottet](/docs/2019/11/Motionssvar-ang%C3%A5ende-utdelande-av-silvermedalj-bronsmedalj-till-Aktivitetsutskottet.pdf)
+- [Motion angående uppdelning av webb-/infoutskottet](/docs/2019/11/Motion-ang%C3%A5ende-uppdelning-av-webb-_infoutskottet.pdf)
+    - [Motionssvar angående uppdelning av webb-/infoutskottet](/docs/2019/11/Motionssvar-ang%C3%A5ende-uppdelning-av-webb-_Infoutskottet.pdf)
+- [Motion angående uppdelning av webb-/infoutskottet, stadgeändring](/docs/2019/11/Motion-ang%C3%A5ende-uppdelning-av-webb-_infoutskottet-stadge%C3%A4ndring.pdf)
+    - [Motionssvar angående uppdelning av webb-/infoutskottet, stadgeändring](/docs/2019/11/Motionssvar-ang%C3%A5ende-uppdelning-av-webb-_Infoutskottet-stadge%C3%A4ndring.pdf)
+- [Motion angående om införande av Ekonomigruppen](/docs/2019/11/Motion-ang%C3%A5ende-om-inf%C3%B6rande-av-Ekonomigruppen-converted.pdf)
+    - [Motionssvar angående införande av Ekonomigruppen](/docs/2019/11/Motionssvar-ang%C3%A5ende-inf%C3%B6rande-av-Ekonomigruppen.pdf)
+- [Motion angående Aktivitetsutskottet och D-LANs struktur](/docs/2019/11/Motion-ang%C3%A5ende-Aktivitetsutskottet-och-D-LANs-struktur.pdf)
+    - [Motionssvar angående Aktivitetsutskottet och D-LANs struktur](/docs/2019/11/Motionssvar-ang%C3%A5ende-Aktivitetsutskottet-och-D-LANs-struktur.pdf)
+- [Motion angående Aktivitetsutskottet och D-LANs struktur, stadgeändring](/docs/2019/11/Motion-ang%C3%A5ende-Aktivitetsutskottet-och-D-LANs-struktur-stadge%C3%A4ndring.pdf)
+    - [Motionssvar angående Aktivitetsutskottet och D-LANs struktur, stadgeändring](/docs/2019/11/Motionssvar_-stadge%C3%A4ndring-AktU-D-LANs-struktur.pdf)
 
 ## Anmälan
 

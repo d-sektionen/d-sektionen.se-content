@@ -17,11 +17,11 @@ Glöm inte att du är mer än välkommen till att _motkandidera_ till någon a
 
 ## Protokoll
 
-[Protokoll D-sektionens vårmöte 2019](https://d-sektionen.se/wp-content/uploads/2019/05/Protokoll-D-sektionens-vårmöte-2019.pdf)
+[Protokoll D-sektionens vårmöte 2019](/docs/2019/05/Protokoll-D-sektionens-v%C3%A5rm%C3%B6te-2019.pdf)
 
 ## Föredragningslista
 
-- [Fastställd föredragningslista vårmötet 2019](https://d-sektionen.se/wp-content/uploads/2019/04/Slutgiltig-föredragningslista-vårmötet-2019-1.pdf)
+- [Fastställd föredragningslista vårmötet 2019](/docs/2019/04/Slutgiltig-f%C3%B6redragningslista-v%C3%A5rm%C3%B6tet-2019-1.pdf)
 
 ## Nomineringar
 
@@ -59,44 +59,44 @@ Styrelsen har nominerat följande:
 
 ## Dokument
 
-- [Kallelse](https://d-sektionen.se/wp-content/uploads/2019/04/Kallelse-Vårmöte.pdf)
+- [Kallelse](/docs/2019/04/Kallelse-V%C3%A5rm%C3%B6te.pdf)
 - [Reglemente](https://github.com/d-sektionen/styrdokument/raw/master/output/reglemente.pdf)
 - [Stadgar](https://github.com/d-sektionen/styrdokument/raw/master/output/stadgar.pdf)
-- [Motionsmall pdf](https://d-sektionen.se/wp-content/uploads/2018/01/Motionsmall-D-sektionens-vinterm%C3%B6te-2018.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2018/01/Motionsmall-D-sektionens-vinterm%C3%B6te-2018.odt), [docx](https://d-sektionen.se/wp-content/uploads/2018/01/Motionsmall-D-sektionens-vinterm%C3%B6te-2018.docx)
-- [Måldokument 18/19](https://d-sektionen.se/wp-content/uploads/2018/11/M%C3%A5ldokument-182F19-1.pdf)
+- [Motionsmall pdf](/docs/2018/01/Motionsmall-D-sektionens-vinterm%C3%B6te-2018.pdf), [odt](/docs/2018/01/Motionsmall-D-sektionens-vinterm%C3%B6te-2018.odt), [docx](/docs/2018/01/Motionsmall-D-sektionens-vinterm%C3%B6te-2018.docx)
+- [Måldokument 18/19](/docs/2018/11/M%C3%A5ldokument-182F19-1.pdf)
 
 ## Inkomna dokument
 
 ### Styrelsen 17/18
 
-- [Resultatrapport](https://d-sektionen.se/wp-content/uploads/2019/04/Resultatrapport_20170701-20180630_TEKNISKA-HÖGSKOLAN-DATATEKNOLOGSEKTIONEN.pdf)
-- [Balansrapport](https://d-sektionen.se/wp-content/uploads/2019/04/Balansrapport_20170701-20180630_TEKNISKA-HÖGSKOLAN-DATATEKNOLOGSEKTIONEN.pdf)
-- [Revisionsberättelse](https://d-sektionen.se/wp-content/uploads/2019/04/Revisionsberättelse-Styrelsen-17_18.pdf)
-- [Verksamhetsberättelse](https://d-sektionen.se/wp-content/uploads/2019/04/Verksamhetsberättelse-Styret-17_18.pdf)
+- [Resultatrapport](/docs/2019/04/Resultatrapport_20170701-20180630_TEKNISKA-H%C3%96GSKOLAN-DATATEKNOLOGSEKTIONEN.pdf)
+- [Balansrapport](/docs/2019/04/Balansrapport_20170701-20180630_TEKNISKA-H%C3%96GSKOLAN-DATATEKNOLOGSEKTIONEN.pdf)
+- [Revisionsberättelse](/docs/2019/04/Revisionsber%C3%A4ttelse-Styrelsen-17_18.pdf)
+- [Verksamhetsberättelse](/docs/2019/04/Verksamhetsber%C3%A4ttelse-Styret-17_18.pdf)
 
 ### Budgetar
 
-- [Donna](https://d-sektionen.se/wp-content/uploads/2019/04/Årsbudget-DONNA-19_20-Utskrift.pdf)
-- [Aktivitetsutskottet](https://d-sektionen.se/wp-content/uploads/2019/04/AktU_19_20_Budget.pdf)
-- [LINK](https://d-sektionen.se/wp-content/uploads/2019/04/Budget-LINK-2019.pdf)
-- [STABEN](https://d-sektionen.se/wp-content/uploads/2019/04/Budget-19_20-BUDGET.pdf)
-- [Styrelsen](https://d-sektionen.se/wp-content/uploads/2019/04/Budget.pdf)
-    - Uppdaterad budget: [Styrelsen\_v2](https://d-sektionen.se/wp-content/uploads/2019/04/Budget-19_20-5.pdf)
-- [D-Group](https://d-sektionen.se/wp-content/uploads/2019/04/D-Group-19_20-Budget-Utskrift.pdf)
+- [Donna](/docs/2019/04/%C3%85rsbudget-DONNA-19_20-Utskrift.pdf)
+- [Aktivitetsutskottet](/docs/2019/04/AktU_19_20_Budget.pdf)
+- [LINK](/docs/2019/04/Budget-LINK-2019.pdf)
+- [STABEN](/docs/2019/04/Budget-19_20-BUDGET.pdf)
+- [Styrelsen](/docs/2019/04/Budget.pdf)
+    - Uppdaterad budget: [Styrelsen\_v2](/docs/2019/04/Budget-19_20-5.pdf)
+- [D-Group](/docs/2019/04/D-Group-19_20-Budget-Utskrift.pdf)
 
 ### Förslag på reglemente
 
-- [Reglemente 19/20](https://d-sektionen.se/wp-content/uploads/2019/04/reglemente1920.pdf)
+- [Reglemente 19/20](/docs/2019/04/reglemente1920.pdf)
     - [Ändringar från nuvarande reglemente](https://github.com/d-sektionen/styrdokument/compare/reglemente1920)
 
 ## Motioner och propositioner
 
 ### Motioner
 
-- [Motion angående inval av Aktivitetsutskottets förtroendevalda](https://d-sektionen.se/wp-content/uploads/2019/04/Motion-angående-inval-aktu.pdf)
-    - [Motionssvar angående inval av Aktivitetsutskottets förtroendevalda](https://d-sektionen.se/wp-content/uploads/2019/04/Motionssvar-angående-inval-av-Aktivitetsutskottets-förtroendevalda.pdf)
-- [Motion angående frigörande av pengar för inköp av ny sektionsbil](https://d-sektionen.se/wp-content/uploads/2019/04/Motion-angående-frigörande-av-pengar-för-inköp-av-ny-sektionsbil.pdf)
-    - [Motionssvar angående frigörande av pengar för inköp av ny sektionsbil](https://d-sektionen.se/wp-content/uploads/2019/04/Motionssvar-angående-frigörande-av-pengar-för-inköp-av-ny-sektionsbil.pdf)
+- [Motion angående inval av Aktivitetsutskottets förtroendevalda](/docs/2019/04/Motion-ang%C3%A5ende-inval-aktu.pdf)
+    - [Motionssvar angående inval av Aktivitetsutskottets förtroendevalda](/docs/2019/04/Motionssvar-ang%C3%A5ende-inval-av-Aktivitetsutskottets-f%C3%B6rtroendevalda.pdf)
+- [Motion angående frigörande av pengar för inköp av ny sektionsbil](/docs/2019/04/Motion-ang%C3%A5ende-frig%C3%B6rande-av-pengar-f%C3%B6r-ink%C3%B6p-av-ny-sektionsbil.pdf)
+    - [Motionssvar angående frigörande av pengar för inköp av ny sektionsbil](/docs/2019/04/Motionssvar-ang%C3%A5ende-frig%C3%B6rande-av-pengar-f%C3%B6r-ink%C3%B6p-av-ny-sektionsbil.pdf)
 
 ## Anmälan
 

@@ -25,6 +25,6 @@ Sista tid för anmälan: 17/4 23:59
 
 Detta event använder sig av D-sektionens pricksystem, info hittar du här:  
 
-[https://d-sektionen.se/wp-content/uploads/2022/02/Policy-for-avanmalan.pdf](https://d-sektionen.se/wp-content/uploads/2022/02/Policy-for-avanmalan.pdf)
+[https://d-sektionen.se/wp-content/uploads/2022/02/Policy-for-avanmalan.pdf](/docs/2022/02/Policy-for-avanmalan.pdf)
 
 Avanmälan görs till [sophie.naru@d-sektionen.se](mailto:sophie.naru@d-sektionen.se) senast 17/4 23:59

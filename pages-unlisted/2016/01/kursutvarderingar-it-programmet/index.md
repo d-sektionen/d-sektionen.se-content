@@ -213,7 +213,7 @@ date: 2016-01-29
 
 [D-TTIT02-Matematisk-Grundkurs-1HT2](http://d-sektionen.se/wp-content/uploads/2014/12/D-TTIT02-Matematisk-Grundkurs-1HT21.pdf)
 
-[DTDDD46-Databasteknik-3VT2](http://d-sektionen.se/wp-content/uploads/2014/12/DTDDD46-Databasteknik-3VT2.pdf)
+[DTDDD46-Databasteknik-3VT2](/docs/2014/12/DTDDD46-Databasteknik-3VT2.pdf)
 
 [it-tddc91-dalg-2ht1](http://d-sektionen.se/wp-content/uploads/2014/12/it-tddc91-dalg-2ht1.pdf)
 

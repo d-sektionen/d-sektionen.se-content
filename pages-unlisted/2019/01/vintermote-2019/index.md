@@ -17,11 +17,11 @@ Glöm inte att du är mer än välkommen till att _motkandidera_ till någon a
 
 ## Protokoll
 
-[Protokoll D-sektionens vintermöte 2019](https://d-sektionen.se/wp-content/uploads/2019/02/Protokoll-D-sektionens-vintermöte-2019.pdf)
+[Protokoll D-sektionens vintermöte 2019](/docs/2019/02/Protokoll-D-sektionens-vinterm%C3%B6te-2019.pdf)
 
 ## Föredragningslista
 
-- [Slutgiltig Föredragningslista (inte den som användes)](https://d-sektionen.se/wp-content/uploads/2019/02/Slutgiltig-Föredragningslista-vintermötet-2019.pdf)
+- [Slutgiltig Föredragningslista (inte den som användes)](/docs/2019/02/Slutgiltig-F%C3%B6redragningslista-vinterm%C3%B6tet-2019.pdf)
 
 ## Nomineringar
 
@@ -53,58 +53,58 @@ Valberedningen har nominerat följande:
 
 ## Dokument
 
-- - [Kallelse](https://d-sektionen.se/wp-content/uploads/2019/01/Kallelse-Vintermöte.pdf)
-    - [Reglemente](https://d-sektionen.se/wp-content/uploads/2019/01/reglemente.pdf)
-    - [Stadgar](https://d-sektionen.se/wp-content/uploads/2019/01/stadgar.pdf)
-    - [Motionsmall pdf](https://d-sektionen.se/wp-content/uploads/2018/01/Motionsmall-D-sektionens-vinterm%C3%B6te-2018.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2018/01/Motionsmall-D-sektionens-vinterm%C3%B6te-2018.odt), [docx](https://d-sektionen.se/wp-content/uploads/2018/01/Motionsmall-D-sektionens-vinterm%C3%B6te-2018.docx)
-    - [Måldokument 18/19](https://d-sektionen.se/wp-content/uploads/2018/11/M%C3%A5ldokument-182F19-1.pdf)
-    - [Process för inval av ledamöter](https://d-sektionen.se/wp-content/uploads/2019/02/Process-för-inval-av-ledamöter.pdf)
+- - [Kallelse](/docs/2019/01/Kallelse-Vinterm%C3%B6te.pdf)
+    - [Reglemente](/docs/2019/01/reglemente.pdf)
+    - [Stadgar](/docs/2019/01/stadgar.pdf)
+    - [Motionsmall pdf](/docs/2018/01/Motionsmall-D-sektionens-vinterm%C3%B6te-2018.pdf), [odt](/docs/2018/01/Motionsmall-D-sektionens-vinterm%C3%B6te-2018.odt), [docx](/docs/2018/01/Motionsmall-D-sektionens-vinterm%C3%B6te-2018.docx)
+    - [Måldokument 18/19](/docs/2018/11/M%C3%A5ldokument-182F19-1.pdf)
+    - [Process för inval av ledamöter](/docs/2019/02/Process-f%C3%B6r-inval-av-ledam%C3%B6ter.pdf)
 
 ## Inkomna dokument
 
 ### Donna 17/18
 
-- [Balansrapport Donna1718](https://d-sektionen.se/wp-content/uploads/2019/01/Balansrapport_Donna1718.pdf)
-- [Ekonomisk berättelse Donna1718](https://d-sektionen.se/wp-content/uploads/2019/01/Ekonomisk-berättelse-17_18.pdf)
-- [Resultatrapport Donna1718](https://d-sektionen.se/wp-content/uploads/2019/01/Resultatrapport_DONNA1718.pdf)
-- [Revisionsberättelse Donna1718](https://d-sektionen.se/wp-content/uploads/2019/01/Revisionsberättelse-Donna-17_18.docx)
+- [Balansrapport Donna1718](/docs/2019/01/Balansrapport_Donna1718.pdf)
+- [Ekonomisk berättelse Donna1718](/docs/2019/01/Ekonomisk-ber%C3%A4ttelse-17_18.pdf)
+- [Resultatrapport Donna1718](/docs/2019/01/Resultatrapport_DONNA1718.pdf)
+- [Revisionsberättelse Donna1718](/docs/2019/01/Revisionsber%C3%A4ttelse-Donna-17_18.docx)
 - Sena dokument
-    - [Balansrapport\_Donna1718](https://d-sektionen.se/wp-content/uploads/2019/02/Balansrapport_Donna1718.pdf)
-    - [Ekonomisk berättelse 1718](https://d-sektionen.se/wp-content/uploads/2019/02/Ekonomisk-berättelse-17_18.pdf)
-    - [Resultatrapport\_DONNA1718](https://d-sektionen.se/wp-content/uploads/2019/02/Resultatrapport_DONNA1718.pdf)
+    - [Balansrapport\_Donna1718](/docs/2019/02/Balansrapport_Donna1718.pdf)
+    - [Ekonomisk berättelse 1718](/docs/2019/02/Ekonomisk-ber%C3%A4ttelse-17_18.pdf)
+    - [Resultatrapport\_DONNA1718](/docs/2019/02/Resultatrapport_DONNA1718.pdf)
 
 ### Styrelsen 16/17
 
-- [Verksamhetsberättelse styrelsen 1617](https://d-sektionen.se/wp-content/uploads/2019/01/Verksamhetsberättelse-styret-16_17.pdf)
-- [Styrelsen\_Resultatrapport\_1617](https://d-sektionen.se/wp-content/uploads/2019/01/Styrelsen_Resultatrapport_1617.pdf)
-- [Styrelsen\_Balansrapport\_1617](https://d-sektionen.se/wp-content/uploads/2019/01/Styrelsen_Balansrapport_1617.pdf)
-- [Styrelsen\_Ekonomisk\_berättelse\_1617\_v2](https://d-sektionen.se/wp-content/uploads/2019/01/Styrelsen_Ekonomisk_berättelse_1617_v2.pdf)
-- [Revisionsberättelse Styrelsen 1617](https://d-sektionen.se/wp-content/uploads/2019/02/Revisionsberättelse-Styrelsen-16_17.docx)
+- [Verksamhetsberättelse styrelsen 1617](/docs/2019/01/Verksamhetsber%C3%A4ttelse-styret-16_17.pdf)
+- [Styrelsen\_Resultatrapport\_1617](/docs/2019/01/Styrelsen_Resultatrapport_1617.pdf)
+- [Styrelsen\_Balansrapport\_1617](/docs/2019/01/Styrelsen_Balansrapport_1617.pdf)
+- [Styrelsen\_Ekonomisk\_berättelse\_1617\_v2](/docs/2019/01/Styrelsen_Ekonomisk_ber%C3%A4ttelse_1617_v2.pdf)
+- [Revisionsberättelse Styrelsen 1617](/docs/2019/02/Revisionsber%C3%A4ttelse-Styrelsen-16_17.docx)
 
 ### D-Group 17/18
 
-- [Resultatrapport D-Group 1718](https://d-sektionen.se/wp-content/uploads/2019/02/Resultatrapport_20170701-20180630_D-GROUP-DATATEKNOLOGSEKTIONEN.pdf)
-- [Projektrapport D-Group 1718](https://d-sektionen.se/wp-content/uploads/2019/02/Projektrapport-Blad1.pdf)
-- [Balansrapport D-Group 1718](https://d-sektionen.se/wp-content/uploads/2019/02/Balansrapport_20170701-20180630_D-GROUP-DATATEKNOLOGSEKTIONEN-1.pdf)
-- [Ekonomisk berättelse för D-Group 1718](https://d-sektionen.se/wp-content/uploads/2019/02/Ekonomisk-berättelse-för-D-Group-2017_2018.pdf)
-- [Revisionsberättelse D-Group 1718](https://d-sektionen.se/wp-content/uploads/2019/02/Revisionsberättelse-D-Group-17_18.docx)
+- [Resultatrapport D-Group 1718](/docs/2019/02/Resultatrapport_20170701-20180630_D-GROUP-DATATEKNOLOGSEKTIONEN.pdf)
+- [Projektrapport D-Group 1718](/docs/2019/02/Projektrapport-Blad1.pdf)
+- [Balansrapport D-Group 1718](/docs/2019/02/Balansrapport_20170701-20180630_D-GROUP-DATATEKNOLOGSEKTIONEN-1.pdf)
+- [Ekonomisk berättelse för D-Group 1718](/docs/2019/02/Ekonomisk-ber%C3%A4ttelse-f%C3%B6r-D-Group-2017_2018.pdf)
+- [Revisionsberättelse D-Group 1718](/docs/2019/02/Revisionsber%C3%A4ttelse-D-Group-17_18.docx)
 
 ### Aktivitetsutskottet 17/18
 
-- [Resultatrapport AktU 1718](https://d-sektionen.se/wp-content/uploads/2019/02/Resultatrapport_20170701-20180630_AKTIVITETSUTSKOTTET-DATATEKNOLOGSEKTIONEN.pdf)
-- [Ekonomisk berättelse AktU 1718](https://d-sektionen.se/wp-content/uploads/2019/02/Ekonomisk-berättelse-17_18-1.pdf)
-- [Balansrapport AktU 1718](https://d-sektionen.se/wp-content/uploads/2019/02/Balansrapport_20170701-20180630_AKTIVITETSUTSKOTTET-DATATEKNOLOGSEKTIONEN.pdf)
-- [Revisionsberättelse AktU 1718](https://d-sektionen.se/wp-content/uploads/2019/02/Revisionsberättelse-AktU-17_18.docx)
+- [Resultatrapport AktU 1718](/docs/2019/02/Resultatrapport_20170701-20180630_AKTIVITETSUTSKOTTET-DATATEKNOLOGSEKTIONEN.pdf)
+- [Ekonomisk berättelse AktU 1718](/docs/2019/02/Ekonomisk-ber%C3%A4ttelse-17_18-1.pdf)
+- [Balansrapport AktU 1718](/docs/2019/02/Balansrapport_20170701-20180630_AKTIVITETSUTSKOTTET-DATATEKNOLOGSEKTIONEN.pdf)
+- [Revisionsberättelse AktU 1718](/docs/2019/02/Revisionsber%C3%A4ttelse-AktU-17_18.docx)
 
 ### LINK 17/18
 
-- [Verksamhetsberättelse för Arbetsmarknadsgruppen LINK 1718](https://d-sektionen.se/wp-content/uploads/2019/02/Verksamhetsberättelse-för-Arbetsmarknadsgruppen-LINK-17_18.pdf)
-- [Balansrapport LINK 1718](https://d-sektionen.se/wp-content/uploads/2019/02/Balansrapport_20170701-20180630_LINK-DATATEKNOLOGSEKTIONEN.pdf)
-- [Resultatrapport LINK 1718](https://d-sektionen.se/wp-content/uploads/2019/02/Resultatrapport_20170701-20180630_LINK-DATATEKNOLOGSEKTIONEN.pdf)
-- [Revisionsberättelse LINK 1718](https://d-sektionen.se/wp-content/uploads/2019/02/Revisionsberättelse-LINK-17_18.docx)
+- [Verksamhetsberättelse för Arbetsmarknadsgruppen LINK 1718](/docs/2019/02/Verksamhetsber%C3%A4ttelse-f%C3%B6r-Arbetsmarknadsgruppen-LINK-17_18.pdf)
+- [Balansrapport LINK 1718](/docs/2019/02/Balansrapport_20170701-20180630_LINK-DATATEKNOLOGSEKTIONEN.pdf)
+- [Resultatrapport LINK 1718](/docs/2019/02/Resultatrapport_20170701-20180630_LINK-DATATEKNOLOGSEKTIONEN.pdf)
+- [Revisionsberättelse LINK 1718](/docs/2019/02/Revisionsber%C3%A4ttelse-LINK-17_18.docx)
 - Sena dokument
-    - [Ekonomisk berättelse för LINK 1718](https://d-sektionen.se/wp-content/uploads/2019/02/NYA-Ekonomisk-berättelse-för-.pdf)
-    - [\[NY\] Verksamhetsberättelse för Arbetsmarknadsgruppen LINK 1718](https://d-sektionen.se/wp-content/uploads/2019/02/NYA-Verksamhetsberättelse-för-Arbetsmarknadsgruppen-LINK-17_18-1.pdf)
+    - [Ekonomisk berättelse för LINK 1718](/docs/2019/02/NYA-Ekonomisk-ber%C3%A4ttelse-f%C3%B6r-.pdf)
+    - [\[NY\] Verksamhetsberättelse för Arbetsmarknadsgruppen LINK 1718](/docs/2019/02/NYA-Verksamhetsber%C3%A4ttelse-f%C3%B6r-Arbetsmarknadsgruppen-LINK-17_18-1.pdf)
 
 ## Motioner och propositioner
 
@@ -112,23 +112,23 @@ Valberedningen har nominerat följande:
 
 Vid andra läsningen av stadgeändringen kan det vid förra mötet antagna stadgeändringsförslaget endast bifallas eller avslås.
 
-- [Proposition angående omstrukturering av §5.13 Höstmötet](https://d-sektionen.se/wp-content/uploads/2018/11/Proposition-ang%C3%A5ende-omstrukturering-av-%C2%A75.13-H%C3%B6stm%C3%B6tet.pdf)
-- [Proposition angående aktivitetsutskottets ansvarsfrihet](https://d-sektionen.se/wp-content/uploads/2018/11/Proposition-ang%C3%A5ende-aktivitetsutskottets-ansvarsfrihet.pdf)
-- [Proposition angående arbetsmarknadsgruppen](https://d-sektionen.se/wp-content/uploads/2018/11/Proposition-ang%C3%A5ende-arbetsmarknadsgruppen.pdf)
+- [Proposition angående omstrukturering av §5.13 Höstmötet](/docs/2018/11/Proposition-ang%C3%A5ende-omstrukturering-av-%C2%A75.13-H%C3%B6stm%C3%B6tet.pdf)
+- [Proposition angående aktivitetsutskottets ansvarsfrihet](/docs/2018/11/Proposition-ang%C3%A5ende-aktivitetsutskottets-ansvarsfrihet.pdf)
+- [Proposition angående arbetsmarknadsgruppen](/docs/2018/11/Proposition-ang%C3%A5ende-arbetsmarknadsgruppen.pdf)
 
 ### Propositioner
 
-- [Proposition angående utskottsrepresentanter i webb-/infoutskottet](https://d-sektionen.se/wp-content/uploads/2019/01/Proposition-angående-utskottsrepresentanter-i-webb-2Finfoutskottet.pdf)
-- [Proposition angående splittring av webb-/infoutskottet](https://d-sektionen.se/wp-content/uploads/2019/01/Proposition-angående-splittring-av-webb-2Finfoutskottet.pdf)
+- [Proposition angående utskottsrepresentanter i webb-/infoutskottet](/docs/2019/01/Proposition-ang%C3%A5ende-utskottsrepresentanter-i-webb-2Finfoutskottet.pdf)
+- [Proposition angående splittring av webb-/infoutskottet](/docs/2019/01/Proposition-ang%C3%A5ende-splittring-av-webb-2Finfoutskottet.pdf)
 
 ### Motioner
 
-- [Motion angående Marknadsföringsutskottets uppdrag och stavfel i reglemente](https://d-sektionen.se/wp-content/uploads/2019/01/motion_mafu.pdf)
-    - [Motionssvar angående Marknadsföringsutskottets uppdrag och stavfel i reglemente](https://d-sektionen.se/wp-content/uploads/2019/01/Motionssvar-angående-Marknadsföringsutskottets-uppdrag-och-stavfel-i-reglemente.pdf)
-- [Motion angående Aktivitetsutskottets projekt.](https://d-sektionen.se/wp-content/uploads/2019/01/Motion-resa.pdf)
-    - [Motionssvar angående Aktivitetsutskottets projekt](https://d-sektionen.se/wp-content/uploads/2019/01/Motionssvar-angående-Aktivitetsutskottets-projekt.pdf)
-- [Motion angående Aktivitetsutskottets struktur.](https://d-sektionen.se/wp-content/uploads/2019/01/Motion-angående-resten.pdf)
-    - [Motionssvar angående Aktivitetsutskottets struktur](https://d-sektionen.se/wp-content/uploads/2019/01/Motionssvar-angående-Aktivitetsutskottets-struktur.pdf)
+- [Motion angående Marknadsföringsutskottets uppdrag och stavfel i reglemente](/docs/2019/01/motion_mafu.pdf)
+    - [Motionssvar angående Marknadsföringsutskottets uppdrag och stavfel i reglemente](/docs/2019/01/Motionssvar-ang%C3%A5ende-Marknadsf%C3%B6ringsutskottets-uppdrag-och-stavfel-i-reglemente.pdf)
+- [Motion angående Aktivitetsutskottets projekt.](/docs/2019/01/Motion-resa.pdf)
+    - [Motionssvar angående Aktivitetsutskottets projekt](/docs/2019/01/Motionssvar-ang%C3%A5ende-Aktivitetsutskottets-projekt.pdf)
+- [Motion angående Aktivitetsutskottets struktur.](/docs/2019/01/Motion-ang%C3%A5ende-resten.pdf)
+    - [Motionssvar angående Aktivitetsutskottets struktur](/docs/2019/01/Motionssvar-ang%C3%A5ende-Aktivitetsutskottets-struktur.pdf)
 
 ## Anmälan
 

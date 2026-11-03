@@ -17,7 +17,7 @@ Observera att mycket information kommer läggas till under de kommande veckorna,
 
 På grund av regeringens beslut om att förbjuda sammankomster med fler än 8 deltagare kommer deltagandet på vintermötet att ske över Zoom. För att mötet ska flyta på smidigt så har vi en guide, där vi beskriver hur omröstning, talarlista och mötet i sin helhet kommer fungera på distans.
 
-[Distansmöte Datateknologsektionen - Guide](https://d-sektionen.se/wp-content/uploads/2021/01/Sektionsmöte-på-distans-Vintermöte.pdf)
+[Distansmöte Datateknologsektionen - Guide](/docs/2021/01/Sektionsm%C3%B6te-p%C3%A5-distans-Vinterm%C3%B6te.pdf)
 
 ## Att motkandidera
 
@@ -25,11 +25,11 @@ Glöm inte att du är mer än välkommen till att _motkandidera_ till någon a
 
 ## Protokoll
 
-[Protokoll Vintermöte 2021](https://d-sektionen.se/wp-content/uploads/2021/02/Protokoll-Vintermote-2021_Redacted.pdf)
+[Protokoll Vintermöte 2021](/docs/2021/02/Protokoll-Vintermote-2021_Redacted.pdf)
 
 ## Föredragningslista
 
-[Slutgiltig föredragningslista](https://d-sektionen.se/wp-content/uploads/2021/01/slutgiltig_foredragningslista_vintermote_2021.pdf)  
+[Slutgiltig föredragningslista](/docs/2021/01/slutgiltig_foredragningslista_vintermote_2021.pdf)  
 På mötet lades Proposition angående förändring av AD-rollen till som punkt 7.2. Detta betyder att tidigare punkter 7.2 och 7.3 konsekvensjusteras till punkt 7.3 respektive punkt 7.4.
 
 ## Nomineringar
@@ -75,12 +75,12 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 
 ## Dokument
 
-- [Kallelse](https://d-sektionen.se/wp-content/uploads/2021/01/kallelse_vintermote_2021.pdf)
+- [Kallelse](/docs/2021/01/kallelse_vintermote_2021.pdf)
 - [Stadgar](http://styrdokument.d-sektionen.se/stadgar.pdf)
 - [Reglemente](http://styrdokument.d-sektionen.se/reglemente.pdf)
-- Motionsmall [pdf](https://d-sektionen.se/wp-content/uploads/2019/12/Motionsmall-D-sektionen-2020.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2019/12/Motionsmall-D-sektionen-2020.odt), [docx](https://d-sektionen.se/wp-content/uploads/2019/12/Motionsmall-D-sektionen-2020.docx)
-- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](https://d-sektionen.se/wp-content/uploads/2019/10/elektroniskrostningpolicy.pdf)
-- [Process för inval av ledamöter](https://d-sektionen.se/wp-content/uploads/2021/01/process-inval-ledamoter.pdf)
+- Motionsmall [pdf](/docs/2019/12/Motionsmall-D-sektionen-2020.pdf), [odt](/docs/2019/12/Motionsmall-D-sektionen-2020.odt), [docx](/docs/2019/12/Motionsmall-D-sektionen-2020.docx)
+- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](/docs/2019/10/elektroniskrostningpolicy.pdf)
+- [Process för inval av ledamöter](/docs/2021/01/process-inval-ledamoter.pdf)
 
 ## Inkomna dokument
 
@@ -92,17 +92,17 @@ Inga dokument inkomna ännu.
 
 Vid andra läsningen av stadgeändringen kan det vid förra mötet antagna stadgeändringsförslaget endast bifallas eller avslås.
 
-- [](https://d-sektionen.se/wp-content/uploads/2020/11/Proposition-anga%CC%8Aende-eventuellt-o%CC%88verskott-inom-utskott.pdf)[Proposition angående eventuellt överskott inom utskott](https://d-sektionen.se/wp-content/uploads/2020/11/Proposition-anga%CC%8Aende-eventuellt-o%CC%88verskott-inom-utskott.pdf)
+- [](/docs/2020/11/Proposition-ang%C3%A5ende-eventuellt-%C3%B6verskott-inom-utskott.pdf)[Proposition angående eventuellt överskott inom utskott](/docs/2020/11/Proposition-ang%C3%A5ende-eventuellt-%C3%B6verskott-inom-utskott.pdf)
 
 ### Motioner
 
-- [Motion angående inval av projektledare och kassör för Arbetsmarknadsgruppen](https://d-sektionen.se/wp-content/uploads/2021/01/motion-angaende-inval-av-projektledare-och-kassor-for-arbetsmarknadsgruppen.pdf)
-    - [Motionssvar](https://d-sektionen.se/wp-content/uploads/2021/01/motionssvar_angaende_inval_arbetsmarknadsgruppen.pdf)
-- [Motion angående stifta in Valberedningens policy och urvalsprocess](https://d-sektionen.se/wp-content/uploads/2021/01/motion-angaende-stifta-in-valberedningens-policy-och-urvalsprocess.pdf)
-    - [Valberedningens rekryteringspolicy](https://d-sektionen.se/wp-content/uploads/2021/01/Valberedningens-rekryteringspolicy.pdf)
-    - [Valberedningens urvalsprocess](https://d-sektionen.se/wp-content/uploads/2021/01/Valberedningens-urvalsprocess.pdf)
-    - [Motionssvar](https://d-sektionen.se/wp-content/uploads/2021/01/motionssvar_angaende-valberedning.pdf)
+- [Motion angående inval av projektledare och kassör för Arbetsmarknadsgruppen](/docs/2021/01/motion-angaende-inval-av-projektledare-och-kassor-for-arbetsmarknadsgruppen.pdf)
+    - [Motionssvar](/docs/2021/01/motionssvar_angaende_inval_arbetsmarknadsgruppen.pdf)
+- [Motion angående stifta in Valberedningens policy och urvalsprocess](/docs/2021/01/motion-angaende-stifta-in-valberedningens-policy-och-urvalsprocess.pdf)
+    - [Valberedningens rekryteringspolicy](/docs/2021/01/Valberedningens-rekryteringspolicy.pdf)
+    - [Valberedningens urvalsprocess](/docs/2021/01/Valberedningens-urvalsprocess.pdf)
+    - [Motionssvar](/docs/2021/01/motionssvar_angaende-valberedning.pdf)
 
 ### Propositioner
 
-- [Proposition angående förändring av AD-rollen](https://d-sektionen.se/wp-content/uploads/2021/01/Proposition-angaende-forandring-av-AD-rollen.pdf)
+- [Proposition angående förändring av AD-rollen](/docs/2021/01/Proposition-angaende-forandring-av-AD-rollen.pdf)

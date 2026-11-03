@@ -19,6 +19,6 @@ Anmälningsformulär: [https://forms.gle/eaMJr8c3ACX8vQxj6](https://forms.gle/ea
 
 —
 
-Detta evenemang använder sig av D-sektionens policy för avanmälan: [https://d-sektionen.se/wp-content/uploads/2022/02/Policy-for-avanmalan.pdf](https://d-sektionen.se/wp-content/uploads/2022/02/Policy-for-avanmalan.pdf)
+Detta evenemang använder sig av D-sektionens policy för avanmälan: [https://d-sektionen.se/wp-content/uploads/2022/02/Policy-for-avanmalan.pdf](/docs/2022/02/Policy-for-avanmalan.pdf)
 
 Sista dag för avanmälan: 5 maj 23:59 Avanmälan görs till: [sophie.naru@d-sektionen.se](mailto:sophie.naru@d-sektionen.se)

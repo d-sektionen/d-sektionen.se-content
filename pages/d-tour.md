@@ -6,7 +6,7 @@ date: 2025-11-10
 
 Ladda ner följande pdf för Python workshop:
 
-[https://d-sektionen.se/wp-content/uploads/2026/01/Dtour-2026-Python-workshop.pdf](https://d-sektionen.se/wp-content/uploads/2026/01/Dtour-2026-Python-workshop.pdf)
+[https://d-sektionen.se/wp-content/uploads/2026/01/Dtour-2026-Python-workshop.pdf](/docs/2026/01/Dtour-2026-Python-workshop.pdf)
 
 * * *
 

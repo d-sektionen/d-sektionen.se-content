@@ -3,7 +3,7 @@ title: "Integritetspolicy"
 date: 2018-05-24
 ---
 
-[D-sektionens policy kring datahantering finns att läsa här.](https://d-sektionen.se/wp-content/uploads/2018/05/Policy-datahantering-D-sektionen.pdf)
+[D-sektionens policy kring datahantering finns att läsa här.](/docs/2018/05/Policy-datahantering-D-sektionen.pdf)
 
 # Hemsidespecifik information
 

@@ -9,10 +9,10 @@ Toyota erbjuder exjobb för studenter.
 
 Se respektive annons för mer info!
 
-[Algoritm för batteristatusindikering](https://d-sektionen.se/wp-content/uploads/2015/10/Examensarbete-Algoritm-f%C3%B6r-batteristatusindikering.pdf)
+[Algoritm för batteristatusindikering](/docs/2015/10/Examensarbete-Algoritm-f%C3%B6r-batteristatusindikering.pdf)
 
-[Hastighetsmätning](http://d-sektionen.se/wp-content/uploads/2015/10/Examensarbete-hastighetsmätning.pdf)
+[Hastighetsmätning](/docs/2015/10/Examensarbete-hastighetsm%C3%A4tning.pdf)
 
-[Positioneringsnoggrannhet](http://d-sektionen.se/wp-content/uploads/2015/10/Examensarbete-positioneringsnoggrannhet.pdf)
+[Positioneringsnoggrannhet](/docs/2015/10/Examensarbete-positioneringsnoggrannhet.pdf)
 
-[Reglering av hydraulsystem](http://d-sektionen.se/wp-content/uploads/2015/10/Examensarbete-Reglering-av-hydraulsystem.pdf)
+[Reglering av hydraulsystem](/docs/2015/10/Examensarbete-Reglering-av-hydraulsystem.pdf)

@@ -25,13 +25,13 @@ Glöm dessutom inte att du är mer än välkommen att _skicka in motioner_. Det
 
 ## Protokoll
 
-[Protokoll vårmöte 2026](https://d-sektionen.se/wp-content/uploads/2026/06/Vårmöte-2026.pdf)
+[Protokoll vårmöte 2026](/docs/2026/06/V%C3%A5rm%C3%B6te-2026.pdf)
 
 ## Föredragningslista
 
-- [Preliminär\_föredragningslista](https://d-sektionen.se/wp-content/uploads/2026/04/preliminär-föredragningslista-2026.pdf)
+- [Preliminär\_föredragningslista](/docs/2026/04/prelimin%C3%A4r-f%C3%B6redragningslista-2026.pdf)
 
-- [Slutgiltig\_föredragningslista](https://d-sektionen.se/wp-content/uploads/2026/04/Slutgiltig_föredragningslista__1_-1.pdf)
+- [Slutgiltig\_föredragningslista](/docs/2026/04/Slutgiltig_f%C3%B6redragningslista__1_-1.pdf)
 
 ## Nomineringar
 
@@ -91,44 +91,44 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 
 ## Dokument
 
-- [Kallelse Vårmöte 2026](https://d-sektionen.se/wp-content/uploads/2026/04/Kallelse_till_vårmöte__1_.pdf)
+- [Kallelse Vårmöte 2026](/docs/2026/04/Kallelse_till_v%C3%A5rm%C3%B6te__1_.pdf)
 
-- [Måldokument 25/26](https://d-sektionen.se/wp-content/uploads/2025/11/Måldokument-25_26.docx.pdf)
+- [Måldokument 25/26](/docs/2025/11/M%C3%A5ldokument-25_26.docx.pdf)
 
-- [Stadgar](https://d-sektionen.se/wp-content/uploads/2026/04/Stadgar.pdf)
+- [Stadgar](/docs/2026/04/Stadgar.pdf)
 
-- [Reglemente](https://d-sektionen.se/wp-content/uploads/2026/04/reglamente-2026-04-27.pdf)
+- [Reglemente](/docs/2026/04/reglamente-2026-04-27.pdf)
 
-- Motionsmall [pdf](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.odt), [docx](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.docx)
+- Motionsmall [pdf](/docs/2019/10/Motionsmall-D-sektionen-2019.pdf), [odt](/docs/2019/10/Motionsmall-D-sektionen-2019.odt), [docx](/docs/2019/10/Motionsmall-D-sektionen-2019.docx)
 
-- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](https://d-sektionen.se/wp-content/uploads/2019/10/elektroniskrostningpolicy.pdf)
+- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](/docs/2019/10/elektroniskrostningpolicy.pdf)
 
 ## Inkomna dokument
 
-[Upplysning angående korrigering av sektionens löpande balanser](https://d-sektionen.se/wp-content/uploads/2026/04/Upplysning-angående-korrigering-av-sektionens-löpande-balanser.pdf)
+[Upplysning angående korrigering av sektionens löpande balanser](/docs/2026/04/Upplysning-ang%C3%A5ende-korrigering-av-sektionens-l%C3%B6pande-balanser.pdf)
 
-[Resultatrapport\_24\_25](https://d-sektionen.se/wp-content/uploads/2026/04/Resultatrapport_24_25.pdf)
+[Resultatrapport\_24\_25](/docs/2026/04/Resultatrapport_24_25.pdf)
 
-[Balansrapport\_24\_25](https://d-sektionen.se/wp-content/uploads/2026/04/Balansrapport_24_25.pdf)
+[Balansrapport\_24\_25](/docs/2026/04/Balansrapport_24_25.pdf)
 
-[Ekonomisk\_berättelse\_24\_25](https://d-sektionen.se/wp-content/uploads/2026/04/Ekonomisk_berättelse_24_25.pdf)
+[Ekonomisk\_berättelse\_24\_25](/docs/2026/04/Ekonomisk_ber%C3%A4ttelse_24_25.pdf)
 
-[Revisionsberättelse D-sektionen 24\_25](https://d-sektionen.se/wp-content/uploads/2026/04/Revisionsberättelse-D-sektionen-2425.pdf)
+[Revisionsberättelse D-sektionen 24\_25](/docs/2026/04/Revisionsber%C3%A4ttelse-D-sektionen-2425.pdf)
 
-[Budgetförslag 26\_27](https://d-sektionen.se/wp-content/uploads/2026/04/Kopia-av-Budgetförslag-26_27-Utkast-till-vårmötet-2026-04-19-Styrbudget-Projekt.pdf)
+[Budgetförslag 26\_27](/docs/2026/04/Kopia-av-Budgetf%C3%B6rslag-26_27-Utkast-till-v%C3%A5rm%C3%B6tet-2026-04-19-Styrbudget-Projekt.pdf)
 
-[Detaljbudget 2026-04-19](https://d-sektionen.se/wp-content/uploads/2026/04/Kopia-av-Budgetforslag-26_27-Utkast-till-varmotet-2026-04-19-Detaljbudget.pdf)
+[Detaljbudget 2026-04-19](/docs/2026/04/Kopia-av-Budgetforslag-26_27-Utkast-till-varmotet-2026-04-19-Detaljbudget.pdf)
 
 ## Motioner och Propositioner
 
-[Motion angående Näringslivsutskottets Ordförande och dess arbetsuppgifter](https://d-sektionen.se/wp-content/uploads/2026/04/Motion-Näringslivsansvarig-2-2.pdf)
+[Motion angående Näringslivsutskottets Ordförande och dess arbetsuppgifter](/docs/2026/04/Motion-N%C3%A4ringslivsansvarig-2-2.pdf)
 
-- [Motionssvar](https://d-sektionen.se/wp-content/uploads/2026/04/Motion-angaende-Naringslivsutskottets-Ordforande.pdf)
+- [Motionssvar](/docs/2026/04/Motion-angaende-Naringslivsutskottets-Ordforande.pdf)
 
-[Motion angående utdelning av Guldmedalj till Philip Batan](https://d-sektionen.se/wp-content/uploads/2026/04/Motion-kring-utdelning-av-Guldmedalj-till-Philip-Batan.pdf)
+[Motion angående utdelning av Guldmedalj till Philip Batan](/docs/2026/04/Motion-kring-utdelning-av-Guldmedalj-till-Philip-Batan.pdf)
 
-- [Motionssvar](https://d-sektionen.se/wp-content/uploads/2026/04/Motion-angaende-utdelning-av-guldmedalj-Philip.pdf)
+- [Motionssvar](/docs/2026/04/Motion-angaende-utdelning-av-guldmedalj-Philip.pdf)
 
-[Motion angående utdelning av Guldmedalj till Jorunn Johannesdóttír](https://d-sektionen.se/wp-content/uploads/2026/04/Motion-kring-utdelning-av-Guldmedalj-till-Jorunn-Johannesdottir.pdf)
+[Motion angående utdelning av Guldmedalj till Jorunn Johannesdóttír](/docs/2026/04/Motion-kring-utdelning-av-Guldmedalj-till-Jorunn-Johannesdottir.pdf)
 
-- [Motionssvar](https://d-sektionen.se/wp-content/uploads/2026/04/Motion-angaende-utdelning-av-guldmedalj.pdf)
+- [Motionssvar](/docs/2026/04/Motion-angaende-utdelning-av-guldmedalj.pdf)

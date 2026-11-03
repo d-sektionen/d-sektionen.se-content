@@ -22,23 +22,23 @@ På denna sida kommer information om D-sektionens extrainsatta sektionsmöte att
 
 På grund av regeringens beslut om att förbjuda sammankomster med fler än 8 deltagare kommer deltagandet på sektionsmötet att ske över Zoom. För att mötet ska flyta på smidigt så har vi en guide, där vi beskriver hur omröstning, talarlista och mötet i sin helhet kommer fungera på distans. 
 
-[Distansmöte Datateknologsektionen – Guide](https://d-sektionen.se/wp-content/uploads/2021/01/Sektionsmöte-på-distans-Vintermöte.pdf)
+[Distansmöte Datateknologsektionen – Guide](/docs/2021/01/Sektionsm%C3%B6te-p%C3%A5-distans-Vinterm%C3%B6te.pdf)
 
 ## Protokoll
 
-[Protokoll extramöte 2021](https://d-sektionen.se/wp-content/uploads/2021/03/Protokoll-Extramote-2021_Redacted.pdf)
+[Protokoll extramöte 2021](/docs/2021/03/Protokoll-Extramote-2021_Redacted.pdf)
 
 ## Föredragningslista
 
-[Slutgiltig föredragningslista](https://d-sektionen.se/wp-content/uploads/2021/03/slutgiltig_foredragningslista_extramote.pdf)
+[Slutgiltig föredragningslista](/docs/2021/03/slutgiltig_foredragningslista_extramote.pdf)
 
 ## Dokument
 
-- [Kallelse](https://d-sektionen.se/wp-content/uploads/2021/02/kallelse_extramote.pdf)
+- [Kallelse](/docs/2021/02/kallelse_extramote.pdf)
 - [Stadgar](http://styrdokument.d-sektionen.se/stadgar.pdf)
 - [Reglemente](http://styrdokument.d-sektionen.se/reglemente.pdf)
-- Motionsmall [pdf](https://d-sektionen.se/wp-content/uploads/2019/12/Motionsmall-D-sektionen-2020.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2019/12/Motionsmall-D-sektionen-2020.odt), [docx](https://d-sektionen.se/wp-content/uploads/2019/12/Motionsmall-D-sektionen-2020.docx)
-- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](https://d-sektionen.se/wp-content/uploads/2019/10/elektroniskrostningpolicy.pdf)
+- Motionsmall [pdf](/docs/2019/12/Motionsmall-D-sektionen-2020.pdf), [odt](/docs/2019/12/Motionsmall-D-sektionen-2020.odt), [docx](/docs/2019/12/Motionsmall-D-sektionen-2020.docx)
+- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](/docs/2019/10/elektroniskrostningpolicy.pdf)
 
 ## Motioner och propositioner
 
@@ -46,8 +46,8 @@ På grund av regeringens beslut om att förbjuda sammankomster med fler än 8 de
 
 Vid andra läsningen av stadgeändringen kan det vid förra mötet antagna stadgeändringsförslaget endast bifallas eller avslås.
 
-- [Motion angående inval av projektledare och kassör för Arbetsmarknadsgruppen](https://d-sektionen.se/wp-content/uploads/2021/01/motion-angaende-inval-av-projektledare-och-kassor-for-arbetsmarknadsgruppen.pdf)
-    - [Motionssvar](https://d-sektionen.se/wp-content/uploads/2021/01/motionssvar_angaende_inval_arbetsmarknadsgruppen.pdf)
+- [Motion angående inval av projektledare och kassör för Arbetsmarknadsgruppen](/docs/2021/01/motion-angaende-inval-av-projektledare-och-kassor-for-arbetsmarknadsgruppen.pdf)
+    - [Motionssvar](/docs/2021/01/motionssvar_angaende_inval_arbetsmarknadsgruppen.pdf)
 
 ### Motioner
 
@@ -55,6 +55,6 @@ Inga motioner inkomna ännu.
 
 ### Propositioner
 
-- [Proposition angående revidering av styrdokument](https://d-sektionen.se/wp-content/uploads/2021/03/Proposition-angaende-revidering-av-styrdokument.pdf)
-    - [Föreslagen stadga](https://d-sektionen.se/wp-content/uploads/2021/03/Förslag-Stadgar.pdf)
-    - [Föreslaget reglemente](https://d-sektionen.se/wp-content/uploads/2021/03/Förslag-Reglemente.pdf)
+- [Proposition angående revidering av styrdokument](/docs/2021/03/Proposition-angaende-revidering-av-styrdokument.pdf)
+    - [Föreslagen stadga](/docs/2021/03/F%C3%B6rslag-Stadgar.pdf)
+    - [Föreslaget reglemente](/docs/2021/03/F%C3%B6rslag-Reglemente.pdf)

@@ -23,11 +23,11 @@ Glöm dessutom inte att du är mer än välkommen att _skicka in motioner_. Det
 
 ## Protokoll
 
-[Protokoll för D-sektionens vintermöte 2024](https://d-sektionen.se/wp-content/uploads/2024/02/protokoll-vintermote-2024-signed.pdf)
+[Protokoll för D-sektionens vintermöte 2024](/docs/2024/02/protokoll-vintermote-2024-signed.pdf)
 
 ## Föredragningslista
 
-[Slutgiltig föredragningslista](https://d-sektionen.se/wp-content/uploads/2024/01/slutgiltig-foredragningslista-vintermote-2024.pdf)
+[Slutgiltig föredragningslista](/docs/2024/01/slutgiltig-foredragningslista-vintermote-2024.pdf)
 
 ## Nomineringar
 
@@ -93,21 +93,21 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 
 ## Dokument
 
-- [Kallelse](https://d-sektionen.se/wp-content/uploads/2024/01/kallelse-vintermote-2024.pdf)
+- [Kallelse](/docs/2024/01/kallelse-vintermote-2024.pdf)
 
-- [Måldokument 23/24](https://d-sektionen.se/wp-content/uploads/2023/10/Ma%CC%8Aldokument-23_24.pdf)
+- [Måldokument 23/24](/docs/2023/10/M%C3%A5ldokument-23_24.pdf)
 
 - [Stadgar](https://styrdokument.d-sektionen.se/stadgar.pdf)
 
 - [Reglemente](https://styrdokument.d-sektionen.se/reglemente.pdf)
 
-- Motionsmall [pdf](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.odt), [docx](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.docx)
+- Motionsmall [pdf](/docs/2019/10/Motionsmall-D-sektionen-2019.pdf), [odt](/docs/2019/10/Motionsmall-D-sektionen-2019.odt), [docx](/docs/2019/10/Motionsmall-D-sektionen-2019.docx)
 
-- [Policy för elektronsikt röstningssystem i samband med sektionsmöten](https://d-sektionen.se/wp-content/uploads/2019/10/elektroniskrostningpolicy.pdf)
+- [Policy för elektronsikt röstningssystem i samband med sektionsmöten](/docs/2019/10/elektroniskrostningpolicy.pdf)
 
 ## Inkomna dokument
 
-- [Budgetrevidering vintermöte 2024](https://d-sektionen.se/wp-content/uploads/2024/01/budgetrevidering-vintermote-2024.pdf)
+- [Budgetrevidering vintermöte 2024](/docs/2024/01/budgetrevidering-vintermote-2024.pdf)
 
 ## Motioner och propositioner
 

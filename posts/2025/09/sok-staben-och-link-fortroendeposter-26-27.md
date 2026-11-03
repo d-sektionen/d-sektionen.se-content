@@ -59,7 +59,7 @@ Ansökan för STABEN och LINK är öppen fram till kl 23:59 den 12:e oktober och
 
 —---------------------------------- Valberedningens urvalsprocess —----------------------------------
 
-Mer information om valberedningens urvalsprocess finns på: [https://d-sektionen.se/wp-content/uploads/2021/03/Valberedningens-Urvalsprocess.pdf](https://d-sektionen.se/wp-content/uploads/2021/03/Valberedningens-Urvalsprocess.pdf) 
+Mer information om valberedningens urvalsprocess finns på: [https://d-sektionen.se/wp-content/uploads/2021/03/Valberedningens-Urvalsprocess.pdf](/docs/2021/03/Valberedningens-Urvalsprocess.pdf) 
 
 (Obs, informationen nedan gäller endast ansökan till STABEN)
 

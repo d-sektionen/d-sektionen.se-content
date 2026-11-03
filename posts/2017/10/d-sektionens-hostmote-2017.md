@@ -19,4 +19,4 @@ Mer information, handlingar samt anmälan hittar du på: [https://d-sektionen.se
 
 FB-event: [https://www.facebook.com/events/292407314583466](https://www.facebook.com/events/292407314583466)
 
-[Officiell kallelse](https://d-sektionen.se/wp-content/uploads/2017/10/Kallelse-för-D-sektionens-höstmöte-2017.pdf)
+[Officiell kallelse](/docs/2017/10/Kallelse-f%C3%B6r-D-sektionens-h%C3%B6stm%C3%B6te-2017.pdf)

@@ -25,13 +25,13 @@ Glöm dessutom inte att du är mer än välkommen att _skicka in motioner_. Det
 
 ## Protokoll
 
-[Protokoll Vintermöte 2025](https://d-sektionen.se/wp-content/uploads/2025/02/Protokoll-Vintermote-2025-Signerad.pdf)
+[Protokoll Vintermöte 2025](/docs/2025/02/Protokoll-Vintermote-2025-Signerad.pdf)
 
 ## Föredragningslista
 
-[Preliminär föredragningslista](https://d-sektionen.se/wp-content/uploads/2025/01/Preliminar_foredragningslista_vintermote_2025.pdf)
+[Preliminär föredragningslista](/docs/2025/01/Preliminar_foredragningslista_vintermote_2025.pdf)
 
-[Slutgiltig Föredragningslista](https://d-sektionen.se/wp-content/uploads/2025/01/Slutgiltiga-Foredragningslistan-Vintermote-2025.pdf)
+[Slutgiltig Föredragningslista](/docs/2025/01/Slutgiltiga-Foredragningslistan-Vintermote-2025.pdf)
 
 ## Nomineringar
 
@@ -91,27 +91,27 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 
 ## Dokument
 
-- [Kallelse Vintermöte 2025](https://d-sektionen.se/wp-content/uploads/2025/01/Kallelse_vintermote_2025.pdf)
+- [Kallelse Vintermöte 2025](/docs/2025/01/Kallelse_vintermote_2025.pdf)
 
-- [Måldokument 24/25](https://d-sektionen.se/wp-content/uploads/2024/12/Maldokument-24_25.pdf)
+- [Måldokument 24/25](/docs/2024/12/Maldokument-24_25.pdf)
 
 - [Stadgar](https://styrdokument.d-sektionen.se/stadgar.pdf)
 
-- [Reglemente](https://d-sektionen.se/wp-content/uploads/2025/01/reglemente-2025_01_17.pdf)
+- [Reglemente](/docs/2025/01/reglemente-2025_01_17.pdf)
 
-- Motionsmall [pdf](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.odt), [docx](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.docx)
+- Motionsmall [pdf](/docs/2019/10/Motionsmall-D-sektionen-2019.pdf), [odt](/docs/2019/10/Motionsmall-D-sektionen-2019.odt), [docx](/docs/2019/10/Motionsmall-D-sektionen-2019.docx)
 
-- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](https://d-sektionen.se/wp-content/uploads/2019/10/elektroniskrostningpolicy.pdf)
+- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](/docs/2019/10/elektroniskrostningpolicy.pdf)
 
 ## Inkomna dokument
 
-- [Detaljbudget](https://d-sektionen.se/wp-content/uploads/2025/01/Budget-24_25-Forslag-vintermote-2025-02-02-Detaljbudget.pdf)
+- [Detaljbudget](/docs/2025/01/Budget-24_25-Forslag-vintermote-2025-02-02-Detaljbudget.pdf)
 
-- [Styrbudget - Projekt](https://d-sektionen.se/wp-content/uploads/2025/01/Budget-24_25-Forslag-vintermote-2025-02-02-Styrbudget-Projekt.pdf)
+- [Styrbudget - Projekt](/docs/2025/01/Budget-24_25-Forslag-vintermote-2025-02-02-Styrbudget-Projekt.pdf)
 
-- [Budgetrevidering](https://d-sektionen.se/wp-content/uploads/2025/01/Reviderade-budgetposter-Forslag-vintermote-2025-02-02-Master.pdf)
+- [Budgetrevidering](/docs/2025/01/Reviderade-budgetposter-Forslag-vintermote-2025-02-02-Master.pdf)
 
-- [Hedersmedlems nominering - Richard Johansson](https://d-sektionen.se/wp-content/uploads/2025/02/Hedersmedlem-nominering_-Richard-Johansson.pdf)
+- [Hedersmedlems nominering - Richard Johansson](/docs/2025/02/Hedersmedlem-nominering_-Richard-Johansson.pdf)
 
 ## Motioner och Propositioner
 

@@ -27,7 +27,7 @@ _Kommer inom kort_
 
 ## Föredragningslista
 
-[Preliminär föredragningslista](https://d-sektionen.se/wp-content/uploads/2026/10/Preliminar-foredragningslista.pdf)
+[Preliminär föredragningslista](/docs/2026/10/Preliminar-foredragningslista.pdf)
 
 ## Personval
 
@@ -63,59 +63,59 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 
 ## Dokument
 
-- [Kallelse](https://d-sektionen.se/wp-content/uploads/2026/10/kallelse-till-hostmote.pdf)
+- [Kallelse](/docs/2026/10/kallelse-till-hostmote.pdf)
 
-- [Måldokument 26/27](https://d-sektionen.se/wp-content/uploads/2026/10/Maldokument-26_27.pdf)
+- [Måldokument 26/27](/docs/2026/10/Maldokument-26_27.pdf)
 
-- [Stadgar](https://d-sektionen.se/wp-content/uploads/2026/01/stadgar.pdf)
+- [Stadgar](/docs/2026/01/stadgar.pdf)
 
-- [Reglemente](https://d-sektionen.se/wp-content/uploads/2025/01/reglemente-2025_01_17.pdf)
+- [Reglemente](/docs/2025/01/reglemente-2025_01_17.pdf)
 
-- Motionsmall [pdf](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.odt), [docx](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.docx)
+- Motionsmall [pdf](/docs/2019/10/Motionsmall-D-sektionen-2019.pdf), [odt](/docs/2019/10/Motionsmall-D-sektionen-2019.odt), [docx](/docs/2019/10/Motionsmall-D-sektionen-2019.docx)
 
-- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](https://d-sektionen.se/wp-content/uploads/2019/10/elektroniskrostningpolicy.pdf)
+- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](/docs/2019/10/elektroniskrostningpolicy.pdf)
 
 ## Inkomna dokument
 
 __Verksamhetsberättelser 25/26:__
 
-- [Alumniutskottet](https://d-sektionen.se/wp-content/uploads/2026/10/Alumniutskottet-2526.pdf)
+- [Alumniutskottet](/docs/2026/10/Alumniutskottet-2526.pdf)
 
-- [D-Group](https://d-sektionen.se/wp-content/uploads/2026/10/D-Group-2526.pdf)
+- [D-Group](/docs/2026/10/D-Group-2526.pdf)
 
-- [D50](https://d-sektionen.se/wp-content/uploads/2026/10/D50-2526.pdf)
+- [D50](/docs/2026/10/D50-2526.pdf)
 
-- [Donna 24/25](https://d-sektionen.se/wp-content/uploads/2026/10/Donna-2425.pdf)
+- [Donna 24/25](/docs/2026/10/Donna-2425.pdf)
 
-- [Donna 25/26](https://d-sektionen.se/wp-content/uploads/2026/10/Donna-2526.pdf)
+- [Donna 25/26](/docs/2026/10/Donna-2526.pdf)
 
-- [Eventutskottet](https://d-sektionen.se/wp-content/uploads/2026/10/EventU-2526.pdf)
+- [Eventutskottet](/docs/2026/10/EventU-2526.pdf)
 
 - Ekonomiutskottet
 
-- [InfU](https://d-sektionen.se/wp-content/uploads/2026/10/InfU-2526.pdf)
+- [InfU](/docs/2026/10/InfU-2526.pdf)
 
-- [LINK](https://d-sektionen.se/wp-content/uploads/2026/10/LINK-2526.pdf)
+- [LINK](/docs/2026/10/LINK-2526.pdf)
 
 - Marknadsföringsutskottet
 
-- [Näringslivsutskottet](https://d-sektionen.se/wp-content/uploads/2026/10/NarU-2526.pdf)
+- [Näringslivsutskottet](/docs/2026/10/NarU-2526.pdf)
 
-- [Pubutskottet](https://d-sektionen.se/wp-content/uploads/2026/10/PubU-2526.pdf)
+- [Pubutskottet](/docs/2026/10/PubU-2526.pdf)
 
-- [STABEN](https://d-sektionen.se/wp-content/uploads/2026/10/STABEN-25.pdf)
+- [STABEN](/docs/2026/10/STABEN-25.pdf)
 
 - Styrelsen
 
-- [Utbildningsutskottet](https://d-sektionen.se/wp-content/uploads/2026/10/UtbU-2526.pdf)
+- [Utbildningsutskottet](/docs/2026/10/UtbU-2526.pdf)
 
-- [Valberedningen](https://d-sektionen.se/wp-content/uploads/2026/10/Valberedningen-2526.pdf)
+- [Valberedningen](/docs/2026/10/Valberedningen-2526.pdf)
 
-- [WebbU](https://d-sektionen.se/wp-content/uploads/2026/10/WebbU-2526.pdf)
+- [WebbU](/docs/2026/10/WebbU-2526.pdf)
 
-- [Werk](https://d-sektionen.se/wp-content/uploads/2026/10/Werk-2526.pdf)
+- [Werk](/docs/2026/10/Werk-2526.pdf)
 
-- [Sakrevisor](https://d-sektionen.se/wp-content/uploads/2026/10/Sakrevision-2526.pdf)
+- [Sakrevisor](/docs/2026/10/Sakrevision-2526.pdf)
 
 ## Motioner och propositioner
 

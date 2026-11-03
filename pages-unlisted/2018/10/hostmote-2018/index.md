@@ -17,11 +17,11 @@ Glöm inte att du är mer än välkommen till att _motkandidera_ till någon av 
 
 ## Protokoll
 
-[Protokoll höstmöte 2018](https://d-sektionen.se/wp-content/uploads/2018/11/protokoll-höstmöte-2018.pdf)
+[Protokoll höstmöte 2018](/docs/2018/11/protokoll-h%C3%B6stm%C3%B6te-2018.pdf)
 
 ## Föredragningslista
 
-- [Slutgiltig föredragningslista höstmötet 2018](https://d-sektionen.se/wp-content/uploads/2018/11/slutgiltig-Föredragningslista-höstmötet-2018.pdf)
+- [Slutgiltig föredragningslista höstmötet 2018](/docs/2018/11/slutgiltig-F%C3%B6redragningslista-h%C3%B6stm%C3%B6tet-2018.pdf)
 
 ## Nomineringar
 
@@ -34,11 +34,11 @@ Valberedningen har nominerat följande:
 
 ## Dokument
 
-- [Kallelse](https://d-sektionen.se/wp-content/uploads/2018/10/Kallelse-höstmötet.pdf)
-- [Reglemente](https://d-sektionen.se/wp-content/uploads/2018/09/Reglemente1819.pdf)
-- [Stadgar](https://d-sektionen.se/wp-content/uploads/2017/10/Stadgar.pdf)
-- [Motionsmall pdf](https://d-sektionen.se/wp-content/uploads/2018/01/Motionsmall-D-sektionens-vintermöte-2018.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2018/01/Motionsmall-D-sektionens-vintermöte-2018.odt), [docx](https://d-sektionen.se/wp-content/uploads/2018/01/Motionsmall-D-sektionens-vintermöte-2018.docx)
-- [Måldokument 18/19](https://d-sektionen.se/wp-content/uploads/2018/11/Måldokument-182F19-1.pdf)
+- [Kallelse](/docs/2018/10/Kallelse-h%C3%B6stm%C3%B6tet.pdf)
+- [Reglemente](/docs/2018/09/Reglemente1819.pdf)
+- [Stadgar](/docs/2017/10/Stadgar.pdf)
+- [Motionsmall pdf](/docs/2018/01/Motionsmall-D-sektionens-vinterm%C3%B6te-2018.pdf), [odt](/docs/2018/01/Motionsmall-D-sektionens-vinterm%C3%B6te-2018.odt), [docx](/docs/2018/01/Motionsmall-D-sektionens-vinterm%C3%B6te-2018.docx)
+- [Måldokument 18/19](/docs/2018/11/M%C3%A5ldokument-182F19-1.pdf)
 
 ## Inkomna dokument
 
@@ -50,16 +50,16 @@ Inga dokument inkomna.
 
 Vid andra läsningen av stadgeändringen kan det vid förra mötet antagna stadgeändringsförslaget endast bifallas eller avslås.
 
-- [Motion angående mastersnordf](https://d-sektionen.se/wp-content/uploads/2018/04/Motion-angående-mastersnordf.pdf)
-- [Motion angånede namnbyte av nolleperioden](https://d-sektionen.se/wp-content/uploads/2018/04/Motion-angående-namnbyte-av-nolleperioden.pdf)
-- [Motion angående Styrelsens sammansättning och arbetsordning (Med ändringar enligt vårmötets beslut)](https://d-sektionen.se/wp-content/uploads/2018/10/Motion-angående-Styrelsens-sammansättning-och-arbetsordning-med-ändringar.pdf)
+- [Motion angående mastersnordf](/docs/2018/04/Motion-ang%C3%A5ende-mastersnordf.pdf)
+- [Motion angånede namnbyte av nolleperioden](/docs/2018/04/Motion-ang%C3%A5ende-namnbyte-av-nolleperioden.pdf)
+- [Motion angående Styrelsens sammansättning och arbetsordning (Med ändringar enligt vårmötets beslut)](/docs/2018/10/Motion-ang%C3%A5ende-Styrelsens-sammans%C3%A4ttning-och-arbetsordning-med-%C3%A4ndringar.pdf)
     - Ändringarna beskrivs på de två första sidorna, resterande innehåll är oförändrat.
 
 ### Propositioner
 
-- [Proposition angående omstrukturering av §5.13 Höstmötet](https://d-sektionen.se/wp-content/uploads/2018/11/Proposition-angående-omstrukturering-av-§5.13-Höstmötet.pdf)
-- [Proposition angående aktivitetsutskottets ansvarsfrihet](https://d-sektionen.se/wp-content/uploads/2018/11/Proposition-angående-aktivitetsutskottets-ansvarsfrihet.pdf)
-- [Proposition angående arbetsmarknadsgruppen](https://d-sektionen.se/wp-content/uploads/2018/11/Proposition-angående-arbetsmarknadsgruppen.pdf)
+- [Proposition angående omstrukturering av §5.13 Höstmötet](/docs/2018/11/Proposition-ang%C3%A5ende-omstrukturering-av-%C2%A75.13-H%C3%B6stm%C3%B6tet.pdf)
+- [Proposition angående aktivitetsutskottets ansvarsfrihet](/docs/2018/11/Proposition-ang%C3%A5ende-aktivitetsutskottets-ansvarsfrihet.pdf)
+- [Proposition angående arbetsmarknadsgruppen](/docs/2018/11/Proposition-ang%C3%A5ende-arbetsmarknadsgruppen.pdf)
 
 ## Anmälan
 

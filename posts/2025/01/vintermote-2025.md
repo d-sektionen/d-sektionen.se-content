@@ -31,7 +31,7 @@ _Publiceras efter mötet_
 
 ## Föredragningslista
 
-[Preliminär föredragningslista](https://d-sektionen.se/wp-content/uploads/2025/01/Preliminar_foredragningslista_vintermote_2025.pdf)
+[Preliminär föredragningslista](/docs/2025/01/Preliminar_foredragningslista_vintermote_2025.pdf)
 
 ## Nomineringar
 
@@ -87,17 +87,17 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 
 ## Dokument
 
-[Kallelse Vintermöte 2025](https://d-sektionen.se/wp-content/uploads/2025/01/Kallelse_vintermote_2025.pdf)
+[Kallelse Vintermöte 2025](/docs/2025/01/Kallelse_vintermote_2025.pdf)
 
-[Måldokument 24/25](https://d-sektionen.se/wp-content/uploads/2024/12/Maldokument-24_25.pdf)
+[Måldokument 24/25](/docs/2024/12/Maldokument-24_25.pdf)
 
 [Stadgar](https://styrdokument.d-sektionen.se/stadgar.pdf)
 
-[Reglemente](https://d-sektionen.se/wp-content/uploads/2025/01/reglemente-2025_01_17.pdf)
+[Reglemente](/docs/2025/01/reglemente-2025_01_17.pdf)
 
-Motionsmall [pdf](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.odt), [docx](https://d-sektionen.se/wp-content/uploads/2019/10/Motionsmall-D-sektionen-2019.docx)
+Motionsmall [pdf](/docs/2019/10/Motionsmall-D-sektionen-2019.pdf), [odt](/docs/2019/10/Motionsmall-D-sektionen-2019.odt), [docx](/docs/2019/10/Motionsmall-D-sektionen-2019.docx)
 
-[Policy för elektroniskt röstningssystem i samband med sektionsmöten](https://d-sektionen.se/wp-content/uploads/2019/10/elektroniskrostningpolicy.pdf)
+[Policy för elektroniskt röstningssystem i samband med sektionsmöten](/docs/2019/10/elektroniskrostningpolicy.pdf)
 
 ## Inkomna dokument
 
