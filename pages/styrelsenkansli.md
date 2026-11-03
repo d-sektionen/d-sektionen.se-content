@@ -12,18 +12,4 @@ Behöver du kontakta någon avseende ekonomiska skäl? Se sektionens kassörer o
 
 Studienämndsordförande, även kallade SnOrdf kan man kontakta om man har funderingar, tankar eller åsikter kring sin utbildning som man vill ska lyftas till nämden. För mer info om SnOrdfarnas arbete kan du klicka in på UtbUs sida: [Utbildningsutskottet](https://d-sektionen.se/utbildningsutskottet/)
 
-### Styrelsen
-
-\[ninja\_tables id="8657"\]
-
-### Kansliet
-
-\[ninja\_tables id="8659"\]
-
-### Kassörer
-
-### SnOrdfar
-
-\[ninja\_tables id="13739"\]
-
 Om du har tips, åsikter eller idéer på hur vi kan förbättra sektionens arbete är du varmt välkommen att kontakta någon av oss!

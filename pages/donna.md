@@ -28,7 +28,6 @@ _[Donna på Instagram](http://www.instagram.com/donna_dsektionen)_
 
 ![13987460\_554820711370633\_4409692854337125298\_o](images/13987460_554820711370633_4409692854337125298_o.jpg)
 
-**Frågor? Skriv till oss!  
+**Frågor? Skriv till oss!**  
 Josefiné Sahlström (Ordförande 26/27)  
-[ordf.donna@d-sektionen.se](mailto:ordf.donna@d-sektionen.se)  
-**
+[ordf.donna@d-sektionen.se](mailto:ordf.donna@d-sektionen.se)

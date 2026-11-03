@@ -46,7 +46,5 @@ D-sektionen jobbar hårt med att låta våra medlemmar ha god kontakt med arbets
 
 Om vi vet var våra medlemmar hamnar efter utbildningen hjälper det oss i att rekrytera nya studenter till sektionens alla utbildningar.
 
-**  
-Rebecka Smids (Alumniutskottets ordförande 26/27)  
-[alumni@d-sektionen.se](mailto:alumni@d-sektionen.se)  
-**
+**Rebecka Smids (Alumniutskottets ordförande 26/27)**  
+[alumni@d-sektionen.se](mailto:alumni@d-sektionen.se)

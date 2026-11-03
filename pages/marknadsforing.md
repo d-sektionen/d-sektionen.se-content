@@ -21,6 +21,5 @@ Under året anordnas besöksdagar, även kallat D-tour, där gymnasieelever frå
 
 Vill du vara sektionens ansikte utåt och representera vår sektion? Se till att söka när ansökningsperioden öppnar, vilket brukar vara sent i vår eller tidigt på hösten!
 
-**  
-Kajsa Näsman (Marknadsföringsansvarig 25/26)  
-**[](mailto:Spals@d-sektionen.se)[mafa@d-sektionen.se](mailto:mafa@d-sektionen.se)
+**Kajsa Näsman (Marknadsföringsansvarig 25/26)**  
+[mafa@d-sektionen.se](mailto:mafa@d-sektionen.se)

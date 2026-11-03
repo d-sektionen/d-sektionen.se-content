@@ -10,13 +10,13 @@ Vi vill att alla inom sektionen ska känna sig trygga och respekterade. Här hit
 
 Har du upplevt eller bevittnat diskriminering, trakasserier eller annan kränkande behandling? Då vill vi att du hör av dig. En händelse betraktas som kränkande, diskriminerande eller trakasserande om du själv upplever den som sådan.
 
-## **Så här går du tillväga**
+## Så här går du tillväga
 
-Du kan mejla sektionens arbetsmiljöombud (AMO) via mail på [amo@d-sektionen.se](mailto:amo@d-sektionen.se) eller sektionens vice ordförande på [vice@d-sektionen.se](mailto:ice@d-sektionen.se)
+Du kan mejla sektionens arbetsmiljöombud (AMO) via mail på [amo@d-sektionen.se](mailto:amo@d-sektionen.se) eller sektionens vice ordförande på [vice@d-sektionen.se](mailto:vice@d-sektionen.se)
 
 Om du föredrar det kan du också prata med någon du har förtroende för inom sektionen, som sedan kan hjälpa dig vidare.
 
-## **Vad händer efter en anmälan?**
+## Vad händer efter en anmälan?
 
 När du kontaktar oss påbörjas en process som syftar till att lösa situationen och återställa en trygg miljö. All hantering sker med stor diskretion och respekt för din situation.
 
@@ -31,11 +31,11 @@ När du kontaktar oss påbörjas en process som syftar till att lösa situatione
 
 - **Beslut & återkoppling:** Vi fattar beslut om eventuella åtgärder i enlighet med sektionens policys. Du får löpande information om hur ärendet fortskrider.
 
-## **Ditt val**
+## Ditt val
 
 Du äger din berättelse. Du kan kontakta AMO bara för att få stöd eller rådgivning, utan att det startas en formell utredning. Det är du som avgör hur mycket du vill berätta och om du vill gå vidare med en formell anmälan. Det är aldrig ditt fel om du blivit utsatt.
 
-## **Stöd utanför sektionen**
+## Stöd utanför sektionen
 
 Om du hellre vill prata med någon utanför sektionen finns stöd via:
 

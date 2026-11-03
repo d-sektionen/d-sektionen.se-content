@@ -35,7 +35,7 @@ Utöver de ovan nämnda projekten och de dagliga rutinerna, som till exempel att
 
 ## Sektionsrummen
 
-_**Kontaktperson**: Ludvig Bengtsson ([reningswerk@d-sektionen.se](mailto:reningswerk@d-sektionen.se)) för allmänna frågor eller för frågor om teknisk utrustning._
+**Kontaktperson**: Ludvig Bengtsson ([reningswerk@d-sektionen.se](mailto:reningswerk@d-sektionen.se)) för allmänna frågor eller för frågor om teknisk utrustning.
 
 D-sektionen har två sektionsrum: Bettan, Configura. Bettan ligger i Kårallen på nedervåningen, se kartan nedan. Configura ligger på ovanvåningen i HusETT (bakom A-huset).
 
@@ -53,7 +53,7 @@ Bettan är sektionens uppehållsrum, dit man kan komma till exempel för att fö
 
 ## Bilarna
 
-_**Kontaktperson**: Jessica Andersson ([vagwerk@d-sektionen.se](mailto:vagwerk@d-sektionen.se))_
+**Kontaktperson**: Jessica Andersson ([vagwerk@d-sektionen.se](mailto:vagwerk@d-sektionen.se))
 
 Den "allmänna" sektionsbilen är en manuell Kia C'eed '14 utrustad med dragkrok. Denna bil får brukas både för personligt bruk och sektionsverksamhet. Mer info finns i bilavtalet och i handskfacket i bilen.
 
@@ -63,7 +63,7 @@ Glöm inte att **alla** som kör någon av bilarna måste [logga sin körning](h
 
 ## Våra Förråd
 
-_**Kontaktperson**: Ferdinand Kouhia ([kraftwerk@d-sektionen.se](mailto:kraftwerk@d-sektionen.se))_
+**Kontaktperson**: Ferdinand Kouhia ([kraftwerk@d-sektionen.se](mailto:kraftwerk@d-sektionen.se))
 
 D-sektionen har ett antal lokaler som kan användas som förråd\*.
 
@@ -87,9 +87,13 @@ Gula Ladan (ofta slarvigt kallat för 'VTI') är ett gult hus på VTI (som ligge
 
 ## Våra verktyg
 
-_**Kontaktperson**: Ferdinand Kouhia ([kraftwerk@d-sektionen.se](mailto:kraftwerk@d-sektionen.se))_
+**Kontaktperson**: Ferdinand Kouhia ([kraftwerk@d-sektionen.se](mailto:kraftwerk@d-sektionen.se))
 
-D-sektionen har sedan förr en mycket kompetent uppsättning verktyg som utskotten kan låna. Fråga Werkmästeriet innan användning så ser vi till att werktygen lämnas ut på ett kontrollerat sätt. Undantaget är fraktvagnen som får nyttjas för transport men sedan ska återlämnas till B23 så snart som möjligt. Följande verktyg och redskap finns att tillgå (2018): ![](images/nya-Werktyg.jpg) **På bilden:** _Fotpump, cykelverktygssats inklusive insexnyckelsats och kedjebrytare, bågfil, skruvdragare med bitshållare, bitsmejsel, bitssats, hammare, fil/rasp, kniv, skiftnyckel, plåtsax, insexnyckelsats, brytbladskniv, multimeter, hylsnyckelsats, meterstockar (1 resp 2 meter), gummiklubba, vattenpass, kabeltång, borrsats, spännband, limpistol, limpatroner._ Utanför bilden finns även en såg, en hopfällbar fraktvagn som klarar 150kg, lödningskit (bokas av werk), tillbehör till skruvdragaren samt diverse bilvertyg (i bilen). I förrådet i Gula Ladan finns även spik, skruv, beslag och liknande i stora mängder.
+D-sektionen har sedan förr en mycket kompetent uppsättning verktyg som utskotten kan låna. Fråga Werkmästeriet innan användning så ser vi till att werktygen lämnas ut på ett kontrollerat sätt. Undantaget är fraktvagnen som får nyttjas för transport men sedan ska återlämnas till B23 så snart som möjligt. Följande verktyg och redskap finns att tillgå (2018):
+
+![](images/nya-Werktyg.jpg)
+
+**På bilden:** _Fotpump, cykelverktygssats inklusive insexnyckelsats och kedjebrytare, bågfil, skruvdragare med bitshållare, bitsmejsel, bitssats, hammare, fil/rasp, kniv, skiftnyckel, plåtsax, insexnyckelsats, brytbladskniv, multimeter, hylsnyckelsats, meterstockar (1 resp 2 meter), gummiklubba, vattenpass, kabeltång, borrsats, spännband, limpistol, limpatroner._ Utanför bilden finns även en såg, en hopfällbar fraktvagn som klarar 150kg, lödningskit (bokas av werk), tillbehör till skruvdragaren samt diverse bilvertyg (i bilen). I förrådet i Gula Ladan finns även spik, skruv, beslag och liknande i stora mängder.
 
 ## Kontaktuppgifter
 

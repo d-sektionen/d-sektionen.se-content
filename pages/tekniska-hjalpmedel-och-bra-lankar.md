@@ -3,7 +3,7 @@ title: "Tekniska hjälpmedel och bra länkar"
 date: 2025-02-21
 ---
 
-## **Bra länkar:**
+## Bra länkar
 
 [Studenthälsan](https://liuonline.sharepoint.com/sites/student-stod-och-kontakt/SitePages/en/Studenthalsan.aspx)
 
@@ -13,8 +13,7 @@ date: 2025-02-21
 
 [Timeedit schema](https://cloud.timeedit.net/liu/web/schema/ri1Q7.html)
 
-##   
-**Tekniska länkar:**
+## Tekniska länkar
 
 **Ladda ner Thinlinc**: [https://www.ida.liu.se/~TDDE23/course\_content/F.labba\_hemifran/F.1.att-koppla-upp-sig-mot-ida.shtml](https://www.ida.liu.se/~TDDE23/course_content/F.labba_hemifran/F.1.att-koppla-upp-sig-mot-ida.shtml)  
 För att komma åt skolans datorer på distans. För att använda thinlinc behövs även Forti-client VPN samt tvåstegsverifiering, se länkar nedan.
@@ -25,7 +24,7 @@ Komma åt datorer i specifika salar ifall speciell mjukvara behövs. Exempelvis 
 **Forti-Client VPN**: [https://liudesk.liu.se/tas/public/ssp/content/detail/knowledgeitem?unid=5781469d338240abb741d51b97eccb8a](https://liudesk.liu.se/tas/public/ssp/content/detail/knowledgeitem?unid=5781469d338240abb741d51b97eccb8a)  
 VPN som behövs för att använda thinlinc.
 
-**Tvåstegsverifiering, guide**: [https://liu.se/organisation/liu/uf/digit/tsv-manual](<https://liu.se/organisation/liu/uf/digit/tsv-manual >)  
+**Tvåstegsverifiering, guide**: [https://liu.se/organisation/liu/uf/digit/tsv-manual](https://liu.se/organisation/liu/uf/digit/tsv-manual)  
 Hur man sätter upp tvåstegsverifiering för ditt LiU-konto.
 
 **LiU-net fast baklänges**: [https://tenuil.com/](https://tenuil.com/)  

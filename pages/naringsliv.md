@@ -32,6 +32,5 @@ Vi arbetar kontinuerligt med att förbättra sektionens näringslivsverksamhet o
 
 Mejla förslag och tips till Näringslivsansvarig.
 
-**  
-Marcus Kiil (Näringslivsansvarig 26/27)  
-[nara@d-sektionen.se](mailto:nara@d-sektionen.se)**
+**Marcus Kiil (Näringslivsansvarig 26/27)**  
+[nara@d-sektionen.se](mailto:nara@d-sektionen.se)

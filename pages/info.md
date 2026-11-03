@@ -26,13 +26,13 @@ Kontakta oss på [info@d-sektionen.se](mailto:info@d-sektionen.se).
 
 Infoutskottet hanterar sektionens Instagram-konto och facebook-konoto. Om du tillhör ett utskott som vill visa vad ni gör, eller bara är en sektionsmedlem som vill visa din tillvaro som student på D-sektionen, så kan du kontakta InfU om att göra inlägg eller få något delat!
 
-Kontakta gruppens sociala medier-ansvariga på [](mailto:instagram@d-sektionen.se)[info@d-sektionen.se](mailto:info@d-sektionen.se).
+Kontakta gruppens sociala medier-ansvariga på [info@d-sektionen.se](mailto:info@d-sektionen.se).
 
 ### Julkalender
 
 Infogruppen har hand om sektionens årliga [julkalender](http://d-sektionen.se/julkalender)! Varje år samlar vi 24 bidrag från diverse grupper/utskott på sektionen (och ibland vissa från utanför sektionen!) i syfte att förgylla tillvaron för alla våra sektionsmedlemmar och skapa riktigt skön julstämning.
 
-Är du intresserad av att veta mer om julkalendern? Kontakta [](mailto:julkalender@d-sektionen.se)[info@d-sektionen.se](mailto:info@d-sektionen.se).
+Är du intresserad av att veta mer om julkalendern? Kontakta [info@d-sektionen.se](mailto:info@d-sektionen.se).
 
 ### Tryck
 
