@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-varmote-2021"
 ---
 
-[![](images/valleb_filip.png)](https://d-sektionen.se/wp-content/uploads/2021/03/valleb_filip.png)
+![](images/valleb_filip.png)
 
 Precis som slutet av denna ansökningsperiod snart närmar sig så närmar sig även slutet av denna intervjuserie, bitterljuvt ju! Vi går hur som helst vidare med stormsteg till dagens första intervju, vilken är med Valberedningens ordförande Filip Jakobsson!
 

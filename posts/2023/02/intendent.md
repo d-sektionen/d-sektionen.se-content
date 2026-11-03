@@ -6,7 +6,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-[![](images/Screenshot_20220302-133319_Drive-485x1024.jpg)](https://d-sektionen.se/wp-content/uploads/2023/02/Screenshot_20220302-133319_Drive.jpg)
+![](images/Screenshot_20220302-133319_Drive-485x1024.jpg)
 
 _Beskriv dig själv samt Intendentens uppgifter_
 

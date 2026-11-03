@@ -3,7 +3,7 @@ title: "NärU Presenterar: Kvällsevent med Knowit"
 date: 2022-04-28
 ---
 
-[![](images/knowit-event-1024x681.jpg)](https://d-sektionen.se/wp-content/uploads/2022/04/knowit-event.jpg)
+![](images/knowit-event-1024x681.jpg)
 
 Varmt välkommen på kvällsevent tillsammans med Knowit!
 
@@ -31,6 +31,6 @@ Anmälningsformulär: [https://forms.gle/NWPhQtY9NBx9ACCt5](https://forms.gle/NW
 
 Detta event använder sig av D-sektionens pricksystem, info hittar du här:  
 
-[https://d-sektionen.se/wp-content/uploads/2022/02/Policy-for-avanmalan.pdf](https://d-sektionen.se/wp-content/uploads/2022/02/Policy-for-avanmalan.pdf)
+[https://d-sektionen.se/wp-content/uploads/2022/02/Policy-for-avanmalan.pdf](/docs/2022/02/Policy-for-avanmalan.pdf)
 
 Avanmälan görs till agnes.naru@d-sektionen.se senast 8/5 23:59

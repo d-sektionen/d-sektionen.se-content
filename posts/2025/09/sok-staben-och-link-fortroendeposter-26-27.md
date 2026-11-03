@@ -3,7 +3,7 @@ title: "Sök STABEN och LINK förtroendeposter 26/27"
 date: 2025-09-29
 ---
 
-[![](images/Hemsida-1024x450.png)](https://d-sektionen.se/wp-content/uploads/2025/09/Hemsida.png)
+![](images/Hemsida-1024x450.png)
 
 Tiden är kommen! Äntligen har ansökan till General och Kassör för STABEN 2026 samt Projektledare och Vice Projektledare/Kassör till LINK 26/27 öppnat. Vi i Valberedningen söker just nu en General och en Kassör till nästa års STABEN. En Projektledare och en Kassör till LINK söker vi tillsammans med Y-sektionens Valberedning.
 
@@ -59,7 +59,7 @@ Ansökan för STABEN och LINK är öppen fram till kl 23:59 den 12:e oktober och
 
 —---------------------------------- Valberedningens urvalsprocess —----------------------------------
 
-Mer information om valberedningens urvalsprocess finns på: [https://d-sektionen.se/wp-content/uploads/2021/03/Valberedningens-Urvalsprocess.pdf](https://d-sektionen.se/wp-content/uploads/2021/03/Valberedningens-Urvalsprocess.pdf) 
+Mer information om valberedningens urvalsprocess finns på: [https://d-sektionen.se/wp-content/uploads/2021/03/Valberedningens-Urvalsprocess.pdf](/docs/2021/03/Valberedningens-Urvalsprocess.pdf) 
 
 (Obs, informationen nedan gäller endast ansökan till STABEN)
 

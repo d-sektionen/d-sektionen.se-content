@@ -6,7 +6,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-[![](images/Valle-B-Banner-1024x462.jpg)](https://d-sektionen.se/wp-content/uploads/2024/09/Valle-B-Banner.jpg)
+![](images/Valle-B-Banner-1024x462.jpg)
 
 Tiden är kommen! Äntligen har ansökan till General/Kassör för STABEN 2025 och snart Projektledare/Kassör till LINK 2025 öppnat. Vi i Valberedningen söker just nu en General och en Kassör till nästa års STABEN. En Projektledare och en Kassör till LINK söker vi tillsammans med Y-sektionens Valberedning.
 

@@ -5,7 +5,7 @@ categories:
   - "studentnyheter"
 ---
 
-[![](images/olglas_karservice-1024x1024.jpg)](https://d-sektionen.se/wp-content/uploads/2021/04/olglas_karservice.jpg)
+![](images/olglas_karservice-1024x1024.jpg)
 
 Här följer ett meddelande från Kårservice och deras marknadsundersökning om studentlivet!
 

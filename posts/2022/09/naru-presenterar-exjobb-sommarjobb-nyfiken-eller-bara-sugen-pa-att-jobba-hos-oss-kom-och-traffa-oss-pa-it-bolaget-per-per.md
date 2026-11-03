@@ -9,4 +9,4 @@ Under de senaste 10 åren har vi jobbat i frontlinjen med att introducera nya s�
 
 De största utmaningarna ligger fortfarande framför oss med att ta fram nya funktioner för effektivare team work, smart användning av fjärranalysdata, automatiska analyser och beslutsstöd.
 
-[![](images/Annons-minsta-storleken.-Ratt-datum-2022-720x1024.png)](https://d-sektionen.se/wp-content/uploads/2022/09/Annons-minsta-storleken.-Ratt-datum-2022.png)
+![](images/Annons-minsta-storleken.-Ratt-datum-2022-720x1024.png)

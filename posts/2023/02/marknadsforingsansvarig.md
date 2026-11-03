@@ -6,7 +6,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-[![](images/August-Mafu.jpg)](https://d-sektionen.se/wp-content/uploads/2023/02/August-Mafu.jpg)
+![](images/August-Mafu.jpg)
 
 _Beskriv dig själv samt Marknadsföringsansvarigs uppgifter_
 

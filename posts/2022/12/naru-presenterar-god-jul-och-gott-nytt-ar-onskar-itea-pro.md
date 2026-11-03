@@ -17,4 +17,4 @@ ITEA Pro AB
 
 (text: ChatGPT, Bild: Dall-E 2)
 
-[![](images/DALL·E-2022-12-23-00.14.55-1024x1024.png)](https://d-sektionen.se/wp-content/uploads/2022/12/DALL·E-2022-12-23-00.14.55.png)
+![](images/DALL·E-2022-12-23-00.14.55-1024x1024.png)

@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-varmote-2021"
 ---
 
-[![](images/max-yosemite-924x1024.jpg)](https://d-sektionen.se/wp-content/uploads/2021/03/max-yosemite.jpg)
+![](images/max-yosemite-924x1024.jpg)
 
 Vi hoppar vidare till nästa intervju! Nu ska vi höra lite från personen vars utskott bl.a. ser till vår kära sektionshemsida har så fräsiga funktioner som möjligt, nämligen Webmastern Max Skanvik!
 

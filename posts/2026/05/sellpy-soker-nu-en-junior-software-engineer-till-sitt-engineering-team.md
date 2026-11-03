@@ -16,4 +16,4 @@ Utöver spännande tekniska utmaningar erbjuder Sellpy en hybrid arbetsmiljö, s
 
 Läs mer och ansök här: https://career.sellpy.se/jobs/7726963-register-your-interest-junior-software-engineer-at-sellpy/47643e8a-861c-4a92-91b7-801e8998764d
 
-[![](images/1000004374-1024x538.png)](https://d-sektionen.se/wp-content/uploads/2026/05/1000004374.png)
+![](images/1000004374-1024x538.png)

@@ -17,4 +17,4 @@ Vi kommer att bjuda på sushi och dryck till ett begränsat antal platser och de
 
 [https://forms.gle/oYoLJiubgHv5LTwGA](https://forms.gle/oYoLJiubgHv5LTwGA)
 
-[![](images/Lunchforelasning_Liu_7_nov.png)](https://d-sektionen.se/wp-content/uploads/2024/10/Lunchforelasning_Liu_7_nov.png)
+![](images/Lunchforelasning_Liu_7_nov.png)

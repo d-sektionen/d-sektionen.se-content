@@ -9,4 +9,4 @@ Tar du examen till sommaren och vill vara med att utveckla den digitala transfor
 
  
 
-[![](images/DPP_bild2-logo_high-res-min-300x194.jpg)](https://d-sektionen.se/wp-content/uploads/2018/01/DPP_bild2-logo_high-res-min.jpg)
+![](images/DPP_bild2-logo_high-res-min-300x194.jpg)

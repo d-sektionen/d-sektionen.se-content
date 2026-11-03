@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-[![](images/Image-from-iOS-1024x560.jpg)](https://d-sektionen.se/wp-content/uploads/2021/09/Image-from-iOS-scaled.jpg)
+![](images/Image-from-iOS-1024x560.jpg)
 
 Vill du vara med och bidra till sektionen, träffa massor av nya människor och samtidigt ha väldigt kul? Då har du kommit helt rätt! På denna sida samlar vi information om alla rekryterande utskott samt länkar till ansökan.
 

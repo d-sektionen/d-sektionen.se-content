@@ -3,7 +3,7 @@ title: "NärU Presenterar: LiU Game Conference"
 date: 2021-11-16
 ---
 
-[![](images/LiUGC-2021-Skarm-1024x576.jpg)](https://d-sektionen.se/wp-content/uploads/2021/11/LiUGC-2021-Skarm.jpg)
+![](images/LiUGC-2021-Skarm-1024x576.jpg)
 
 LiU Game Conference är en årlig konferens om dataspel och digitala upplevelser - presenterad av Linköpings universitet i samarbete med East Sweden Game! [www.liugc.se](http://www.liugc.se/)
 

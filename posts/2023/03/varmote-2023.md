@@ -3,7 +3,7 @@ title: "Vårmöte 2023"
 date: 2023-03-16
 ---
 
-[![](images/logo-1-1-1024x163.png)](https://d-sektionen.se/wp-content/uploads/2023/01/logo-1-1.png)
+![](images/logo-1-1-1024x163.png)
 
 Hej kära D-student! Här kommer information om sektionens vårmöte att samlas. Ett sektionsmöte är sektionens högst beslutande organ, och det är sektionsmöten som beslutar om till exempel sektionens budgetering, framtida arbetssätt, stadgar, reglemente, med mera. För mer information om hur ett sektionsmöte fungerar finns en beskrivning av relevanta termer och processer på [d-sektionen.se/sektionsmote](https://d-sektionen.se/sektionsmote/).
 
@@ -13,7 +13,7 @@ Beställ pizza [här](https://forms.gle/7fVudDCgwS6eeNGy8), deadline är 31/3 11
 
 ## Föredragningslista
 
-[Slutgiltig föredragningslista](https://d-sektionen.se/wp-content/uploads/2023/04/f_redragslista_v_rm_te.pdf)
+[Slutgiltig föredragningslista](/docs/2023/04/f_redragslista_v_rm_te.pdf)
 
 ## Nomineringar
 
@@ -66,13 +66,13 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 
 ## Dokument
 
-- [Kallelse](https://d-sektionen.se/wp-content/uploads/2023/03/Kallelse_V_rm_tet.pdf)
+- [Kallelse](/docs/2023/03/Kallelse_V_rm_tet.pdf)
 - [Stadgar](http://styrdokument.d-sektionen.se/stadgar.pdf)
 - [Reglemente](http://styrdokument.d-sektionen.se/reglemente.pdf)
-- Motionsmall [pdf](https://d-sektionen.se/wp-content/uploads/2019/12/Motionsmall-D-sektionen-2020.pdf), [odt](https://d-sektionen.se/wp-content/uploads/2019/12/Motionsmall-D-sektionen-2020.odt), [docx](https://d-sektionen.se/wp-content/uploads/2019/12/Motionsmall-D-sektionen-2020.docx)
-- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](https://d-sektionen.se/wp-content/uploads/2019/10/elektroniskrostningpolicy.pdf)  
+- Motionsmall [pdf](/docs/2019/12/Motionsmall-D-sektionen-2020.pdf), [odt](/docs/2019/12/Motionsmall-D-sektionen-2020.odt), [docx](/docs/2019/12/Motionsmall-D-sektionen-2020.docx)
+- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](/docs/2019/10/elektroniskrostningpolicy.pdf)  
     
-- [Rambudget 23/24](https://d-sektionen.se/wp-content/uploads/2023/03/Sektionsbudget_23_24.pdf)
+- [Rambudget 23/24](/docs/2023/03/Sektionsbudget_23_24.pdf)
 
 ## Motioner och propositioner
 

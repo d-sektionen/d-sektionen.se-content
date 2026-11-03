@@ -6,7 +6,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-[![](images/d-sektionen-logga-1024x273.jpg)](https://d-sektionen.se/wp-content/uploads/2025/03/d-sektionen-logga-scaled.jpg)
+![](images/d-sektionen-logga-1024x273.jpg)
 
 Kära D-studenter!
 

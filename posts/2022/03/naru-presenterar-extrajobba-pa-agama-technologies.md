@@ -3,7 +3,7 @@ title: "NärU Presenterar: Börja arbeta på Agama Technologies"
 date: 2022-03-04
 ---
 
-[![](images/Olof-junniorsoft.png)](https://d-sektionen.se/wp-content/uploads/2022/03/Olof-junniorsoft.png)
+![](images/Olof-junniorsoft.png)
 
 Hi! My name is Olof and I’m currently studying at LiTH.
 

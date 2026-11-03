@@ -6,7 +6,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-[![](images/graphic-design-is-my-passion-1024x512.png)](https://d-sektionen.se/wp-content/uploads/2023/01/graphic-design-is-my-passion.png)
+![](images/graphic-design-is-my-passion-1024x512.png)
 
 Nu kan du ansöka eller nominera till LINK kassör/Vice projektledare 2023!
 

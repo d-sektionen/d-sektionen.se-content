@@ -16,4 +16,4 @@ MIUN Internship i korthet:
 
 Länk till ansökan: [Sökbara uppdrag sommaren 2024 | miun.se](https://www.miun.se/utbildning/civing/internship/sokbara-uppdrag-2024/)
 
-[![](images/Bild_FB_Nikki_ny.jpg)](https://d-sektionen.se/wp-content/uploads/2024/01/Bild_FB_Nikki_ny.jpg)
+![](images/Bild_FB_Nikki_ny.jpg)

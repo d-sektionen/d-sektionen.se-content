@@ -13,4 +13,4 @@ Välkommen på ett spännande och inspirerande evenemang arrangerat av Omegapoin
 Vi erbjuder även betald resa till Stockholm för de deltagare som bor i Linköping.  
 Läs mer och anmäl er på länken [här](https://omegapoint.ungapped.io/Events/08378f1b-eca7-4fd3-ac14-373754a9e936)!
 
-[![](images/header2025-2-1024x576.jpg)](https://d-sektionen.se/wp-content/uploads/2025/02/header2025-2.jpg)
+![](images/header2025-2-1024x576.jpg)

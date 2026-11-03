@@ -15,4 +15,4 @@ Written and spoken English is required. Skills in Swedish is needed in some of t
 
 Read more and apply; [Scania I-Talent Program](https://www.scania.com/group/en/home/career/graduates/i-talent-program.html)
 
-[![](images/Promotion_waystojoin_Scania-1024x586.jpg)](https://d-sektionen.se/wp-content/uploads/2022/03/Promotion_waystojoin_Scania.jpg)
+![](images/Promotion_waystojoin_Scania-1024x586.jpg)

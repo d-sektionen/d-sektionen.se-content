@@ -3,7 +3,7 @@ title: "NärU Presenterar: Upsales söker utvecklare och bjuder in till AW"
 date: 2022-03-16
 ---
 
-[![](images/Linkoping_AW_29_3.png)](https://d-sektionen.se/wp-content/uploads/2022/03/Linkoping_AW_29_3.png)
+![](images/Linkoping_AW_29_3.png)
 
 **Upsales söker utvecklare och bjuder in till AW den 29/3**
 

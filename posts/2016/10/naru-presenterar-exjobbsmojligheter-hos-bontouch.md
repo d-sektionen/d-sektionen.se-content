@@ -21,4 +21,4 @@ Du kan läsa mer om alla deras idéer och om dem på deras [exjobbsida](https://
 
 Läs mer om Bontouch och deras exjobb genom att klicka [här](https://drive.google.com/file/d/0B1tRezwOqidUdUFweVBWR0lVYnNFMFF0Tm13cXNGNU9odnRF/view?usp=sharing)!
 
-[![logo](images/logo-300x89.png)](https://d-sektionen.se/wp-content/uploads/2016/10/logo.png)
+![logo](images/logo-300x89.png)

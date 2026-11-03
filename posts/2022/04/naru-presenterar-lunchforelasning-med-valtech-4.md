@@ -21,7 +21,7 @@ Hälsningar, Vännerna på Valtech
 
 –
 
-Detta event använder sig av D-sektionens pricksystem, info hittar du här: [https://d-sektionen.se/.../2022/02/Policy-for-avanmalan.pdf](https://d-sektionen.se/wp-content/uploads/2022/02/Policy-for-avanmalan.pdf?fbclid=IwAR3c_Q1Krm4I9jaHgGSEfZhlAYb_sfzL5anJFaUps2rTYc98eC5hh0BXSb0)
+Detta event använder sig av D-sektionens pricksystem, info hittar du här: [https://d-sektionen.se/.../2022/02/Policy-for-avanmalan.pdf](/docs/2022/02/Policy-for-avanmalan.pdf)
 
 Avanmälan sker senast: 10/4 kl 18.00 till [thea.naru@d-sektionen.se](mailto:thea.naru@d-sektionen.se) 
 

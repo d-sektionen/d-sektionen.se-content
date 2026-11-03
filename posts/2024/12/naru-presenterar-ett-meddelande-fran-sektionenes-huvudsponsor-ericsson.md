@@ -15,4 +15,4 @@ Make your summer count—apply today and start your journey toward something spe
 
 Apply at [ericsson.com/careers](http://ericsson.com/careers)
 
-[![](images/Facebook-Linkedin-Post-1024x536.jpg)](https://d-sektionen.se/wp-content/uploads/2024/12/Facebook-Linkedin-Post.jpg)
+![](images/Facebook-Linkedin-Post-1024x536.jpg)

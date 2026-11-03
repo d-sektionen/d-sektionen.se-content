@@ -10,7 +10,7 @@ categories:
 
 - <figure>
     
-    [![](images/Cecilia-Olsson-6088-1-1024x684.jpg)](https://d-sektionen.se/wp-content/uploads/2021/03/Cecilia-Olsson-6088-1-1024x684.jpg)
+    ![](images/Cecilia-Olsson-6088-1-1024x684.jpg)
     
     <figcaption>
     
@@ -20,7 +20,7 @@ categories:
     
     </figure>
     
-- [![](images/michelin-1.jpg)](https://d-sektionen.se/wp-content/uploads/2021/03/michelin-1.jpg)
+- ![](images/michelin-1.jpg)
     
 
 </figure>

@@ -6,7 +6,7 @@ categories:
   - "studentnyheter"
 ---
 
-[![](images/d-sektionen_45yrs-1-1024x1024.png)](https://d-sektionen.se/wp-content/uploads/2021/01/d-sektionen_45yrs-1.png)
+![](images/d-sektionen_45yrs-1-1024x1024.png)
 
 Idag fyller Datateknologsektionen hela 45 år! 
 

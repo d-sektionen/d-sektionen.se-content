@@ -3,7 +3,7 @@ title: "NärU presenterar: Informell invigning av Configura"
 date: 2023-03-27
 ---
 
-[![](images/CONFIGURA_Company_1200-1024x246.png)](https://d-sektionen.se/wp-content/uploads/2023/03/CONFIGURA_Company_1200.png)
+![](images/CONFIGURA_Company_1200-1024x246.png)
 
 (ENGLISH BELOW)  
 Hej studenter! Vi är glada att kunna meddela att det nya studierummet som sponsras av Configura öppnar på universitetet och du är inbjuden till den informella invigningen den 3 april från 11:00 till 13:00.

@@ -3,7 +3,7 @@ title: "NärU Presenterar: Sök Sectras internationella program"
 date: 2022-02-11
 ---
 
-[![](images/image1-1024x535.jpg)](https://d-sektionen.se/wp-content/uploads/2022/02/image1.jpg)
+![](images/image1-1024x535.jpg)
 
 **Följ med Sectra till USA!**
 

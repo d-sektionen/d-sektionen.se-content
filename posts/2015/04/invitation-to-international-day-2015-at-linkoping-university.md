@@ -9,6 +9,6 @@ We would like to invite the student union and all sektioner to the annual intern
 
 Date: 10 April, 2015 Time: 10:00 – 17:00 Venue: Campus Valla, Linköping University, Linköping, Sweden – 58183
 
-More info: [IDAY Invitation](http://d-sektionen.se/wp-content/uploads/2015/04/IDAY-Invitation.pdf).
+More info: [IDAY Invitation](/docs/2015/04/IDAY-Invitation.pdf).
 
 Facebook event: [https://www.facebook.com/events/776324009120070/](https://www.facebook.com/events/776324009120070/)

@@ -5,7 +5,7 @@ date: 2022-01-17
 
 Medlemmer i sektionen kallas till ordinarie vintermöte 31 januari 2022 klockan 17:15.
 
-[![](images/vintermote-2022-1024x533.png)](https://d-sektionen.se/wp-content/uploads/2022/01/vintermote-2022.png)
+![](images/vintermote-2022-1024x533.png)
 
 Detta är ett av sektionens tre ordinarie sektionsmöten. Sektionsmöten är sektionens högst beslutande organ där du som medlem har möjligheten att vara med och besluta om sektionens verksamhet.  
   

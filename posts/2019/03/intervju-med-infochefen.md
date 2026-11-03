@@ -25,7 +25,7 @@ Posten handlar kortfattat om att tillsammans med sitt utskott sköta sektionens 
 
 Inför kommande verksamhetsår min post genomgått många förändringar. Detta öppnar upp möjligheter att driva nya projekt utefter egna idéer. Ett exempel är att satsa mer på tryck.
 
-Den nya posten heter webb-/infochef och innebär att man är ordförande i webb-/infoutskottet. I praktiken är man dock endast verksam i infodelen av utskottet enligt en [proposition på vintermötet](https://d-sektionen.se/wp-content/uploads/2019/01/Proposition-ang%C3%A5ende-splittring-av-webb-2Finfoutskottet.pdf).
+Den nya posten heter webb-/infochef och innebär att man är ordförande i webb-/infoutskottet. I praktiken är man dock endast verksam i infodelen av utskottet enligt en [proposition på vintermötet](/docs/2019/01/Proposition-ang%C3%A5ende-splittring-av-webb-2Finfoutskottet.pdf).
 
 Posten har även splittrats från sekreterare vilket gör att man som webb-/infochef inte är styrelseledamot.
 

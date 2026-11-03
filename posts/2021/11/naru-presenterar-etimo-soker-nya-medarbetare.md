@@ -3,7 +3,7 @@ title: "NärU Presenterar: Etimo söker nya medarbetare"
 date: 2021-11-22
 ---
 
-[![](images/Bild2-1.png)](https://d-sektionen.se/wp-content/uploads/2021/11/Bild2-1.png)
+![](images/Bild2-1.png)
 
 Etimo är ett snabbväxande IT-konsultbolag som utvecklar skräddarsydda digitala lösningar. Vi förenas i en passion för att utveckla digitala lösningar, använda modern teknik och en vilja att göra samhällsnytta - bättre mjukvara för en bättre värld. 
 

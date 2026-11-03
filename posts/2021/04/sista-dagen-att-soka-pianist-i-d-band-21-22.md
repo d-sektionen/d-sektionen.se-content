@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-[![](images/d_band_pianist-1024x939.jpg)](https://d-sektionen.se/wp-content/uploads/2021/03/d_band_pianist.jpg)
+![](images/d_band_pianist-1024x939.jpg)
 
 Hej sektionen!
 

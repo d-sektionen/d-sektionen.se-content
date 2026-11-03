@@ -15,4 +15,4 @@ Datum: 24 april 2018 Tid: 17:30 Plats: C4
 
 Mer information finns på: [**d-sektionen.se/varmote**](https://d-sektionen.se/varmote/)
 
-Föredragningslista: [Föredragningslista för D-sektionens vårmöte 2018 finns här.](https://d-sektionen.se/wp-content/uploads/2018/04/Foredragningslista_varmote2018.pdf)
+Föredragningslista: [Föredragningslista för D-sektionens vårmöte 2018 finns här.](/docs/2018/04/Foredragningslista_varmote2018.pdf)

@@ -9,7 +9,7 @@ tags:
   - "naru"
 ---
 
-### [![](images/Attentec.jpg)](//d-sektionen.se/wp-content/uploads/2019/02/Attentec.jpg)
+### ![](images/Attentec.jpg)
 
 ### Välkomna på företagskväll hos Attentec!
 
