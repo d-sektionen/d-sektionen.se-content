@@ -20,7 +20,7 @@ Jag heter William Stenberg och går andra året på D. Jag är 21 år gammal och
 
 <!--more Läs resten av intervjun →-->
 
-## ![](images/30nx21e-min.png)
+## ![](../../images/2017/12/30nx21e-min.png)
 
 ## Kan du berätta om din post som kassör i styrelsen?
 

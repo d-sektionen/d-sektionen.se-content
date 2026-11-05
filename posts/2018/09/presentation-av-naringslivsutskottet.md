@@ -7,7 +7,7 @@ categories:
 
 Dagens utskottspresentation kommer från näringslivsutskottet! Om du känner dig sugen på att ansöka till ett utskott finns mer information, ansökan och kontaktpersoner på [d-sektionen.se/ansok](https://d-sektionen.se/ansok/).
 
-![NärU logga](images/Logga-NarU-vit-300x222.png) <!--more-->
+![NärU logga](../../images/2018/09/Logga-NarU-vit-300x222.png) <!--more-->
 
 ## Vad gör näringslivsutskottet?
 

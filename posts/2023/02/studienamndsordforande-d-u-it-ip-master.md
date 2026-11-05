@@ -8,9 +8,9 @@ categories:
 
 Idag ska alla SnOrdfar få presentera sig och vad de gör.
 
-- ![](images/d-snordf2.png)
+- ![](../../images/2023/02/d-snordf2.png)
     
-- ![](images/d-snordf-1.png)
+- ![](../../images/2023/02/d-snordf-1.png)
     
 
 _Beskriv dig själv samt D-SnOrdfs uppgifter_
@@ -53,7 +53,7 @@ Det finns några detaljer jag lämnat ute ur denna text för att hålla det (nå
 
 * * *
 
-![](images/u-snordf-576x1024.jpg)
+![](../../images/2023/02/u-snordf-576x1024.jpg)
 
 _Beskriv dig själv samt U-SnOrdfs uppgifter_
 
@@ -95,7 +95,7 @@ Känns som att det är meriterande att vara ganska strukturerad, då det är rel
 
 * * *
 
-![](images/IMG_20220616_110359_181-576x1024.jpg)
+![](../../images/2023/02/IMG_20220616_110359_181-576x1024.jpg)
 
 _Beskriv dig själv samt IP-SnOrdfs uppgifter_
 

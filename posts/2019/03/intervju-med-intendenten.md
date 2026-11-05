@@ -15,7 +15,7 @@ Ansökan stänger 31 mars.
 
 Tjenare! Erik heter jag och jag pluggar tredje året på IP. Jag gillar att fylla min fritid med att engagera mig i diverse saker, kasta pil och hänga med Lingare.
 
-![](images/erik-1024x683.jpg)
+![](../../images/2019/03/erik-1024x683.jpg)
 
 <!--more-->
 

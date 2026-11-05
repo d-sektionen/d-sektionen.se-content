@@ -6,7 +6,7 @@ tags:
   - "naru"
 ---
 
-![](images/header_färdig_närU-1024x450.png)
+![](../../images/2024/03/header_färdig_närU-1024x450.png)
 
 Tar du examen till sommaren och är på jakt efter jobb? Boka in ett karriärsamtal med Xamera och klara av hela ditt jobbsökande på 30 min! De matchar kompetens med rollbeskrivning & personlighet med företagskultur.
 
@@ -28,4 +28,4 @@ Under eventet ges du nämligen möjlighet att träffa en av Xameras rekryterare 
 
 Om du är sugen på att veta mer om Xamera, kom förbi och tveka inte att ställa alla eventuella frågor!
 
-![](images/primary_with_tagline_raspberry-1-890x1024.png)
+![](../../images/2024/03/primary_with_tagline_raspberry-1-890x1024.png)

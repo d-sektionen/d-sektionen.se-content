@@ -14,7 +14,7 @@ Mer information kring ansökan och kontaktpersoner för samtliga rekryterande ut
 
 ### Hej! Vem är det jag pratar med?
 
-![](images/profbild_18_2_small.png)
+![](../../images/2019/09/profbild_18_2_small.png)
 
 Hej! Johan heter jag och är sektionens Infochef, vilket innebär att jag ansvarar för innehållet på sektionens hemsida, det vill säga denna sida, samt våra sociala kanaler! Det innebär även att jag är ordförande i Infogruppen.
 

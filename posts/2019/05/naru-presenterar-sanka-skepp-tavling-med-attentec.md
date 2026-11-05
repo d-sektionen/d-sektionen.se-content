@@ -9,7 +9,7 @@ tags:
   - "naru"
 ---
 
-### ![](images/Attentec.jpg)
+### ![](../../images/2019/05/Attentec.jpg)
 
 ### Välkommen till en rolig och utmanade kväll med Attentec där vi kommer tävla i Sänka Skepp!
 

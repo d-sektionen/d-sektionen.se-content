@@ -7,8 +7,8 @@ media:
 
   - name: post-images
     label: Nyhetsbilder
-    input: public/images/posts
-    output: /images/posts
+    input: posts/images
+    output: ../../images
     categories: [image]
 
   - name: documents
@@ -183,7 +183,7 @@ content:
         type: rich-text
         options:
           media: post-images
-          path: public/images/posts
+          path: posts/images
           switcher: true
 
   - name: categories

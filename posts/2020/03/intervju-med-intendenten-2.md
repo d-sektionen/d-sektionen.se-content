@@ -18,7 +18,7 @@ Ansökan och nomineringar stänger 2 april.
 
 ## Vem är du?
 
-![](images/received_2160994357317508.png)
+![](../../images/2020/03/received_2160994357317508.png)
 
 Kasper heter jag och är en sån där stockholmare i Linköping på 25 år. Jag pluggar D3 och har för tillfället barrikerat mig hemma där jag skriver kandidatarbete och spelar Witcher 3.
 

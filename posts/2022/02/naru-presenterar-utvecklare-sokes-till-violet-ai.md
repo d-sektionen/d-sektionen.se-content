@@ -3,7 +3,7 @@ title: "NärU Presenterar: Utvecklare sökes till Violet AI"
 date: 2022-02-01
 ---
 
-![](images/Violet-min-1-1024x573.png)
+![](../../images/2022/02/Violet-min-1-1024x573.png)
 
 Violet AI Lab söker utvecklare inom maskininlärning!
 

@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](images/SÄK_STABEN_BANNER-01.png)
+![](../../images/2020/10/SÄK_STABEN_BANNER-01.png)
 
 Tiden är kommen! Äntligen har ansökan till General och Kassör för STABEN 21/22 öppnat!!
 

@@ -3,7 +3,7 @@ title: "NärU Presenterar: Sök talangprogram hos Valtech"
 date: 2022-03-10
 ---
 
-![](images/talang-valtech.jpg)
+![](../../images/2022/03/talang-valtech.jpg)
 
 **Hej studenter, nu har vi på Valtech öppnat upp ansökan till våra populära talangprogram inom tech och ux!**
 

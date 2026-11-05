@@ -15,7 +15,7 @@ Såhär dagarna innan möjligheten till att ansöka general till STABEN 20/21 st
 
 <figure>
 
-![](images/Cecilia-Olsson-5239.jpg)
+![](../../images/2019/10/Cecilia-Olsson-5239.jpg)
 
 <figcaption>
 
@@ -49,7 +49,7 @@ Det innebär en fantastisk tid med väldigt mycket arbete och massa kul med här
 
 <figure>
 
-![](images/Cecilia-Olsson-5730.jpg)
+![](../../images/2019/10/Cecilia-Olsson-5730.jpg)
 
 <figcaption>
 

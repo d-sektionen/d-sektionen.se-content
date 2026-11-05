@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-vintermote-2021"
 ---
 
-![](images/collage-1024x768.jpg)
+![](../../images/2021/01/collage-1024x768.jpg)
 
 Tillbaka till styret! Denna intervju är med en person som må ha världsrekord i antalet WPM under sektionsmötena, nämligen sekreteraren Vilhelm Melkstam!
 

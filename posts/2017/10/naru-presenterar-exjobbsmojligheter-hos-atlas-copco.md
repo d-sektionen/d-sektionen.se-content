@@ -9,4 +9,4 @@ Explore the Atlas Copco world – do your thesis with us! We offer you the oppor
 
 Our application period is now open. For further reading and to apply, follow this link: http://atlascopcothesis.se/
 
-![](images/Facebook-ad-2-highres-1-300x157.jpg)
+![](../../images/2017/10/Facebook-ad-2-highres-1-300x157.jpg)

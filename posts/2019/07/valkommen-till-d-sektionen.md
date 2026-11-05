@@ -5,7 +5,7 @@ tags:
   - "19-20"
 ---
 
-![](images/Color_white-1024x273.png)
+![](../../images/2019/07/Color_white-1024x273.png)
 
 Hej till dig som är nyantagen student till programmen i Datateknik (D), Mjukvaruteknik (U), Informationsteknologi (IT) eller Innovativ Programmering (IP) vid Linköpings universitet!
 

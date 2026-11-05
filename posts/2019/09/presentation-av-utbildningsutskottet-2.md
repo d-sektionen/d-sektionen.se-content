@@ -13,7 +13,7 @@ Mer information kring ansökan och kontaktpersoner för samtliga rekryterande ut
 
 ### Hej! Vem är det jag pratar med?
 
-![](images/IMG_0902.jpg)
+![](../../images/2019/09/IMG_0902.jpg)
 
 Hallå hej! Mitt namn är Kimberley Andersson och jag är ordförande för Utbildningsutskottet, även kallad UtbO™. Jag är 22 år gammal och pluggar mitt fjärde år på datateknik.  
 

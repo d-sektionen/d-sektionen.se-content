@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](images/d_band_pianist-1024x939.jpg)
+![](../../images/2021/04/d_band_pianist-1024x939.jpg)
 
 Nu är det en vecka kvar tills ansökning för D-bands pianist stänger!
 

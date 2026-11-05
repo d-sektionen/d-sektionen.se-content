@@ -6,7 +6,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](images/sok-fortroendeposter-vintermote-2024-1024x576.png)
+![](../../images/2024/11/sok-fortroendeposter-vintermote-2024-1024x576.png)
 
 Hej kära D-studenter!
 

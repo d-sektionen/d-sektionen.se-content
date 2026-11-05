@@ -16,7 +16,7 @@ Sök själv eller nominera någon till posten här: [d-sektionen.se/val](http://
 
 ## Berätta lite om dig själv!
 
-Jag heter Oscar, är 20 år gammal och läser mitt andra år på D-programmet. <!--more Läs resten av intervjun →-->![](images/D-Snordf_Oscar_Bergman.jpeg)
+Jag heter Oscar, är 20 år gammal och läser mitt andra år på D-programmet. <!--more Läs resten av intervjun →-->![](../../images/2018/03/D-Snordf_Oscar_Bergman.jpeg)
 
 ## Kan du berätta om din post?
 

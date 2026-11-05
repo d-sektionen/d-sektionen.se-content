@@ -16,7 +16,7 @@ Nästa på tur i rampljuset är Sebastian Bångerius, vår kära Intendent. Sök
 
 Jag heter Sebastian Bångerius, pluggar mitt femte år på IT-programmet och är Intendent på D-sektionen. Jag är 23 år och kommer ursprungligen från Karlstad. Jag tycker om att prova nya saker och kan lite om mycket. På min fritid tycker jag det är kul att hänga med alla sköna vänner jag fått genom engagemang i studentlivet, samt flytta otympliga saker på cykel och kasta dart!
 
-<!--more Läs resten av intervjun →-->![](images/Intendent_Sebastian_Bångerius.jpg)
+<!--more Läs resten av intervjun →-->![](../../images/2018/03/Intendent_Sebastian_Bångerius.jpg)
 
 ## Kan du berätta om din post?
 

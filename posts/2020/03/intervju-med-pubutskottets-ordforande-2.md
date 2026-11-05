@@ -18,7 +18,7 @@ Ansökan och nomineringar stänger 2 april.
 
 ## Vem är du?
 
-![](images/IMG_20190830_122433-768x1024.jpg)
+![](../../images/2020/03/IMG_20190830_122433-768x1024.jpg)
 
 Jag heter Dennis och är 27 år ung och pluggar andra året på mjukvaruteknik. Jag tycker det är superkul att stå i köket och hacka råvaror och laga mat på massa olika sätt. Man lär sig alltid något nytt i köket!
 

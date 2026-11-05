@@ -5,7 +5,7 @@ categories:
   - "studentnyheter"
 ---
 
-![](images/Poster2-1024x682.jpg)
+![](../../images/2020/11/Poster2-1024x682.jpg)
 
 Just nu arbetar forskare vid Linköpings universitet med ett mobilstöd som ska förbättra studenters levnadsvanor. För att utveckla det behöver de din hjälp.
 

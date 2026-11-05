@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](images/92436122_2924095114347631_941690060892274688_o-1024x536.jpg)
+![](../../images/2020/04/92436122_2924095114347631_941690060892274688_o-1024x536.jpg)
 
 Medlemmar i sektionen kallas till ordinarie vårmöte den 26 april 2020. Detta är ett av sektionens tre ordinarie sektionsmöten. Sektionsmöten är sektionens högst beslutande organ där du som medlem har möjligheten att vara med och besluta om sektionens verksamhet.
 

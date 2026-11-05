@@ -17,7 +17,7 @@ Jag heter Oscar Bergman, är 21 år gammal och läser mitt tredje år på D prog
 
 <!--more-->
 
-![Bild på Oscar](images/oscar-1024x768.jpg)
+![Bild på Oscar](../../images/2018/12/oscar-1024x768.jpg)
 
 ## Kan du berätta om din post?
 

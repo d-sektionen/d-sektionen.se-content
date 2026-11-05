@@ -3,7 +3,7 @@ title: "D-sektionens nominering till Gyllene moroten 2020: Mikael Asplund"
 date: 2020-06-13
 ---
 
-![](images/Bild-2020-06-12-kl.-13.46-1024x683.jpg)
+![](../../images/2020/06/Bild-2020-06-12-kl.-13.46-1024x683.jpg)
 
 Som ni kanske vet brukar D-sektionens nominering till [Gyllene Moroten](https://lintek.liu.se/utbildning/pedagogik-priset/) presenteras på sektionens vårmöte. Detta blev dock ej av i år på grund av de rådande omständigheterna, vilket gör att vi får presentera på detta vis istället - stort grattis till Mikael Asplund!
 

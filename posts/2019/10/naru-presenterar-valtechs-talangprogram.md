@@ -8,7 +8,7 @@ tags:
   - "valtech"
 ---
 
-![](images/IMG_7181.jpg)
+![](../../images/2019/10/IMG_7181.jpg)
 
 ### Varmt välkommen till Valtechs talangprogram!
 

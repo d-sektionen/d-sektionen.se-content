@@ -11,7 +11,7 @@ tags:
   - "naru"
 ---
 
-[![](images/Bild1.png)](https://www.facebook.com/events/565409110558811/)<!--more-->
+[![](../../images/2018/10/Bild1.png)](https://www.facebook.com/events/565409110558811/)<!--more-->
 
 As a part of Ericsson’s cooperation with Linköping University, we are pleased to announce the Ericsson Connect Award 2019. The students who win the award will have an excellent opportunity to get an insight into the exciting worlds of ICT, IoT and telecom, and how Ericsson drives and contributes towards our vision of an all communicating world.
 

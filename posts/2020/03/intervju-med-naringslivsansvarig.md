@@ -11,7 +11,7 @@ I dessa tider när man inte ska ses lika mycket socialt så är det viktigt att 
 
 ## Vem är du?
 
-![](images/Nyberg-04410-2-859x1024.jpg)
+![](../../images/2020/03/Nyberg-04410-2-859x1024.jpg)
 
 Mitt namn är Jakob Sjöqvist och studerar just nu mitt tredje år på datateknik. Utöver att engagera mig i sektionen pysslar jag en hel del med att programmera på ett sidoprojekt. På fritiden har jag nyligen tagit upp ett träningsintresse för att bota D:ar-hållningen efter snart tre år på universitetet.
 

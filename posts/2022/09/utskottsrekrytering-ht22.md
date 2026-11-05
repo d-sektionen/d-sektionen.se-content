@@ -6,7 +6,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](images/241831724_4384773968279731_1138486224992919678_n-1024x462.jpg)
+![](../../images/2022/09/241831724_4384773968279731_1138486224992919678_n-1024x462.jpg)
 
 Vill du vara med och bidra till sektionen, träffa massor av nya människor och samtidigt ha väldigt kul? Då har du kommit helt rätt! På denna sida samlar vi information om alla rekryterande utskott samt länkar till ansökan.
 

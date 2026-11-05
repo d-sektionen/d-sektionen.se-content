@@ -7,7 +7,7 @@ categories:
 
 Vintermötet kommer att hållas **2:a februari** 2025 klockan **12:00** i sal **C4**.
 
-![](images/image.png)
+![](../../images/2025/01/image.png)
 
 Hej D-student! Här kommer information om sektionens vintermöte att samlas. Ett sektionsmöte är sektionens högst beslutande organ, och det är sektionsmöten som beslutar om till exempel sektionens budgetering, framtida arbetssätt, stadgar, reglemente, med mera. För mer information om hur ett sektionsmöte fungerar finns en beskrivning av relevanta termer och processer på [d-sektionen.se/sektionsmote](https://d-sektionen.se/sektionsmote/).
 

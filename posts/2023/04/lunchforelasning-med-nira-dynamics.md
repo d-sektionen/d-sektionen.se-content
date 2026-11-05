@@ -31,4 +31,4 @@ Sista dagen för anmälan är tisdag 2 maj kl 23:59.
 
 Eventuell avanmälan görs även senast tisdag 2 maj kl 23:59, till [max.naru@d-sektionen.se](mailto:max.naru@d-sektionen.se)
 
-![](images/NIRA-Dynamkics-1024x607.jpg)
+![](../../images/2023/04/NIRA-Dynamkics-1024x607.jpg)

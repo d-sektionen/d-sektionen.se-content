@@ -27,4 +27,4 @@ Traineeprogrammet kommer att pågå under 10 månader, med start i september 202
 
 Se hela annonsen [här](https://www.sigma.se/position/it-traineer-till-tekniska-verken-linkoping-sweden-en-20230116/)
 
-![](images/Sigma-AYTO-1024x409.png)
+![](../../images/2023/02/Sigma-AYTO-1024x409.png)

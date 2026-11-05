@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](images/92827356_2872397936181649_3688594454416982016_o-1024x531.jpg)
+![](../../images/2020/04/92827356_2872397936181649_3688594454416982016_o-1024x531.jpg)
 
 Nu är ansökan till LINK-kommittén 2020 äntligen öppen, och vi söker alla som är taggade att vara del av universitetets största mässa inom data och IT!
 

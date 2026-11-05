@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](images/staben_general_1920_3-1024x768.jpg)
+![](../../images/2020/10/staben_general_1920_3-1024x768.jpg)
 
 ### Sök till STABENs general!
 
@@ -40,6 +40,6 @@ Har man tidigare ledarskapserfarenheter är det ett plus. Likså är en bra kän
 **Hur mycket tid la du ner per vecka ungefär på ditt arbete med STABEN?**  
 Det varierade vecka till vecka, men med just Generalsarbete la jag mellan 10-20 timmar i veckan.   
 
-![](images/staben_general_1920_1-496x1024.jpg)
+![](../../images/2020/10/staben_general_1920_1-496x1024.jpg)
 
-![](images/staben_general_1920_2-496x1024.jpg)
+![](../../images/2020/10/staben_general_1920_2-496x1024.jpg)

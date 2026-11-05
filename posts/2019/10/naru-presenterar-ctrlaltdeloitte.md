@@ -21,4 +21,4 @@ Apply here: [https://deloitte.recman.se/job.php?job\_id=108102](https://deloitte
 
 <!--more-->
 
-![](images/deloitte-lowres.jpg)
+![](../../images/2019/10/deloitte-lowres.jpg)

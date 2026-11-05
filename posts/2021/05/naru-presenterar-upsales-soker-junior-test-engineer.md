@@ -5,7 +5,7 @@ categories:
   - "platsannonser"
 ---
 
-![](images/UpsalesFutureTalentv1.0.5-1024x296.jpg)
+![](../../images/2021/05/UpsalesFutureTalentv1.0.5-1024x296.jpg)
 
 Upsales söker nu en Junior Test Engineer. Upsales är ett snabbt växande techbolag som revolutionerar hur företag arbetar med försäljning. Upsales hjälper företag växa fortare genom att förenkla prospektering, förtydligar säljprocessen och skapa en högre förutsägbarhet i intäkterna och hjälper kunderna att ta bättre vara på merförsäljningsmöjligheter.
 

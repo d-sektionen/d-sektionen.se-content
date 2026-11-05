@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-vintermote-2020"
 ---
 
-![](images/kassor19_20.jpg)
+![](../../images/2019/12/kassor19_20.jpg)
 
 Vi fortsätter REDAN IDAG med intervjuer angående nuvarande rekryteringsperiod. Lite det här tempot vi hoppas på att kunna hålla! Först ut var Madeleine och näst ut är hennes kassörkompanjon Dag Jönsson. Sök posten som sektionskassör, eller någon annan av posterna som ska tillsättas under vintermötet, via länken [här](https://d-sektionen.se/sok-fortroendeposter-vintermotet-2020/)!
 

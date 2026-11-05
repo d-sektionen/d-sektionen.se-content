@@ -5,7 +5,7 @@ categories:
   - "presentation-av-utskott-ht19"
 ---
 
-![](images/dlan-logo-1024x621.png)
+![](../../images/2019/09/dlan-logo-1024x621.png)
 
 Dags för D-LAN, ett projekt inom [Aktivitetsutskottet](https://d-sektionen.se/aktivitetsutskottet/), att presentera sig.
 

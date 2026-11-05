@@ -16,4 +16,4 @@ Ansök med CV och personligt brev till [matander@microsoft.com](mailto:matander@
 
 Mer information hittar du på: [www.MicrosoftStudentPartners.com](http://l.facebook.com/?u=http%3A%2F%2Fwww.MicrosoftStudentPartners.com%2F&e=ATMX3oBrBIAkmDueaYWZbOo8MOSKaYfaJe31hMxQC7s3Ny4udtdmKbj-jq0HlQ)
 
- [![image004](images/image004-300x134.png)](http://l.facebook.com/?u=http%3A%2F%2Fwww.MicrosoftStudentPartners.com%2F&e=ATMX3oBrBIAkmDueaYWZbOo8MOSKaYfaJe31hMxQC7s3Ny4udtdmKbj-jq0HlQ)
+ [![image004](../../images/2016/06/image004-300x134.png)](http://l.facebook.com/?u=http%3A%2F%2Fwww.MicrosoftStudentPartners.com%2F&e=ATMX3oBrBIAkmDueaYWZbOo8MOSKaYfaJe31hMxQC7s3Ny4udtdmKbj-jq0HlQ)

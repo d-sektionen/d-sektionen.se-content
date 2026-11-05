@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-varmote-2021"
 ---
 
-![](images/sean_compressed-769x1024.jpg)
+![](../../images/2021/03/sean_compressed-769x1024.jpg)
 
 En ny dag, en ny intervju! Denna intervjuperson är med största sannolikhet den som har sektionens godaste matlådor, nämligen Pubutskottets ordförande Sean Zhong!
 

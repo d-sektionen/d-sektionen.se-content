@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-varmote-2021"
 ---
 
-![](images/alumni_cajsa-576x1024.jpg)
+![](../../images/2021/03/alumni_cajsa-576x1024.jpg)
 
 Vi klämmer in en till intervju innan dagen är slut, nu är det dags för Alumniutskottets ordförande Cajsa Wargren att berätta lite om sin post!
 
@@ -29,7 +29,7 @@ Vad dessa event kan vara är både lunchföreläsningar, sittningar och pubar. M
 
 ## **Vad har varit roligast att göra som Alumniutskottets** **ordförande?**
 
-Det har varit väldigt roligt och givande att få ha kontakt med alumner samt prata och höra om deras arbetslivserfarenheter. Tyvärr har det varit lite begränsat men tror verkligen att detta är enormt kul i vanliga fall och som alumniansvarig kan man få höra lite historier från alumnerna som de inte alltid säger på sina lunchföreläsningar ![?](images/1f609.png)
+Det har varit väldigt roligt och givande att få ha kontakt med alumner samt prata och höra om deras arbetslivserfarenheter. Tyvärr har det varit lite begränsat men tror verkligen att detta är enormt kul i vanliga fall och som alumniansvarig kan man få höra lite historier från alumnerna som de inte alltid säger på sina lunchföreläsningar ![?](../../images/2021/03/1f609.png)
 
 Men om jag ska vara helt ärlig så har jag just detta år uppskattat något enormt att få gå på möten och se och höra från andra människor på sektionen! Utan detta engagemang hade jag inte lärt känna de människor som jag nu känner och min vardag hade varit mycket tråkigare i coronatider.
 

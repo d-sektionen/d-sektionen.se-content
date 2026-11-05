@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-vintermote-2020"
 ---
 
-![](images/DSC_3053-2.jpg)
+![](../../images/2019/12/DSC_3053-2.jpg)
 
 I rekryteringsperiodens fjärde intervju får vi höra vad sektionens sekreterare gör om dagarna förutom att återhämta sina fingrar! Är du sugen på att söka posten som D-sektionens sekreterare kan du knappa dig in [här](https://d-sektionen.se/sok-fortroendeposter-vintermotet-2020/)!
 

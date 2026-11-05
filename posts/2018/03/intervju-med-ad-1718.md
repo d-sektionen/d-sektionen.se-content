@@ -14,7 +14,7 @@ Ny vecka, nya intervjuer. Här kommer en intervju med Daniel Jonsson, sektionens
 
 ## Berätta lite om dig själv!
 
-Jag är en kille på 21 år som på deltid kallas Daniel Jonsson annars MK på grund av oklar anledning, pluggar tredje året på IT och är delägare till världens tuffaste och bästa fiskar. <!--more Läs resten av intervjun →-->![](images/Daniel_Jonsson_Art_Director.jpg)
+Jag är en kille på 21 år som på deltid kallas Daniel Jonsson annars MK på grund av oklar anledning, pluggar tredje året på IT och är delägare till världens tuffaste och bästa fiskar. <!--more Läs resten av intervjun →-->![](../../images/2018/03/Daniel_Jonsson_Art_Director.jpg)
 
 ## Kan du berätta om din post?
 

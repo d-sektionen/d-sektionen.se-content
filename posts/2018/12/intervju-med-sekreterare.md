@@ -17,7 +17,7 @@ Jag heter Emil Nilsson, är 20 år och kommer ursprungligen från Västerås. Ja
 
 <!--more-->
 
-![Bild på Emil](images/emil-1-1024x768.jpg)
+![Bild på Emil](../../images/2018/12/emil-1-1024x768.jpg)
 
 ## Kan du berätta om din post?
 

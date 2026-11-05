@@ -7,7 +7,7 @@ tags:
   - "attentec"
 ---
 
-![](images/TraineeBlogg.jpg)
+![](../../images/2019/11/TraineeBlogg.jpg)
 
 Vill du se hur vardagen som Tech Trainee ser ut på Attentec? Följ våra traineer Mårten, Fredrik, Jenny och Kristian i deras blogg där de berättar om sin resa och utveckling i stort och smått. Nytt inlägg varje fredag! [jobb.attentec.se/blog](https://jobb.attentec.se/blog)
 

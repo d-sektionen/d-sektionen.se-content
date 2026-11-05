@@ -5,7 +5,7 @@ categories:
   - "foretagsevent"
 ---
 
-[![](images/CSS-battle-Mpya-mo-rk-1.jpg)](https://forms.gle/iFUxhyKg17jYZtz5A)
+[![](../../images/2021/04/CSS-battle-Mpya-mo-rk-1.jpg)](https://forms.gle/iFUxhyKg17jYZtz5A)
 
 **CSS-battle** **with** **Mpya** **Digital** 
 

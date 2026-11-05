@@ -3,7 +3,7 @@ title: "Sista dagen att söka utskott på D-sektionen!"
 date: 2019-09-22
 ---
 
-![](images/69905827_2468924706531343_4184770632891760640_o.jpg)
+![](../../images/2019/09/69905827_2468924706531343_4184770632891760640_o.jpg)
 
 Idag söndag 22/9 är sista dagen att söka utskott på D-sektionen!
 

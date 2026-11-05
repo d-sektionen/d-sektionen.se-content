@@ -5,7 +5,7 @@ categories:
   - "platsannonser"
 ---
 
-[![](images/030320-Linked-In-1.png)](https://www.valtech.com/sv-se/karriar/lediga-tjanster/talang-tech-valtech/)
+[![](../../images/2020/12/030320-Linked-In-1.png)](https://www.valtech.com/sv-se/karriar/lediga-tjanster/talang-tech-valtech/)
 
 **Missa inte att söka till Valtechs talangprogram som drar igång den 1 februari 2021**!
 

@@ -15,7 +15,7 @@ Ansökan stänger 31 mars.
 
 Jag heter Moa Dahlqvist och är en tjej på 21 år. Jag kommer från Mantorp och pluggar tredje året på D-programmet. Jag har alltid varit intresserad av spel och därför hamna jag här på Liu. På fritiden kör jag trav, spelar spel, går ut och går med mina två hundarna, umgås med vänner och försöker övertala mig själv att börja springa igen.
 
-![](images/moa-1024x884.jpg)
+![](../../images/2019/03/moa-1024x884.jpg)
 
 <!--more-->
 

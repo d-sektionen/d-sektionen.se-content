@@ -14,4 +14,4 @@ Var: Tekniska museet, museivägen 7, 115 27 Stockholm
 
 Läs mer och anmäl er här: [https://www.tekniskamuseet.se/talent-day/](https://www.tekniskamuseet.se/talent-day/)
 
-![](images/header-mail-version-2.png)
+![](../../images/2024/11/header-mail-version-2.png)

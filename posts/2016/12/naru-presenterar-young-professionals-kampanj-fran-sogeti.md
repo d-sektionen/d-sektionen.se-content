@@ -12,4 +12,4 @@ tags:
 
 Sogeti letar efter drivna ”young professionals” eller nyutexaminerade talanger för blivande stjärnkonsulter med inriktning mot SharePoint med start vår och/eller höst 2017 Läs mer [här](https://emp.jobylon.com/jobs/7131-sogeti-young-professionals-vi-soker-framtidens-stjarnor-inom-sharepoint/).
 
-![](images/young-potentials-1-300x169.png)
+![](../../images/2016/12/young-potentials-1-300x169.png)

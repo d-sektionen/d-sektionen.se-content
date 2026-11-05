@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](images/härså-01-1024x536.png)
+![](../../images/2020/10/härså-01-1024x536.png)
 
 Medlemmar i sektionen kallas till ordinarie höstmöte den 8 november 2020. Detta är ett av sektionens tre ordinarie sektionsmöten. Sektionsmöten är sektionens högst beslutande organ där du som medlem har möjligheten att vara med och besluta om sektionens verksamhet.
 

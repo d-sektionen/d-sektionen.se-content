@@ -17,7 +17,7 @@ Idag presenterar valberedningen en intervju med sektionens sekreterare/infochef 
 
 Jag heter Daniel Roos och går IT3. Kommer från Järna, en liten "stad" utanför Södertälje. Spenderar gärna min fritid med att lära mig något nytt inom t.ex. matlagning eller programmering. Har varit sektionsaktiv sen jag började plugga här på LiU och har hunnit prova på en del olika utskott.
 
-<!--more Läs resten av intervjun →-->![](images/Info_Daniel_Roos.jpg)
+<!--more Läs resten av intervjun →-->![](../../images/2018/03/Info_Daniel_Roos.jpg)
 
 ## Kan du berätta om din post?
 

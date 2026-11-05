@@ -15,7 +15,7 @@ Ansökan stänger 31 mars.
 
 Jag heter Christina är 21 år och pluggar tredje året på datalinjen. Tycker allt som har med det kulinariska att göra är superkul, favoriträtten är svamprisotto.
 
-![](images/ordfcollage1-1024x512.jpg)
+![](../../images/2019/03/ordfcollage1-1024x512.jpg)
 
 <!--more-->
 

@@ -13,4 +13,4 @@ You can find available jobs [here](https://www.vewd.com/jobs/).
 
 Want to know more about Vewd? Check out the [video](https://fb.watch/btNRYLaY5F/)
 
-![](images/vewd-logo_800x384.png)
+![](../../images/2022/03/vewd-logo_800x384.png)

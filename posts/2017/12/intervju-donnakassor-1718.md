@@ -19,7 +19,7 @@ Linn Hallonqvist heter jag och är en 21-årig närking som pluggar andra året 
 
 <!--more Läs resten av intervjun →-->
 
-![](images/IMG_20170906_103906-min.jpg)
+![](../../images/2017/12/IMG_20170906_103906-min.jpg)
 
 ## Kan du berätta om din post som kassör i Donna?
 

@@ -6,7 +6,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](images/Screenshot_2023-02-05-15-45-44-51_965bbf4d18d205f782c6b8409c5773a4-779x1024.jpg)
+![](../../images/2023/02/Screenshot_2023-02-05-15-45-44-51_965bbf4d18d205f782c6b8409c5773a4-779x1024.jpg)
 
 _Beskriv dig själv samt Webmasters uppgifter_
 

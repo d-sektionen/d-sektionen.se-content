@@ -3,7 +3,7 @@ title: "Informationskväll hos IT-Bolaget Per & Per"
 date: 2023-10-17
 ---
 
-![](images/2xperannons2023-720x1024.png)
+![](../../images/2023/10/2xperannons2023-720x1024.png)
 
 Se hit! Nu på onsdag 18/10 bjuder IT – Bolaget Per & Per in till en informationskväll där vi presenterar exjobb inom:
 

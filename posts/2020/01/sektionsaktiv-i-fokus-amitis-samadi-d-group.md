@@ -13,7 +13,7 @@ Vi rivstartar terminen med denna intervju med Amitis från D-Group som del av v�
 
 Trevlig läsning, och ha D gott!
 
-![](images/profilbikd.jpg)
+![](../../images/2020/01/profilbikd.jpg)
 
 ## Vem är du? (Namn? Vilket år? Program? Intresse?)
 

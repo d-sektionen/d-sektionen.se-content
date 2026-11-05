@@ -6,7 +6,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](images/Gunnar-772x1024.png)
+![](../../images/2022/11/Gunnar-772x1024.png)
 
 **Ledamot - Gunnar**
 
@@ -32,7 +32,7 @@ Har du något mer du vill tillägga?
 
 Sök ledamot! Har du några frågor eller funderingar kan du kontakta mig på gunnar.samuelsson@d-sektionen.se! Väl mött!
 
-![](images/Shamil-807x1024.jpg)
+![](../../images/2022/11/Shamil-807x1024.jpg)
 
 **Ledamot - Shamil**
 
@@ -52,7 +52,7 @@ Behöver man någon tidigare erfarenhet för att vara ledamot?
 
 Det som är bra med ledamot är man inte behöver några tidigare erfarenheter utan det handlar främst om ens egna driv och engagemang.
 
-![](images/emma-768x1024.jpg)
+![](../../images/2022/11/emma-768x1024.jpg)
 
 **Utbildningsutskottets ordförande - Emma**
 

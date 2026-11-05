@@ -15,7 +15,7 @@ Dags för Albin Andersson, Studienämndsordförande för IT att få sin tid i ra
 
 ## Berätta lite om dig själv
 
-Jag är en snubbe på 21 år som kommer från Hudiksvall och läser tredje året på IT-programmet. Utanför skolan tycker jag om att sitta vid datorn, umgås med folk samt diverse sektionsengagemang. <!--more Läs resten av intervjun →-->![](images/IT-Snordf_Albin_Andersson.jpg)
+Jag är en snubbe på 21 år som kommer från Hudiksvall och läser tredje året på IT-programmet. Utanför skolan tycker jag om att sitta vid datorn, umgås med folk samt diverse sektionsengagemang. <!--more Läs resten av intervjun →-->![](../../images/2018/03/IT-Snordf_Albin_Andersson.jpg)
 
 ## Kan du berätta om din post?
 

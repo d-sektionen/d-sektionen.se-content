@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](images/SökUtskott_FBhead-01-1024x536.jpg)
+![](../../images/2020/09/SökUtskott_FBhead-01-1024x536.jpg)
 
 Vill du vara med och bidra till sektionen, träffa massor av nya människor och samtidigt ha väldigt kul? Då har du kommit helt rätt! Med start 7/9 är rekryteringsperioden av nya medlemmar för flertalet utskott på D-sektionen igång!
 

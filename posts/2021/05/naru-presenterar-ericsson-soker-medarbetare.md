@@ -5,7 +5,7 @@ categories:
   - "platsannonser"
 ---
 
-![](images/EricssonNyBild.png)
+![](../../images/2021/05/EricssonNyBild.png)
 
 **A MESSAGE TO ALL D, IT, U AND IP STUDENTS DOING THEIR LAST YEAR AT LIU!**
 

@@ -17,7 +17,7 @@ Hej! Jag heter Oskar Skoglund, är 21 år gammal och pluggar tredje året på D.
 
 <!--more-->
 
-![Bild på Oskar](images/IMG_6630-577x1024.jpg)
+![Bild på Oskar](../../images/2018/12/IMG_6630-577x1024.jpg)
 
 ## Kan du berätta om din post?
 

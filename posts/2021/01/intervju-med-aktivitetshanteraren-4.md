@@ -7,7 +7,7 @@ categories:
 
 <figure>
 
-![](images/erik_halv-1-768x1024.jpg)
+![](../../images/2021/01/erik_halv-1-768x1024.jpg)
 
 <figcaption>
 

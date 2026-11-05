@@ -9,7 +9,7 @@ tags:
   - "naru"
 ---
 
-![](images/etimo.png)
+![](../../images/2019/03/etimo.png)
 
 Nu på tisdag, den 2/4, är det dags för Etimo att ta äntra golvet i C4 för att bjuda D-sektionen på både mat och prat!
 

@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-vintermote-2020"
 ---
 
-![](images/IMG_20190726_175429.jpg)
+![](../../images/2019/12/IMG_20190726_175429.jpg)
 
 Vi startar morgonkaffet med att lägga ut den 3:e intervjun av alla 13 rekryteringsintervjuer! Vi fortsätter med poster inom styret och en viktig pusselbit i styret är såklart vice ordförande. Sök denna post eller någon annan post som ska tillsättas under vintermötet [här](https://d-sektionen.se/sok-fortroendeposter-vintermotet-2020/)!
 

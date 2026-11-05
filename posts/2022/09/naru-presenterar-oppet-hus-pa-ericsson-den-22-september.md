@@ -3,7 +3,7 @@ title: "NärU presenterar: Öppet hus på Ericsson den 22 september!"
 date: 2022-09-16
 ---
 
-[![](images/OH-Banner-20222528-1024x576.png)](https://forms.gle/ReC7PyZ6iJfd7tXXA)
+[![](../../images/2022/09/OH-Banner-20222528-1024x576.png)](https://forms.gle/ReC7PyZ6iJfd7tXXA)
 
 Welcome to OPEN HOUSE @ ERICSSON SITE LINKÖPING September 22nd!
 

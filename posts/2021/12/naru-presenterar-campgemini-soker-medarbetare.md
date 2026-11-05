@@ -11,4 +11,4 @@ We are looking for ambitious students graduating during 2022 and young professio
 
 Read more and apply at: [https://www.capgemini.com/se-en/jobs/management-consultant-graduate-young-professional-stockholm-gothenburg-malmo/](https://www.capgemini.com/se-en/jobs/management-consultant-graduate-young-professional-stockholm-gothenburg-malmo/)
 
-![](images/Graduate-Poster-Dec-2022-768x1024.png)
+![](../../images/2021/12/Graduate-Poster-Dec-2022-768x1024.png)

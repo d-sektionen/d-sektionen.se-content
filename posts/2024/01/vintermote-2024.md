@@ -6,7 +6,7 @@ tags:
   - "vintermote-2"
 ---
 
-![](images/vintermote-2024-1024x560.png)
+![](../../images/2024/01/vintermote-2024-1024x560.png)
 
 Medlemmar i sektionen kallas till ordinarie vintermöte den 28 januari 2024.
 

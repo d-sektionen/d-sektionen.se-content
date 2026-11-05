@@ -3,7 +3,7 @@ title: "NärU Presenterar: FMV söker juniora ingenjörer"
 date: 2022-05-27
 ---
 
-![](images/FMVMarknadsforing.gif)
+![](../../images/2022/05/FMVMarknadsforing.gif)
 
 **Juniora ingenjörer som vill leverera en säkrare framtid**
 

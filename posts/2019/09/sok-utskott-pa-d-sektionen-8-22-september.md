@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](images/69905827_2468924706531343_4184770632891760640_o.jpg)
+![](../../images/2019/09/69905827_2468924706531343_4184770632891760640_o.jpg)
 
 Är du intresserad av att lära dig mer, få nya erfarenheter och träffa en massa nya vänner? Många av våra utskott rekryterar nu nya medlemmar till sina grupper! Mellan den 8-22 september har du möjlighet att ansöka till ett eller flera utskott.
 

@@ -13,7 +13,7 @@ Mer information kring ansökan och kontaktpersoner för samtliga rekryterande ut
 
 ### Hej! Vem är det jag pratar med?
 
-![](images/69870021_2669503829740239_951537072282271744_o.jpg)
+![](../../images/2019/09/69870021_2669503829740239_951537072282271744_o.jpg)
 
 Kasper Landgren heter jag. Hittills har jag hunnit bli 24 eller 25 år gammal beroende på när du läser detta och pluggar D3. Förutom att fylla år ibland så brukar jag syssla med att köpa bil, laga bil, laga släp och lägga lite för många timmar i Classic WoW.
 

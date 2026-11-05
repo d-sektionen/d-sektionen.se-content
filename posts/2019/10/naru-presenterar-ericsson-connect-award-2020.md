@@ -9,7 +9,7 @@ tags:
   - "naru"
 ---
 
-![](images/ECA2020.png)
+![](../../images/2019/10/ECA2020.png)
 
 As a part of Ericsson’s cooperation with Linköping University, we are pleased to announce the Ericsson Connect Award 2020. The students who win the award will have an excellent opportunity to get an insight into the exciting worlds of ICT, IoT and telecom, and how Ericsson drives and contributes towards our vision of an all communicating world.
 

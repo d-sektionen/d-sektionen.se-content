@@ -3,7 +3,7 @@ title: "SÖK STABEN 2024"
 date: 2023-11-28
 ---
 
-![](images/sok-staben-2024-1024x536.jpg)
+![](../../images/2023/11/sok-staben-2024-1024x536.jpg)
 
 OJ Oj ojjjjjj  
 STABEN 2024 behöver ju bli fulltaliga! Rekryteringsperioden är stänger redan **3:e December** så snabba puckar!  

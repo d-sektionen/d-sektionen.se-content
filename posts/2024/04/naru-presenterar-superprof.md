@@ -5,7 +5,7 @@ tags:
   - "naru"
 ---
 
-![](images/47.png)
+![](../../images/2024/04/47.png)
 
 ### Extrajobba som privatlärare under din studietid
 
@@ -29,4 +29,4 @@ Att anpassa sitt schema för att inkludera tid för privatundervisning kan verka
 
 Oavsett om du är en framtida ingenjör, matematiker, programmerare eller en passionerad musiker, erbjuder [Superprof](https://www.superprof.se/ge-privatundervisning/) en plattform där du kan utöva och dela din kunskap. Vi uppmuntrar alla studenter vid Linköpings universitet, särskilt de inom Datateknologsektionen, att överväga detta unika och givande sätt att kombinera arbete med studier. Det är inte bara ett sätt att tjäna pengar; det är också en chans att bidra till samhället och inspirera nästa generation av lärande.
 
-![](images/21-1.png)
+![](../../images/2024/04/21-1.png)

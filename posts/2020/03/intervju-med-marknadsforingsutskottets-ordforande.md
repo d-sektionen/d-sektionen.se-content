@@ -16,7 +16,7 @@ Ansökan och nomineringar stänger 2 april.
 
 ## Vem är du?
 
-![](images/IMG_5772-1024x768.jpg)
+![](../../images/2020/03/IMG_5772-1024x768.jpg)
 
 Jag heter Rosanna Isaksson och är en pepp och taggad 22-åring som pluggar mitt tredje år på Mjukvaruteknik. På fritiden gillar jag att träna (TIPS: Gå med i “Let’s go to D gym”- gruppen) , umgås med familj och vänner samt att engagera mig i studentlivet!
 

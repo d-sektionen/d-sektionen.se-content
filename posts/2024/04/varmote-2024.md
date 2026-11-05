@@ -3,7 +3,7 @@ title: "Vårmöte 2024"
 date: 2024-04-06
 ---
 
-[![](images/header-varmote-2024-1024x562.jpg)](https://d-sektionen.se/varmote-2024/)
+[![](../../images/2024/04/header-varmote-2024-1024x562.jpg)](https://d-sektionen.se/varmote-2024/)
 
 Medlemmar i sektionen kallas till ordinarie vårmöte den **21 april** 2024. 
 Detta är ett av sektionens tre ordinarie sektionsmöten. Sektionsmöten är  

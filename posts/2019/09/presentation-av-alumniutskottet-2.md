@@ -5,7 +5,7 @@ categories:
   - "presentation-av-utskott-ht19"
 ---
 
-![](images/Webp.net-resizeimage.png)
+![](../../images/2019/09/Webp.net-resizeimage.png)
 
 Här kommer en presentation av utskottet som ser till att D-sektionen finns där för dig även när du blivit en D:are från förr (när det var annorlunda!), det vill säga alumn! Dags för Alumniutskottet att presentera sig!
 
@@ -15,7 +15,7 @@ Mer information kring ansökan och kontaktpersoner för samtliga rekryterande ut
 
 ### Hej! Vem är det jag pratar med?
 
-![](images/Snapchat-936495102.jpg)
+![](../../images/2019/09/Snapchat-936495102.jpg)
 
 Tja, jag heter Robin och är ordförande för Alumniutskottet (xD). Jag är 21 år och pluggar andra året Mjukvaruteknik.
 

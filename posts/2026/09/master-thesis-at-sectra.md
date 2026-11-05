@@ -14,4 +14,4 @@ Har du redan en idé? Kul, berätta om den! Har du inte en aning om vad du vill 
 [https://emp.jobylon.com/jobs/378446-sectra-master-thesis-program-spring-2027/](https://emp.jobylon.com/jobs/378446-sectra-master-thesis-program-spring-2027/)  
 Sista ansökningsdag: 11 oktober 2026
 
-![](images/Master-thesis-Sectra.png)
+![](../../images/2026/09/Master-thesis-Sectra.png)

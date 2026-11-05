@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](images/sök_utskott_vår-1024x576.jpg)
+![](../../images/2020/05/sök_utskott_vår-1024x576.jpg)
 
 Slutet på läsåret närmar sig med stormsteg, och med det börjar planeringen inför nästa år för många av våra utskott! Till det behövs engagerade studenter som skulle vilja bli sektionsaktiva och på så vis hjälpa våra vår sektion och våra utskott att utvecklas och göra studentlivet roligt för alla våra medlemmar!
 

@@ -3,7 +3,7 @@ title: "Lunchföreläsning med Signality"
 date: 2022-05-10
 ---
 
-![](images/SignalityHeader-2-1024x486.png)
+![](../../images/2022/05/SignalityHeader-2-1024x486.png)
 
 Hej alla D-are!
 

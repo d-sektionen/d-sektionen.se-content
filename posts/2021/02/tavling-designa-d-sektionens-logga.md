@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](images/Image-from-iOS.png)
+![](../../images/2021/02/Image-from-iOS.png)
 
 Vår nuvarande logga har representerat D-sektionen i snart 10 år och den har både varit igenkänd som en unik symbol bland övriga sektioner, men också en frustration när det vankas målning i Märkesbacken eller tryck. Vi i styret har därför som avsikt att ta fram en ny logotyp med mer traditionell stil och vill att ni ska hjälpa till!
 
@@ -15,13 +15,13 @@ Tävlingen avslutas **28:e februari** och därefter kommer styret i samråd med 
 
 Vi i styret har bifogat förr**™-**bilder på sektionsloggan ni kan ta som inspiration för erat verk! Det kan mycket väl vara så att det är vårt original vi ska gå tillbaka till, men kanske med en modern twist eller andra sätt att representeras i olika medier.  
 
-- ![](images/logga_1_compressed-2-768x1024.jpg)
+- ![](../../images/2021/02/logga_1_compressed-2-768x1024.jpg)
     
-- ![](images/logga_2_compressed-2-768x1024.jpg)
+- ![](../../images/2021/02/logga_2_compressed-2-768x1024.jpg)
     
-- ![](images/logga_3_compressed-2-768x1024.jpg)
+- ![](../../images/2021/02/logga_3_compressed-2-768x1024.jpg)
     
-- ![](images/logga_4_compressed-2-768x1024.jpg)
+- ![](../../images/2021/02/logga_4_compressed-2-768x1024.jpg)
     
 
 Vi har en kravlista på hur loggan ska vara konstruerad:

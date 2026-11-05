@@ -15,7 +15,7 @@ Ansökan stänger 31 mars.
 
 Sofie Liljedahl, pluggar D3
 
-![](images/sofie.jpg)
+![](../../images/2019/03/sofie.jpg)
 
 <!--more-->
 

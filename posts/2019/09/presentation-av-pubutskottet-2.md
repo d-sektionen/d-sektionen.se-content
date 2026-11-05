@@ -5,7 +5,7 @@ categories:
   - "presentation-av-utskott-ht19"
 ---
 
-![Pubutskottets logga](images/pubu-300x173.png)
+![Pubutskottets logga](../../images/2019/09/pubu-300x173.png)
 
 Känner ni doften? Mmm...tror det minsann är hög tid att låta sektionens i särklass mest kulinariska utskott, Pubutskottet, presentera sig.
 
@@ -17,7 +17,7 @@ Mer information kring ansökan och kontaktpersoner för samtliga rekryterande ut
 
 ### Hej! Vem är det jag snackar med?
 
-![](images/IMG_20190712_082203.jpg)
+![](../../images/2019/09/IMG_20190712_082203.jpg)
 
 Tjaba tjena hallå! Du snackar med Dennis Berntsson och jag är ordförande för pubutskottet! Jag är ursprungligen från den soliga staden Borås, men kände att jag behövde lite mer blåst i mitt liv och drog till Linköping, där jag nu pluggar mitt andra år på mjukvaruteknik.
 

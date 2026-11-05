@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](images/staben_kassor_2021_final-1024x715.jpg)
+![](../../images/2020/10/staben_kassor_2021_final-1024x715.jpg)
 
 ### Sök till STABENs kassör!
 

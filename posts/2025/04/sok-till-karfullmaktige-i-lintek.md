@@ -6,7 +6,7 @@ categories:
   - "studentnyheter"
 ---
 
-![](images/LinTek_val-1024x1024.jpg)
+![](../../images/2025/04/LinTek_val-1024x1024.jpg)
 
 Hej sektionen!  
 Här kommer ett meddelande från vår kära kår LinTek, som just har sin sökperiod igång för FuM! Gå in på [https://val.lintek.liu.se/](https://val.lintek.liu.se/) för att söka eller nominera, sökperioden tar slut 12/4. 

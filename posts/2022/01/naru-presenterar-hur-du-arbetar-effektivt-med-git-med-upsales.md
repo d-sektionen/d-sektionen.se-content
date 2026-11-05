@@ -3,7 +3,7 @@ title: "NärU Presenterar: Hur du arbetar effektivt med Git med Upsales"
 date: 2022-01-20
 ---
 
-![](images/upsales_tech_git_event_2022-02-03_1200x600-1024x512.jpeg)
+![](../../images/2022/01/upsales_tech_git_event_2022-02-03_1200x600-1024x512.jpeg)
 
 **Hur du arbetar effektivt med Git**
 

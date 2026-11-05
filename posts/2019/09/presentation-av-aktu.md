@@ -7,7 +7,7 @@ tags:
   - "rekryteringht19"
 ---
 
-![](images/AktU_Logo_Rect_Color-300x187.png)
+![](../../images/2019/09/AktU_Logo_Rect_Color-300x187.png)
 
 Det är inte alltid lätt att ha koll på vad alla våra rekryterande utskott gör, och varför du bör söka till dem. Därför har vi pratat med de olika utskottens ordförande för att få veta mer. Först ut är AktU, en del av [Aktivitetsutskottet](https://d-sektionen.se/aktivitetsutskottet/).
 
@@ -17,7 +17,7 @@ Mer information kring ansökan och kontaktpersoner för samtliga rekryterande ut
 
 ### Hej! Vem är det jag pratar med?
 
-![](images/aktuordforande.jpg)
+![](../../images/2019/09/aktuordforande.jpg)
 
 Hej! Jag heter Mathilde och är ordförande för AktU.
 

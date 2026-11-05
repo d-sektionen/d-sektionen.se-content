@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-vintermote-2021"
 ---
 
-![](images/Cecilia-Olsson-8759-ps_compressed-684x1024.jpg)
+![](../../images/2021/01/Cecilia-Olsson-8759-ps_compressed-684x1024.jpg)
 
 Vi inleder denna helg genom att iterera vidare till den 3:de intervjun! Temat är fortfarande poster inom styret och en viktig post där är vice ordförande, så vi låter Aleksi Evansson föra ordet!
 

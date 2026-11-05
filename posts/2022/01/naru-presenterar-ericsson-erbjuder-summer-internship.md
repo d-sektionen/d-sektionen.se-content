@@ -3,7 +3,7 @@ title: "NärU Presenterar: Ericsson erbjuder Summer Internship"
 date: 2022-01-12
 ---
 
-[![](images/220113-Ericsson.png)](https://jobs.ericsson.com/search/?page=1&jobPipeline=careersite&utm_source=ericsson.com&utm_medium=referral&utm_campaign=search_widget&q=summer+internship&locationsearch=sweden&optionsFacetsDD_shifttype=)
+[![](../../images/2022/01/220113-Ericsson.png)](https://jobs.ericsson.com/search/?page=1&jobPipeline=careersite&utm_source=ericsson.com&utm_medium=referral&utm_campaign=search_widget&q=summer+internship&locationsearch=sweden&optionsFacetsDD_shifttype=)
 
   
 **Got any plans for summer vacation?**

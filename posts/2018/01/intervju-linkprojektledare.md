@@ -19,7 +19,7 @@ Erica Gavefalk, IT4, älskar att baka, speciellt bröd eller raspberry blondies.
 
 <!--more Läs resten av intervjun →-->
 
-![](images/linkordf.jpg)
+![](../../images/2018/01/linkordf.jpg)
 
 ## Kan du berätta om din post?
 

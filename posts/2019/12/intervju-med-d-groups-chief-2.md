@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-vintermote-2020"
 ---
 
-![](images/Intervju-Bild-Chief.png)
+![](../../images/2019/12/Intervju-Bild-Chief.png)
 
 Dagens kvällsintervju är med ingen annan än Chiefen med stort C, festeriets överhuvud! Går du, liksom honom och tänker på DÖMD 24/7 eller taggar du nästa helgens fester redan innan pågående fest har tagit slut! Då låter det som att du behöver söka till posten som festeriets ordförande! Det kan du göra [här](https://d-sektionen.se/sok-fortroendeposter-vintermotet-2020/)!
 

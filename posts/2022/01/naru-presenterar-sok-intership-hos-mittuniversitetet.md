@@ -12,4 +12,4 @@ civilingenjörsstudent och läser i årskurs 3 eller 4. Läs mer om
 uppdragen på: [www.miun.se/civing/internship](http://www.miun.se/civing/internship)  
 **Sista anmälningsdagen är 15 februari.**
 
-![](images/Internship.jpg)
+![](../../images/2022/01/Internship.jpg)

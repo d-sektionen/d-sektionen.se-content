@@ -18,7 +18,7 @@ Ansökan och nomineringar stänger 2 april.
 
 ## Vem är du?
 
-![](images/SnordF-Master-682x1024.jpg)
+![](../../images/2020/03/SnordF-Master-682x1024.jpg)
 
 Jag är Emil, en gammal D5:a som nu är läskigt nära vuxenlivet efter examen! När jag inte pluggar eller exjobbar gillar jag att hänga på gymmet eller att vara iväg på resor i diverse länder (i alla fall tills corona stängde alla gränserna ?).
 

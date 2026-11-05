@@ -3,7 +3,7 @@ title: "NärU Presenterar: Kvällsevent med Knowit"
 date: 2022-04-28
 ---
 
-![](images/knowit-event-1024x681.jpg)
+![](../../images/2022/04/knowit-event-1024x681.jpg)
 
 Varmt välkommen på kvällsevent tillsammans med Knowit!
 

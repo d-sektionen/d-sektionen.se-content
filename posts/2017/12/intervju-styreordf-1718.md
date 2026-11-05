@@ -20,7 +20,7 @@ Hej! Jacob Lundberg heter jag, läser 4e året på D-programmet. Jag har hunnit 
 
 <!--more Läs resten av intervjun →-->
 
-## ![](images/Styret_ordförande.jpg)
+## ![](../../images/2017/12/Styret_ordförande.jpg)
 
 ## Kan du berätta om din post som ordförande i D-sektionen?
 

@@ -3,7 +3,7 @@ title: "Alumni Rekryterar"
 date: 2021-11-06
 ---
 
-![](images/AlumniFacebookRekrytering-1-1024x521.png)
+![](../../images/2021/11/AlumniFacebookRekrytering-1-1024x521.png)
 
 Taggad på att vara sektionsaktiv? Då är detta din extra chans att bli det! Som sektionsaktiv får du gå på sektionsaktivas midoff och fuckoff. Något du inte vill missa! Som medlem i Alumni får du också chansen att gå på framtida Generationssittningar! Alumniutskottet, a.k.a Alumni, finns till för att främja kontakten mellan D-sektionens studenter och de som avslutat sin utbildning på något av D-sektionens program, alumner.
 

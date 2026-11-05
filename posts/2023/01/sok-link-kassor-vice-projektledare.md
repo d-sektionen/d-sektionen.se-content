@@ -6,7 +6,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](images/graphic-design-is-my-passion-1024x512.png)
+![](../../images/2023/01/graphic-design-is-my-passion-1024x512.png)
 
 Nu kan du ansöka eller nominera till LINK kassör/Vice projektledare 2023!
 

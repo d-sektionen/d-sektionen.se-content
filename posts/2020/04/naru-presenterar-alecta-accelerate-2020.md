@@ -7,7 +7,7 @@ tags:
   - "naru"
 ---
 
-![](images/Alecta-logo.jpg)
+![](../../images/2020/04/Alecta-logo.jpg)
 
 Redo för att kickstarta din IT-karriär? Sök då Alecta Accelerate! En programsatsning på 12 månader, skräddarsydd för dig som vet att IT är området du vill satsa på långsiktigt. Du, tillsammans med övriga deltagare i programmet kommer spela en stor roll för IT-avdelningens resa framåt. Alecta behöver dig som vill utveckla både dig själv, dina kollegor och deras affär. Vi vill att du ska våga fråga, göra misstag, lära dig nya saker och framförallt ha roligt på vägen i arbetet mot Alectas vision - att bli världens mest effektiva tjänstepensionsbolag! 
 

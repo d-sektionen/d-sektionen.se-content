@@ -11,4 +11,4 @@ På tisdag den 14 november klockan 17.15 har du möjlighet och komma på mingel 
 
 Anmälan gör du här: https://forms.office.com/Pages/ResponsePage.aspx?id=LUEF9VAxFU-nBLbOEi3gTRTehSXVgctGq95mwvj3eJNUQkpRQlNJQlpQTkNURTNRVFlHN1hDMUNPOS4u
 
-![](images/23432951_1613940081993103_1034810381_o-300x194.jpg)
+![](../../images/2017/11/23432951_1613940081993103_1034810381_o-300x194.jpg)

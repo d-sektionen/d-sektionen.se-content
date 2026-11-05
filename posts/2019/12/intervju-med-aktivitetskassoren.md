@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-vintermote-2020"
 ---
 
-![](images/2019-09-30_1814__01.jpg)
+![](../../images/2019/12/2019-09-30_1814__01.jpg)
 
 Hela 13 poster senare är vi inne på sista posten för denna intervjuserie och sista intervjun är inte med någon mindre än Aktivitetsutskottets kassör! Posten, liksom samtliga poster som ska tillsättas på vintermötet, söker ni [här](https://d-sektionen.se/sok-fortroendeposter-vintermotet-2020/). 
 

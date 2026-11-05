@@ -5,7 +5,7 @@ categories:
   - "platsannonser"
 ---
 
-![](images/b0417d4f9ea7aa90276fe2af2e2fdbc0.png)
+![](../../images/2020/11/b0417d4f9ea7aa90276fe2af2e2fdbc0.png)
 
 Huawei, the leading global provider of information and communications technology (ICT) infrastructure and smart devices, is thrilled to host this year’s European University Challenge 2020 in Sweden. This four-week event  
 is 100% virtual and open to students who are working towards their Master’s or PhD in Computer Science, Data Science, Robotics, Mathematics, IT, Programming, or related field.

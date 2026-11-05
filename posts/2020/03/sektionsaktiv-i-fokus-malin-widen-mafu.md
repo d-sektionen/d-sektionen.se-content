@@ -11,7 +11,7 @@ En trevlig lunch i Byttan 2020-02-25 intervjuades Malin Widén av två trötta j
 
 Malin kliver in med en gitarr, fullt redo att svara på alla extrema frågor om att vara sektionsaktiv på D-sektionen! Här är resultatet:
 
-![](images/78425691_433006270716700_8346011038344282112_n.jpg)
+![](../../images/2020/03/78425691_433006270716700_8346011038344282112_n.jpg)
 
 ## Vem är det vi pratar med? (Namn, program, intressen?)
 

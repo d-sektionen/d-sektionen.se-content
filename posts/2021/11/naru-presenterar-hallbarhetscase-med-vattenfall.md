@@ -5,7 +5,7 @@ categories:
   - "foretagsevent"
 ---
 
-![](images/vattenfall_m_loggor-1024x577.jpg)
+![](../../images/2021/11/vattenfall_m_loggor-1024x577.jpg)
 
 Välkomna till casekväll med Vattenfall, M-Case och NärU!
 

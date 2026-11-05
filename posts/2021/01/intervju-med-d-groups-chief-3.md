@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-vintermote-2021"
 ---
 
-![](images/chief_combined-1024x770.jpg)
+![](../../images/2021/01/chief_combined-1024x770.jpg)
 
 Vi hoppar nu vidare i intervjuserien till inga mindre än sektionens egna festeri, D-Group! Dagens intervjuer kommer att vara med dess ordförande (läs: Chief) och dess kassör. Är du taggad på att fixa ett riktigt fett DÖMD? Då bör du nog ta en bra titt på denna intervju, först ut är nämligen head honchon Max Mogren!
 

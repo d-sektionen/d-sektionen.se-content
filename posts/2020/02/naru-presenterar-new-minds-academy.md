@@ -7,7 +7,7 @@ tags:
   - "naru"
 ---
 
-![](images/Bild-facebook_2020_new_minds-1024x576.png)
+![](../../images/2020/02/Bild-facebook_2020_new_minds-1024x576.png)
 
 **Kickstart your tech career with New Minds Academy!**
 

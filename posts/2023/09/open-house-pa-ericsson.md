@@ -3,7 +3,7 @@ title: "Open House på Ericsson"
 date: 2023-09-11
 ---
 
-![](images/OH-Hemsida-2023-1024x576.png)
+![](../../images/2023/09/OH-Hemsida-2023-1024x576.png)
 
 När: Onsdag 20:e september, 17:30 – 20:30
 

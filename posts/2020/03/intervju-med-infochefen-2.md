@@ -18,7 +18,7 @@ Ansökan och nomineringar stänger 2 april.
 
 ## Vem är du?
 
-![](images/DSC0001-1.jpg)
+![](../../images/2020/03/DSC0001-1.jpg)
 
 Johan heter jag och är på mitt fjärde år på Mjukvaruteknik! Jag gillar att engagera mig i saker; har snart fyra år på nacken i AktU samt snart ett år i InfU. Kommer det bli 4+ år även i InfU? Den som lever får se!
 

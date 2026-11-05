@@ -7,4 +7,4 @@ Osäker på vad du ska göra efter examen? Låt sommaren 2017 bli den du minns s
 
 Läs mer [här](http://www.academy.se/bli-it-konsult)!
 
-[![](images/academic-work-thumbnail1.jpg)](www.academy.se/bli-it-konsult)
+[![](../../images/2017/04/academic-work-thumbnail1.jpg)](www.academy.se/bli-it-konsult)

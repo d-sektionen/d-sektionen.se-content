@@ -13,4 +13,4 @@ Ready to get your hands on coding? **Apply by September 10 to save your spot:**Â
 
 Let's redefine the future of mobility together!Â 
 
-![](images/BCG-Platinion-Hackathon-2023-Image-1-1024x535.png)
+![](../../images/2023/08/BCG-Platinion-Hackathon-2023-Image-1-1024x535.png)

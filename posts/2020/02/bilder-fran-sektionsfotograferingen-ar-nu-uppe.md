@@ -3,9 +3,9 @@ title: "Bilder från sektionsfotograferingen är nu uppe!"
 date: 2020-02-13
 ---
 
-- ![](images/U4_Spex-1024x680.jpg)
+- ![](../../images/2020/02/U4_Spex-1024x680.jpg)
     
-- ![](images/Webbgruppen_Spex-1-1024x680.jpg)
+- ![](../../images/2020/02/Webbgruppen_Spex-1-1024x680.jpg)
     
 
 Äntligen finns alla bilder från sektionsfotograferingen uppe i sektionens [fotoalbum](https://d-sektionen.se/filarkiv/fotoalbum/)!

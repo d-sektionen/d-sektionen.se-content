@@ -7,7 +7,7 @@ tags:
   - "traineeprogram"
 ---
 
-![](images/CCfish.jpg)
+![](../../images/2020/01/CCfish.jpg)
 
 **Vårt traineeprogram** ger dig som nyexaminerad en möjlighet att kickstarta din konsultkarriär. Under 12 månaders tid varvar vi konsultuppdrag med utbildning och andra aktiviteter tillsammans med dina traineekollegor för att bygga ett starkt och sammansvetsat team.
 

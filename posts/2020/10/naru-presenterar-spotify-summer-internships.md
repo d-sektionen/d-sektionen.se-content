@@ -5,7 +5,7 @@ categories:
   - "platsannonser"
 ---
 
-[![](images/122884037-1763078553840376-449769672903035160-n.png)](http://spotifyjobs.com/students/)
+[![](../../images/2020/10/122884037-1763078553840376-449769672903035160-n.png)](http://spotifyjobs.com/students/)
 
 Got questions about our upcoming [Summer Internships](http://spotifyjobs.com/students/) at Spotifyjobs.com/students? Look no further! We’re hosting two separate events tailored for your interests.  
   

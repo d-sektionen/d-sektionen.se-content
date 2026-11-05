@@ -11,7 +11,7 @@ Mer information kring ansökan och kontaktpersoner för samtliga rekryterande ut
 
 ### Hej! Vem är det jag pratar med?
 
-![](images/enbrakväll.jpg)
+![](../../images/2019/09/enbrakväll.jpg)
 
 Hej! Jag heter Emil och pluggar tredje året på mjukvaruteknik. Jag är webmaster i D-sektionen under läsåret 19/20.
 

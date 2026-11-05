@@ -16,4 +16,4 @@ Lämna intresseanmälan via [http://ffcg.se/studentmingel](http://ffcg.se/studen
 
 Läs mer om vårt traineeprogram på [http://www.forefrontconsulting.se/trainee/](http://www.forefrontconsulting.se/trainee/).
 
-Vi ser fram emot att mingla med er, varmt välkomna!![](images/Forefront_studentmingel-1024x538.png)
+Vi ser fram emot att mingla med er, varmt välkomna!![](../../images/2017/01/Forefront_studentmingel-1024x538.png)

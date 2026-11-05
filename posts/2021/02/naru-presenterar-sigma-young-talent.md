@@ -5,7 +5,7 @@ categories:
   - "platsannonser"
 ---
 
-[![](images/Sigma-EABT-IMG01-w-Text-4080x2720-1.jpg)](https://www.sigma.se/position/juniora-ingenjorer/)
+[![](../../images/2021/02/Sigma-EABT-IMG01-w-Text-4080x2720-1.jpg)](https://www.sigma.se/position/juniora-ingenjorer/)
 
 Är du en ung ingenjör som snart ska ta steget ut i arbetslivet? Har du ett genuint intresse för att utvecklas inom ditt utbildningsområde? Vill du utmanas genom att rivstarta arbetslivet på ett ledande konsultbolag, där dina kompetenser matchas ihop med kundens behov och spännande uppdrag? Då är det här något för dig.
 

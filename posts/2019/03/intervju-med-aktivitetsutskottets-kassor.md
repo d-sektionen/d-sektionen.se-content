@@ -15,7 +15,7 @@ Ansökan stänger 31 mars.
 
 Nämen, hallå där! Jag heter Johan och är en 24-årig liten pojke från värmländska Karlstad! Efter ett par svängar i andra träsk har jag nu landat på mitt tredje år på Mjukvaruteknik, där jag trivs alldeles utmärkt! Utanför plugget och allt jag gör med och för AktU så älskar jag att sova, mysa med folk i min klass, tänka på kaniner, eller spela något kul spel. Det här är mitt tredje (!) år i AktU, vilket innebär att jag har tre stycken fantastiskt fina gröna AktU-hoodies.
 
-![](images/aktukassor.jpg)
+![](../../images/2019/03/aktukassor.jpg)
 
  
 

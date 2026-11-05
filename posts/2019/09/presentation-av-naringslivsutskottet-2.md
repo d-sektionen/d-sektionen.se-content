@@ -5,7 +5,7 @@ categories:
   - "presentation-av-utskott-ht19"
 ---
 
-![NärU logga](images/Logga-NarU-vit-1024x757.png)
+![NärU logga](../../images/2019/09/Logga-NarU-vit-1024x757.png)
 
 Nu är det dags för nästa presentation, den här gången av [Näringslivsutskottet](https://d-sektionen.se/naringsliv/), även känt som NärU, där vi fått prata med utskottets ordförande och tillika Näringslivsansvarig.
 

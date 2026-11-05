@@ -15,7 +15,7 @@ Detta är den sista presentationen! Läs samtliga presentationer via följande [
 
 ### Hej! Vem är det jag pratar med?
 
-![](images/IMG_8988.jpg)
+![](../../images/2019/09/IMG_8988.jpg)
 
 Hejhej! Mitt namn är Lovisa Stålebrink och sitter just nu som ordförande i Valberedningen. Jag är en 21 årig smålänning som pluggar mitt tredje året på datateknik.
 

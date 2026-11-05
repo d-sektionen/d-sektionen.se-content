@@ -18,7 +18,7 @@ Ansökan och nomineringar stänger 2 april.
 
 ## Vem är du?
 
-![](images/82038259_10220857498330678_2755785058747940864_o-1024x1024.jpg)
+![](../../images/2020/03/82038259_10220857498330678_2755785058747940864_o-1024x1024.jpg)
 
 Johan heter jag och är på mitt fjärde år på Mjukvaruteknik! Jag älskar bra umgänge, och att göra roliga saker med andra. På så sätt har Aktivitetsutskottet alltid passat mig perfekt, vilket är varför jag nu spenderar mitt fjärde år i utskottet (oops)! Jag gillar många olika saker, men allra mest tycker jag om kreativt arbete såsom att spela piano, redigera film/bilder, eller att skriva.
 

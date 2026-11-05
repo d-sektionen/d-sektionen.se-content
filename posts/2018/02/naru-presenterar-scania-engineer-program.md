@@ -10,4 +10,4 @@ categories:
 
 Läs mer på http://bit.ly/scaniaengineerprogram
 
-![](images/Skärmavbild-2018-02-16-kl.-17.17.14-300x300.png)
+![](../../images/2018/02/Skärmavbild-2018-02-16-kl.-17.17.14-300x300.png)

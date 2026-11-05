@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](images/d_sek-1024x576.jpg)
+![](../../images/2021/05/d_sek-1024x576.jpg)
 
 EDIT: Här hittar ni [Zoom-länken](https://liu-se.zoom.us/j/68114977020?pwd=QW5UQmhuYlNyRXp6RHVLZS84M2hUZz09) för torsdag!
 

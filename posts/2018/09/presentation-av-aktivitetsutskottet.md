@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-Idag är det aktivitetsutskottets tur att presentera sig! Om du känner dig sugen på att ansöka till ett utskott finns mer information, ansökan och kontaktpersoner på [d-sektionen.se/ansok](https://d-sektionen.se/ansok/). ![](images/AktU_Logo_Rect_Color-300x187.png) <!--more-->
+Idag är det aktivitetsutskottets tur att presentera sig! Om du känner dig sugen på att ansöka till ett utskott finns mer information, ansökan och kontaktpersoner på [d-sektionen.se/ansok](https://d-sektionen.se/ansok/). ![](../../images/2018/09/AktU_Logo_Rect_Color-300x187.png) <!--more-->
 
 ## Vad gör aktivitetsutskottet?
 

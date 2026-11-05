@@ -7,7 +7,7 @@ categories:
 
 <figure>
 
-![](images/Image-from-iOS-684x1024.jpg)
+![](../../images/2021/01/Image-from-iOS-684x1024.jpg)
 
 <figcaption>
 
@@ -45,4 +45,4 @@ Du som är intresserad och vill vara med och påverka utbildningsfrågor ska def
 
 ## Något mer att tillägga?
 
-Puss och kram skumbanan![:heart:](images/2764-fe0f.png)
+Puss och kram skumbanan![:heart:](../../images/2021/01/2764-fe0f.png)

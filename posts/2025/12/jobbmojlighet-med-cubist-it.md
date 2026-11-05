@@ -34,4 +34,4 @@ fokus på medicinsk teknik och datadrivna lösningar inom hälsosektorn. Idag be
 Hemsida: [https://www.cubist.eu/](https://www.cubist.eu/)  
 LinkedIn: [https://www.linkedin.com/company/cubist-it-health/](https://www.linkedin.com/company/cubist-it-health/)
 
-![](images/Cubist-ma╠erke-rgb-gro╠ent-1024x306.jpg)
+![](../../images/2025/12/Cubist-ma╠erke-rgb-gro╠ent-1024x306.jpg)

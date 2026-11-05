@@ -7,7 +7,7 @@ tags:
   - "naru"
 ---
 
-![](images/Marknadsföring_GD.png)
+![](../../images/2019/11/Marknadsföring_GD.png)
 
 **Möt världens största eSIM-företag!**
 

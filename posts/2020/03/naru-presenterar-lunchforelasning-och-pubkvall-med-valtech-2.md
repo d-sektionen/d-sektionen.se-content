@@ -8,7 +8,7 @@ tags:
   - "valtech"
 ---
 
-![](images/medium-021220-LinkedIn.jpg)
+![](../../images/2020/03/medium-021220-LinkedIn.jpg)
 
 **Hej Linköping ?? Äntligen är det dags för lunchföreläsning med Valtech igen!**
 

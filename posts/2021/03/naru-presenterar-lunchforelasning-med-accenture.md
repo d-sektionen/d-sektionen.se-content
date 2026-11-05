@@ -5,7 +5,7 @@ categories:
   - "foretagsevent"
 ---
 
-[![](images/bliendelavaccenture.jpg)](https://docs.google.com/forms/d/e/1FAIpQLSd3HdCC9946PD4kRqcNzs7Ka7P5-mZhr4cuvO_zcdQx7SZGcg/viewform?fbclid=IwAR0URKNgmKEb950hiSL7rZCwATqt36W4bDoLAD0Y8BNtnRrRAEu2ezK0Dkw)
+[![](../../images/2021/03/bliendelavaccenture.jpg)](https://docs.google.com/forms/d/e/1FAIpQLSd3HdCC9946PD4kRqcNzs7Ka7P5-mZhr4cuvO_zcdQx7SZGcg/viewform?fbclid=IwAR0URKNgmKEb950hiSL7rZCwATqt36W4bDoLAD0Y8BNtnRrRAEu2ezK0Dkw)
 
 Funderar du på vad du vill göra efter examen, eller kanske till sommaren? Vilka företag är intressanta, vilka tekniker vill jag arbeta med, vilka tjänster finns det ens!? Passa på och lyssna på Accentures lunchföreläsning, där du får en insyn i hur det är att arbeta som konsult på Accenture.  
   

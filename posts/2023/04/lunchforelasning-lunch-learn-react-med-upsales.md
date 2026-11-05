@@ -3,7 +3,7 @@ title: "Lunchföreläsning: Lunch & Learn: React med Upsales"
 date: 2023-04-13
 ---
 
-![](images/PR-bild-1024x536.png)
+![](../../images/2023/04/PR-bild-1024x536.png)
 
 Vill du lära dig mer om webbgränssnitt och att kunna skriva "clean code" så vill du inte missa denna Lunch & Learn med Upsales. I samarbete med Näringslivsutskottet bjuder Upsales på en lunchföreläsning där vi kommer prata om hur du kan bygga ett designsystem i React.
 

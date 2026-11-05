@@ -33,4 +33,4 @@ Man borde söka till LINK kassör/vice PL om man vill ha en ansvarsfull och lär
 
 ## Något mer att tillägga?
 
-Söksöksök, det blir jättekul, och såklart tagga LINK 2021 ![:tada:](images/1f389.png)
+Söksöksök, det blir jättekul, och såklart tagga LINK 2021 ![:tada:](../../images/2021/01/1f389.png)

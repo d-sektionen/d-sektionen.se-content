@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-varmote-2021"
 ---
 
-![](images/1615561789239.jpg)
+![](../../images/2021/03/1615561789239.jpg)
 
 Vi går vidare i intervjuserie-loopen, och hoppar till nästa iteration! I kvällens iteration så medverkar Malin Widén, som är ordförande i Marknadsföringsutskottet!
 

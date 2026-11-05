@@ -6,7 +6,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](images/d-sektionen_logga2-1024x273.jpg)
+![](../../images/2025/02/d-sektionen_logga2-1024x273.jpg)
 
 Nu har rekryteringen för EventUs gruppledare samt DEG (ekonomiutskottet) öppnat för 25/26, så ta chansen och passa på att sök!
 

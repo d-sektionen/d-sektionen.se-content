@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-vintermote-2020"
 ---
 
-![](images/sovansvarig_2.jpg)
+![](../../images/2019/12/sovansvarig_2.jpg)
 
 Det är med tårarna i halsen som vi säger att detta är näst sista inlägget i vår intervjuserie! Skönt kanske ingen tänker och det förstår vi! 
 

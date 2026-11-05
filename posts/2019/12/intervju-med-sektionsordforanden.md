@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-vintermote-2020"
 ---
 
-![](images/jag2.jpg)
+![](../../images/2019/12/jag2.jpg)
 
 Idag, den 16 december 2019, 17 veckor och 6 dagar innan påskafton, så har rekryteringsperioden startat för en massa roliga poster inom D-sektionen! Du kan finna dem alla [här](https://d-sektionen.se/sok-fortroendeposter-vintermotet-2020/).
 

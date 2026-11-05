@@ -14,7 +14,7 @@ Idag taggar vi upp inför omtenta-p med en intervju med Amanda Brodell, Studien�
 
 ## Berätta lite om dig själv!
 
-Jag är en glad och trevlig 23-årig tjej som går på U och som älskar att lära mig nya saker. <!--more Läs resten av intervjun →-->![](images/Amanda_Brodell_U-snorf.jpg)
+Jag är en glad och trevlig 23-årig tjej som går på U och som älskar att lära mig nya saker. <!--more Läs resten av intervjun →-->![](../../images/2018/04/Amanda_Brodell_U-snorf.jpg)
 
 ## Kan du berätta om din post?
 

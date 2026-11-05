@@ -35,4 +35,4 @@ Tävlande bidrag utvärderas av en jury bestående av ledande personer från Sve
 
 Maila din ansökan märkt ”Telekomtalang 2015” till  [yangyang27@huawei.com](mailto:yangyang27@huawei.com), senast den 20 maj. Vinnarna kommer att kontaktas under vecka 23.
 
-![Huawei3](images/unnamed-3.jpg) ![Huawei1](images/image001-300x200.jpg) ![Huawei4](images/Huawei4.jpg)![Huawei2](images/image002-300x200.jpg)
+![Huawei3](../../images/2015/05/unnamed-3.jpg) ![Huawei1](../../images/2015/05/image001-300x200.jpg) ![Huawei4](../../images/2015/05/Huawei4.jpg)![Huawei2](../../images/2015/05/image002-300x200.jpg)

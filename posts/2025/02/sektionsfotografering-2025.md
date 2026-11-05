@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](images/Sektionsfotografering-1024x462.png)
+![](../../images/2025/02/Sektionsfotografering-1024x462.png)
 
 Kära sektion!
 

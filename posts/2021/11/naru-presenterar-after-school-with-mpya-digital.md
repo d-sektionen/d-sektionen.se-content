@@ -5,7 +5,7 @@ categories:
   - "foretagsevent"
 ---
 
-![](images/mpya_digital_logo1_rgb--1024x340.png)
+![](../../images/2021/11/mpya_digital_logo1_rgb--1024x340.png)
 
 Read more about us at: [https://mpyadigital.com/](https://mpyadigital.com/)  
 Are you curious about what is going on in our minds? Read our articles here: [https://mpyadigital.medium.com/](https://mpyadigital.medium.com/) or [https://mpyadigital.com/articles/](https://mpyadigital.com/articles/)  
@@ -28,4 +28,4 @@ Looking forward to meet you there!
 
 Register, before 14/11, [here](https://forms.gle/o78z2AGAyqBiF8Dz6).
 
-![](images/80147af9-aaba-4b0b-88fd-da6f6997cee9-1024x881.jpeg)
+![](../../images/2021/11/80147af9-aaba-4b0b-88fd-da6f6997cee9-1024x881.jpeg)

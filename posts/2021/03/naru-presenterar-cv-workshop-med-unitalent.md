@@ -5,7 +5,7 @@ categories:
   - "platsannonser"
 ---
 
-![](images/164012573_2920245528236130_3918300335591166309_n-1024x536.png)
+![](../../images/2021/03/164012573_2920245528236130_3918300335591166309_n-1024x536.png)
 
 Funderar du också på hur du ska skriva ditt CV? Vad ska finnas med? Hur ska det se ut?
 

@@ -15,7 +15,7 @@ Här kommer en intervju med pubutskottets ordförande Adam Andersson. Sök själ
 
 ## Berätta lite om dig själv!
 
-Jag heter Adam Andersson, 27 år gammal och och pluggar tredje året på mjukvaruteknik. På fritiden tycker jag om att rigga Gasquen, hacka grönsaker och göra power-point presentationer. <!--more Läs resten av intervjun →-->![](images/PubU_Adam_Andersson.jpeg)
+Jag heter Adam Andersson, 27 år gammal och och pluggar tredje året på mjukvaruteknik. På fritiden tycker jag om att rigga Gasquen, hacka grönsaker och göra power-point presentationer. <!--more Läs resten av intervjun →-->![](../../images/2018/04/PubU_Adam_Andersson.jpeg)
 
 ## Kan du berätta om din post?
 

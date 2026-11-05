@@ -6,7 +6,7 @@ categories:
   - "foretagsevent"
 ---
 
-![](images/masterthesis.jpg)
+![](../../images/2019/09/masterthesis.jpg)
 
 Vill du vara med och utveckla Machine Vision på en av Sveriges bästa arbetsplatser?  
 Tisdagen den 24 september kl. 18.00 bjuder SICK Linköping in till exjobbskväll!

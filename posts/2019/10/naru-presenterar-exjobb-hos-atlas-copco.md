@@ -8,7 +8,7 @@ tags:
   - "naru"
 ---
 
-![](images/Facebook.jpeg)
+![](../../images/2019/10/Facebook.jpeg)
 
 ### Write your thesis with us!
 

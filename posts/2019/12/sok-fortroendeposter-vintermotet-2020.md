@@ -3,7 +3,7 @@ title: "Sök förtroendeposter: Vintermötet 2020"
 date: 2019-12-15
 ---
 
-![](images/sok_fortroendeposter-2.jpg)
+![](../../images/2019/12/sok_fortroendeposter-2.jpg)
 
 **OBS:** Notera att ansökningsperioden förlängts till och med fredagen den 3:e januari.
 

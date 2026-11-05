@@ -3,7 +3,7 @@ title: "NärU Presenterar: Lunchföreläsning med Sopra Steria"
 date: 2022-03-19
 ---
 
-![](images/1200x628-med-logga-utan-text-1024x536.png)
+![](../../images/2022/03/1200x628-med-logga-utan-text-1024x536.png)
 
 Sveriges bästa traineeprogram för civilingenjörer?
 

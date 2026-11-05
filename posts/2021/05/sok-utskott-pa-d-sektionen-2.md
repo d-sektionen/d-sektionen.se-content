@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](images/fbhead_utskott-1024x536.png)
+![](../../images/2021/05/fbhead_utskott-1024x536.png)
 
 Missa inte att söka till de utskott som just nu söker medlemmar för verksamhetsåret 21/22! Allt roligt och (viktigt) sektionen gör kan bara hända eftersom sådana som du blir sektionsaktiva, så ta chansen att få bidra till sektionen! Om du undrar något om utskotten så finns en kortare beskrivning längre ner!
 

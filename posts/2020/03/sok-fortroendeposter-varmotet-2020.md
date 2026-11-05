@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](images/90178642_2879705085453301_6798058580953006080_o-1024x536.jpg)
+![](../../images/2020/03/90178642_2879705085453301_6798058580953006080_o-1024x536.jpg)
 
 ### Ansökan och nominering till förtroendeposter är förlängd till den 5/4!
 

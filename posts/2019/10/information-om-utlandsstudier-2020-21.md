@@ -5,7 +5,7 @@ categories:
   - "studentnyheter"
 ---
 
-![](images/linkoping-dump.jpg)
+![](../../images/2019/10/linkoping-dump.jpg)
 
 Är du intresserad av att studera utomlands under läsåret 2020/21? Kom då på kvällsföreläsning där LiTH informerar om hur du söker utbytesstudier, vilka möjligheter som finns samt hur det rent praktiskt går till vid ansökning och nominering.
 

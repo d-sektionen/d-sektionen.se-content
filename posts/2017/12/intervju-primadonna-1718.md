@@ -13,7 +13,7 @@ Jag heter Louise, aka Lagó/Laggan/PrimaD, är 20 år och kommer ifrån östgöt
 
 <!--more Läs resten av intervjun →-->
 
-## ![](images/PrimaDonna_Louise_Lago.jpg)
+## ![](../../images/2017/12/PrimaDonna_Louise_Lago.jpg)
 
 ## Kan du berätta om din post som ordförande i Donna?
 

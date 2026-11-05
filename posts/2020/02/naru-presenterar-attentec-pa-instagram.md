@@ -6,7 +6,7 @@ tags:
   - "naru"
 ---
 
-![](images/annonsbild-1024x796.jpg)
+![](../../images/2020/02/annonsbild-1024x796.jpg)
 
 Har ni någonsin undrat vad som händer på ett IT konsultföretag som Attentec? Eller vill ni se roliga och intressanta bilder som ger en härlig känsla i kroppen? Perfekt att ni då läser denna text för vi på Attentec har ett instagramkonto som heter **_attentec\_sverige_** som uppfyller just de behoven!   
 

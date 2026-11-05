@@ -18,4 +18,4 @@ När grundutbildningen är klar vill vi involvera dig i teamets riktiga projekt.
 Efter traineeprogrammet arbetar du som fullstackutvecklare i ditt redan kända team. Tillsammans  
 arbetar ni för att förverkliga de krav som ställs på den kundlösning ni utvecklar.
 
-![](images/Ida-Infronts-annons-for-traineeprogram-mars-2023-1024x1024.jpg)
+![](../../images/2023/03/Ida-Infronts-annons-for-traineeprogram-mars-2023-1024x1024.jpg)

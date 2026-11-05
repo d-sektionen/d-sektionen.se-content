@@ -11,7 +11,7 @@ Vi på InfU har lyckats klämma in en sista sektionsaktiva i fokus intervju inna
 
 ## Vem är du? (Namn? Vilket år? Program?)
 
-![](images/henrik.jpg)
+![](../../images/2020/06/henrik.jpg)
 
 Jag heter Henrik Nilsson och pluggar just nu D3. Jag är en glad norrlänning med alldeles för många intressen.
 

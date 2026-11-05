@@ -15,7 +15,7 @@ Det börjar vankas påsk! Men först är det Alumniansvarige Viktor Wällstedts 
 
 ## Berätta lite om dig själv!
 
-Jag är en kille på 23 solsnurr från metropolen Karlskoga som läser första året på säkra system mastern för D-programmet. När jag inte är i skolan brukar jag ändå sitta vid datorn, umgås med min sambo eller ha trevliga kvällar med mina kompisar. <!--more Läs resten av intervjun →-->![](images/Alumni_Viktor_Wällstedt.jpg)
+Jag är en kille på 23 solsnurr från metropolen Karlskoga som läser första året på säkra system mastern för D-programmet. När jag inte är i skolan brukar jag ändå sitta vid datorn, umgås med min sambo eller ha trevliga kvällar med mina kompisar. <!--more Läs resten av intervjun →-->![](../../images/2018/03/Alumni_Viktor_Wällstedt.jpg)
 
 ## Kan du berätta om din post? (T ex Arbetsuppgifter, utskottets/postens roll etc.)
 

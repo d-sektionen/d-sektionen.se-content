@@ -5,7 +5,7 @@ categories:
   - "platsannonser"
 ---
 
-[![](images/0001.jpg)](https://eygbl.referrals.selectminds.com/student-opportunities/jobs/ey-data-case-146311)
+[![](../../images/2020/11/0001.jpg)](https://eygbl.referrals.selectminds.com/student-opportunities/jobs/ey-data-case-146311)
 
 Are you a student with an interest for data and analytics? Then we want you to represent your school in our EY Data Case. Can you analyze the data clues, solve the mystery and find the murderer?
 
