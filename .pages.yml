@@ -1,0 +1,217 @@
+media:
+  - name: page-images
+    label: Sidbilder
+    input: pages/images
+    output: images
+    categories: [image]
+
+  - name: post-images
+    label: Nyhetsbilder
+    input: public/images/posts
+    output: /images/posts
+    categories: [image]
+
+  - name: documents
+    label: Dokument
+    input: public/docs
+    output: /docs
+    categories: [document]
+
+content:
+  - name: pages-group
+    label: Sidor
+    type: group
+    items:
+      - name: pages
+        label: Markdown (.md)
+        type: collection
+        path: pages
+        subfolders: false
+        filename:
+          template: "{primary}.md"
+          field: create
+        view:
+          fields: [title, category]
+          primary: title
+          sort: [title]
+          default:
+            sort: title
+            order: asc
+        fields:
+          - name: title
+            label: Rubrik
+            type: string
+            required: true
+
+          - name: category
+            label: Kategori
+            type: select
+            options:
+              values: [Sektionen, Sökande, Utskott, Företag]
+
+          - name: redirect
+            label: Omdirigering
+            type: string
+
+          - name: sidebar
+            label: Ordning i sidomenyn
+            type: number
+
+          - name: body
+            label: Innehåll
+            type: rich-text
+            options:
+              media: page-images
+              path: pages/images
+              switcher: true
+
+      - name: pages-mdx
+        label: MDX (.mdx)
+        type: collection
+        path: pages
+        subfolders: false
+        filename: "{primary}.mdx"
+        view:
+          fields: [title, category]
+          primary: title
+          sort: [title]
+          default:
+            sort: title
+            order: asc
+        fields:
+          - name: title
+            label: Rubrik
+            type: string
+            required: true
+
+          - name: category
+            label: Kategori
+            type: select
+            options:
+              values: [Sektionen, Sökande, Utskott, Företag]
+
+          - name: redirect
+            label: Omdirigering
+            type: string
+
+          - name: sidebar
+            label: Ordning i sidomenyn
+            type: number
+
+          - name: body
+            label: Innehåll
+            type: rich-text
+            options:
+              media: page-images
+              path: pages/images
+              switcher: true
+
+  - name: posts
+    label: Nyheter
+    type: collection
+    path: posts
+    subfolders: true
+    filename:
+      template: "{year}/{month}/{primary}.md"
+      field: create
+    view:
+      fields: [title, date, categories]
+      primary: title
+      sort: [date, title]
+      default:
+        sort: date
+        order: desc
+      layout: tree
+    fields:
+      - name: title
+        label: Rubrik
+        type: string
+        required: true
+
+      - name: date
+        label: Datum
+        type: date
+        required: true
+        options:
+          format: "yyyy-MM-dd"
+
+      - name: categories
+        label: Kategorier
+        type: select
+        options:
+          multiple: true
+          values:
+            - name: "alumni-blogg"
+              label: "Alumni-blogg"
+            - name: "exjobb"
+              label: "Exjobb"
+            - name: "foretagsevent"
+              label: "Företagsevent"
+            - name: "graduate-program"
+              label: "Graduate program"
+            - name: "gymnasieelev"
+              label: "Gymnasieelev"
+            - name: "intervjuer-fortroendevalda-varmote-2020"
+              label: "Intervjuer, förtroendevalda vårmöte 2020"
+            - name: "intervjuer-fortroendevalda-varmote-2021"
+              label: "Intervjuer, förtroendevalda vårmöte 2021"
+            - name: "intervjuer-fortroendevalda-vintermote-2020"
+              label: "Intervjuer, förtroendevalda vintermöte 2020"
+            - name: "intervjuer-fortroendevalda-vintermote-2021"
+              label: "Intervjuer, förtroendevalda vintermöte 2021"
+            - name: "platsannonser"
+              label: "Platsannonser"
+            - name: "presentation-av-utskott-ht19"
+              label: "Presentation av utskott HT19"
+            - name: "rekrytering"
+              label: "— Rekrytering"
+            - name: "sektionsaktiv-i-fokus"
+              label: "Sektionsaktiv i fokus"
+            - name: "sektionsnyheter"
+              label: "Sektionsnyheter"
+            - name: "studentnyheter"
+              label: "Studentnyheter"
+
+      - name: tags
+        label: Taggar
+        type: string
+        list: true
+        description: "Fritexttaggar. Används inte av sajten men bevaras i frontmatter."
+
+      - name: body
+        label: Innehåll
+        type: rich-text
+        options:
+          media: post-images
+          path: public/images/posts
+          switcher: true
+
+  - name: categories
+    label: Kategorier (JSON)
+    type: file
+    path: posts/categories.json
+    format: code
+
+  - name: globals
+    label: Globala MDX-filer
+    type: collection
+    path: ""
+    subfolders: false
+    filename: "{primary}.mdx"
+    format: code
+
+  - name: advanced
+    label: Avancerat
+    type: group
+    items:
+      - name: legacy-redirects
+        label: Legacy-omdirigeringar (JSON)
+        type: file
+        path: legacy-redirects.json
+        format: code
+
+settings:
+  content:
+    merge: true
+  commit:
+    identity: user
