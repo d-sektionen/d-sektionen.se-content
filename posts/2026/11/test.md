@@ -12,3 +12,5 @@ nyhet
 
 ![](@pages-images/2016/10/logo-300x89.png)
 
+![](@posts-images/2016/10/logo-300x89.png)
+
