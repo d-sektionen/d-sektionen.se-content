@@ -8,5 +8,5 @@ nyhet
 
 # testing
 
-![image.png](../../images/image.png)
+![](../../images/2026/11/header.png)
 
