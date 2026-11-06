@@ -8,7 +8,5 @@ nyhet
 
 # testing
 
-
-
-![jonathan-curry.jpg](blob:https:/app.pagescms.org/0ac133b1-5497-4c56-b6df-6171556714f1)
+![image.png](../../images/image.png)
 
