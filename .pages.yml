@@ -8,7 +8,7 @@ media:
   - name: post-images
     label: Nyhetsbilder
     input: posts/images
-    output: "@pages-images"
+    output: "@posts-images"
     categories: [image]
 
   - name: documents
