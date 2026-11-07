@@ -21,4 +21,4 @@ Vi ser gärna att du kan lägga 8-16 timmar per vecka eller mer och du behöver 
 
 Välkommen att skicka din ansökan till [info@medisera.se](mailto:info@medisera.se)!
 
-![](../../images/2024/06/IMG_4009-1024x234.jpg)
+![](@posts-images/2024/06/IMG_4009-1024x234.jpg)

@@ -13,7 +13,7 @@ VP på Ericsson. Chef för en utvecklingsorganisation, 600 sw developers, som ut
 
 <!--more-->
 
-![](../../images/2019/03/alumn.png)
+![](@posts-images/2019/03/alumn.png)
 
 ## Hur ser en vanlig arbetsdag ut?
 

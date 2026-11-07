@@ -5,7 +5,7 @@ date: 2020-10-18
 
 Höstmötet kommer hållas den 8 november 2020 klockan 13:15 på Zoom.
 
-![](images/härså-01-1024x536.png)
+![](@unlisted-pages-images/härså-01-1024x536.png)
 
 Hej D-student! Här kommer information om sektionens höstmöte att samlas. Ett sektionsmöte är sektionens högst beslutande organ, och det är sektionsmöten som beslutar om till exempel sektionens budgetering, framtida arbetssätt, stadgar, reglemente, med mera. För mer information om hur ett sektionsmöte fungerar finns en beskrivning av relevanta termer och processer på [d-sektionen.se/sektionsmote](https://d-sektionen.se/sektionsmote/).
 

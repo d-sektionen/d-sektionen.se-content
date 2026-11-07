@@ -5,7 +5,7 @@ date: 2026-11-01
 
 Höstmötet kommer hållas **15:e november** 2026 klockan **13:00** i sal **C4**.
 
-![](../../images/2026/11/header.png)
+![](@posts-images/2026/11/header.png)
 
 Hej D-student! Här kommer information om sektionens höstmöte att samlas. Ett sektionsmöte är sektionens högst beslutande organ, och det är sektionsmöten som beslutar om till exempel sektionens budgetering, framtida arbetssätt, stadgar, reglemente, med mera. För mer information om hur ett sektionsmöte fungerar finns en beskrivning av relevanta termer och processer på [d-sektionen.se/sektionsmote](https://d-sektionen.se/sektionsmote/).
 

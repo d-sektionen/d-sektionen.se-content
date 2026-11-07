@@ -6,7 +6,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](../../images/2023/02/August-Mafu.jpg)
+![](@posts-images/2023/02/August-Mafu.jpg)
 
 _Beskriv dig själv samt Marknadsföringsansvarigs uppgifter_
 

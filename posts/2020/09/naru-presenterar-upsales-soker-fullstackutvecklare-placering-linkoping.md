@@ -5,7 +5,7 @@ categories:
   - "platsannonser"
 ---
 
-[![](../../images/2020/09/Ska-rmavbild-2020-09-23-kl-16-42-00.png)](https://emp.jobylon.com/jobs/48092-upsales-nordic-ab-fullstackutvecklare-placering-linkoping/)
+[![](@posts-images/2020/09/Ska-rmavbild-2020-09-23-kl-16-42-00.png)](https://emp.jobylon.com/jobs/48092-upsales-nordic-ab-fullstackutvecklare-placering-linkoping/)
 
 Upsales är ett svenskt techbolag som i skrivande stund har 600 kunder i tio olika länder. Som utvecklare på Upsales arbetar du med de senaste teknikerna inom modern webbutveckling och blir en viktig del av Upsales vision: Enabling greatness in B2B Sales.
 

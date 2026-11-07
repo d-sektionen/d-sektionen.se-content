@@ -5,7 +5,7 @@ categories:
   - "platsannonser"
 ---
 
-[![](../../images/2020/10/Ida-stipendiet-annons.png)](https://www.idainfront.se/ida-stipendiet/)
+[![](@posts-images/2020/10/Ida-stipendiet-annons.png)](https://www.idainfront.se/ida-stipendiet/)
 
 Ida Infront bygger framtidens informationssamhälle. Att vara tankeledare inom det de gör och att alltid sträva efter att leverera lösningar som effektiviserar samt förenklar samhället har sedan start varit deras mission.
 

@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![Styret 18/19](../../images/2018/08/styret1819.jpg) Hej alla nya studenter på vår sektion!
+![Styret 18/19](@posts-images/2018/08/styret1819.jpg) Hej alla nya studenter på vår sektion!
 
 Varmt välkomna!
 

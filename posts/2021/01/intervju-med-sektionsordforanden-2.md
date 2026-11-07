@@ -7,7 +7,7 @@ categories:
 
 <figure>
 
-![](../../images/2021/01/Intervju_ordf-1-1024x684.jpg)
+![](@posts-images/2021/01/Intervju_ordf-1-1024x684.jpg)
 
 <figcaption>
 

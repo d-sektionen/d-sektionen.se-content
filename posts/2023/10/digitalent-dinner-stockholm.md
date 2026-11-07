@@ -3,7 +3,7 @@ title: "DigiTalent Dinner Stockholm"
 date: 2023-10-10
 ---
 
-![](../../images/2023/10/DigiTalent-Dinner-Stockholm-2023-1024x536.png)
+![](@posts-images/2023/10/DigiTalent-Dinner-Stockholm-2023-1024x536.png)
 
 > An insightful Thursday evening awaits: discover tech strategy consulting in a relaxed dinner setting! 
 > 

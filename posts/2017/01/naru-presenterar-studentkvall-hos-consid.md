@@ -20,4 +20,4 @@ Lite mer om Consid:
 
 Consid är ett av Sveriges snabbast växande bolag som erbjuder konsulttjänster inom IT, management och digital marknadsföring. Med våra 390 anställda på 13 olika orter ser vi till att våra kunder blir bäst i världen på det de gör genom att ta vara på den digitala världens möjligheter. Consid blev nyligen utsedd till ett av Karriärföretagen 2017 och har även blivit utsedd till Gasellföretag av Dagens Industri 5 år i rad.
 
-[![](../../images/2017/01/Screen-Shot-2017-01-26-at-17.33.37-1024x674.png)](< http://www.consid.se/karriar/event/studentkvall-linkoping>)
+[![](@posts-images/2017/01/Screen-Shot-2017-01-26-at-17.33.37-1024x674.png)](< http://www.consid.se/karriar/event/studentkvall-linkoping>)

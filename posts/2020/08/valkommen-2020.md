@@ -8,7 +8,7 @@ categories:
 
 <figure>
 
-![](../../images/2020/08/styret20-pyramid-1024x683.jpg)
+![](@posts-images/2020/08/styret20-pyramid-1024x683.jpg)
 
 <figcaption>
 

@@ -33,7 +33,7 @@ Det är styret som ansvarar för rekryteringen av valberedningen, så låter det
 
 Gillar du mat, dryck och att ha kul? Då är PubU solklart det bästa utskottet på D-sektionen för dig!
 
-PubU arrangerar cirka en gång i månaden en pub för sektionens medlemmar. Vi är ett gött gäng som älskar att laga (och äta) god mat och servera (och dricka) kall bärs! Vi tycker det är extra kul med människor som tycker om matlagning, god dryck och som gärna bjuder på sig själva! Känner du att du stämmer in på någon av dessa? Skicka in din ansökan via länken nedan! ![🍻](images/f9db4ecc-6c2f-4188-bc61-bd8a9bcd8cc0)![🌮](images/38a0d8c8-2705-4345-bfe8-dad9171da7e3)
+PubU arrangerar cirka en gång i månaden en pub för sektionens medlemmar. Vi är ett gött gäng som älskar att laga (och äta) god mat och servera (och dricka) kall bärs! Vi tycker det är extra kul med människor som tycker om matlagning, god dryck och som gärna bjuder på sig själva! Känner du att du stämmer in på någon av dessa? Skicka in din ansökan via länken nedan! 🍻🌮
 
 Vi rekryterar för 7 st nya medlemmar 
 

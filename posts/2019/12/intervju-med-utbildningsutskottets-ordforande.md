@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-vintermote-2020"
 ---
 
-![](../../images/2019/12/79701913_458663695063342_1599964833468383232_n-1.jpg)
+![](@posts-images/2019/12/79701913_458663695063342_1599964833468383232_n-1.jpg)
 
 På tredje dagen av rekryteringsperioden gav D-sektionen mig...en inblick i livet som ordförande i utbildningsutskottet. Brinner du lika mycket för kvaliteten på utbildningen som Kimberley, sök posten som utbildningsutskottets ordförande, eller några andra av posterna som ska tillsättas på vintermötet, [här](https://d-sektionen.se/sok-fortroendeposter-vintermotet-2020/).
 

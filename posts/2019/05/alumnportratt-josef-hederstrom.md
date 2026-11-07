@@ -13,7 +13,7 @@ Namn: Josef Hederström Program: D Examensår: 2010
 
 Jag är konsultchef på Alten, ett konsultbolag med 1300 anställda i Sverige.
 
-## ![](../../images/2019/05/josef.jpg)
+## ![](@posts-images/2019/05/josef.jpg)
 
 <!--more-->
 
@@ -21,7 +21,7 @@ Jag är konsultchef på Alten, ett konsultbolag med 1300 anställda i Sverige.
 
 Jag har ingen kontakt med teknik utan jag arbetar enbart med människor. Brukar åka till mina kunder och prata om vad de har för behov av hjälp samt genomföra en hel del intervjuer. Samtidigt har jag mitt egna team av konsulter att ta väl hand om, det är det viktigaste! Problemlösning, fast utan teknik utan med konsulter som hjälpmedel.
 
-![](../../images/2019/05/josef-dgroup.jpg)
+![](@posts-images/2019/05/josef-dgroup.jpg)
 
 ## Roligast under/roligaste historien från studietiden?
 
@@ -39,4 +39,4 @@ När jag gjorde en riktigt snygg manöver mot min konkurrent och satte en affär
 
 HA KUL! Det är det enda som är viktigt! Det spelar ingen roll om du har en femma i Linalg, viktigaste är att du gör det du brinner för både under studierna och i arbetslivet. Vi jobbar stenhårt med drivkraft, för när du gör det som du brinner för så kommer du prestera otroligt mycket bättre! Engagera dig, ha skoj och skicka ett mail när du behöver ett jobb i Göteborg - jag gillar LiU!
 
-![](../../images/2019/05/josef-staben.jpg)
+![](@posts-images/2019/05/josef-staben.jpg)

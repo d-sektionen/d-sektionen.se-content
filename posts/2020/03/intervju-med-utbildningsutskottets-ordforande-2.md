@@ -18,7 +18,7 @@ Ansökan och nomineringar stänger 2 april.
 
 ## Vem är du?
 
-![](../../images/2020/03/Skärmavbild-2020-03-17-kl.-23.13.44.png)
+![](@posts-images/2020/03/Skärmavbild-2020-03-17-kl.-23.13.44.png)
 
 Tjohej! Kimberley heter jag, jag pluggar fjärde av \[REDACTED\] året på D och är 22 år gammal. Jag har varit runt i en del utskott på sektionen och nu sitter jag som UtbO i sektionsstyrelsen.
 

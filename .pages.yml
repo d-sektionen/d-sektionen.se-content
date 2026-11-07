@@ -2,7 +2,7 @@ media:
   - name: page-images
     label: Sidbilder
     input: pages/images
-    output: images
+    output: "@pages-images"
     categories: [image]
 
   - name: post-images

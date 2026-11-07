@@ -16,4 +16,4 @@ Anmäl er och läs mer på länken nedan!
 
 [https://mpyadigital.confetti.events/case-evening-with-mpya-digital/](https://mpyadigital.confetti.events/case-evening-with-mpya-digital/)
 
-![](../../images/2024/11/mpya_digital__1440_x_800_px___3_-1-1024x569.png)
+![](@posts-images/2024/11/mpya_digital__1440_x_800_px___3_-1-1024x569.png)

@@ -8,7 +8,7 @@ tags:
   - "rockclub"
 ---
 
-![rockclub\_banner](../../images/2015/05/rockclub_banner-1024x277.jpg)
+![rockclub\_banner](@posts-images/2015/05/rockclub_banner-1024x277.jpg)
 
 Somliga av er kanske minns, eller inte minns, HiQs legendariska tradition av att sjunga in våren till ljudet av distade gitarrer och falsettsång – HiQ Rock Club!
 

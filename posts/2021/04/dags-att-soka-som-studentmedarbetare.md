@@ -9,7 +9,7 @@ Här kommer ett meddelande från Linköpings kommun, som i samarbete med LiU sö
 
 ---
 
-<!--![](images/studentmedarbetare-2021-topp.jpg)-->
+<!--![](@posts-images/2021/04/studentmedarbetare-2021-topp.jpg)-->
 
 **Studentmedarbetare**
 

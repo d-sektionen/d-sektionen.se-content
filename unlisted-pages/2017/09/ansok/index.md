@@ -3,7 +3,7 @@ title: "Sök utskott hösten 2024"
 date: 2017-09-06
 ---
 
-[![](images/241831724_4384773968279731_1138486224992919678_n-1024x462.jpg)](https://d-sektionen.se/wp-content/uploads/2022/05/241831724_4384773968279731_1138486224992919678_n.jpg)
+[![](@unlisted-pages-images/241831724_4384773968279731_1138486224992919678_n-1024x462.jpg)](https://d-sektionen.se/wp-content/uploads/2022/05/241831724_4384773968279731_1138486224992919678_n.jpg)
 
 Vill du vara med och bidra till sektionen, träffa massor av nya människor och samtidigt ha väldigt kul? Då har du kommit helt rätt! På denna sida samlar vi information om alla rekryterande utskott samt länkar till ansökan.
 

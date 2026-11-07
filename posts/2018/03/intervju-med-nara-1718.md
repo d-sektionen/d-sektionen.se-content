@@ -14,7 +14,7 @@ För att pigga upp er vardag kommer här en intervju Kristoffer Sandberg, ordfö
 
 ## Berätta lite om dig själv!
 
-Hittils har jag hunnit springa upp i 26 år och med rötter i Stockholm. Innan äventyren i Linköping var jag fastkletat i ekonomiträsket ett par år, men bytte spår och läser nu mitt andra år på IT med ett basår i ryggsäcken. Sedan dess har jag engagerat mig i Näringslivsutskottet och några andra mindre åtaganden. Träning och personlig utveckling tillhör intresseområden. Men för att inte utvecklas för mycket eller må för bra så blir det ibland några vändor på KK, Flamman eller Kårallen emellanåt. Festa är kul! <!--more Läs resten av intervjun →-->![](../../images/2018/03/NärA_Kristoffer_Sandberg.png)
+Hittils har jag hunnit springa upp i 26 år och med rötter i Stockholm. Innan äventyren i Linköping var jag fastkletat i ekonomiträsket ett par år, men bytte spår och läser nu mitt andra år på IT med ett basår i ryggsäcken. Sedan dess har jag engagerat mig i Näringslivsutskottet och några andra mindre åtaganden. Träning och personlig utveckling tillhör intresseområden. Men för att inte utvecklas för mycket eller må för bra så blir det ibland några vändor på KK, Flamman eller Kårallen emellanåt. Festa är kul! <!--more Läs resten av intervjun →-->![](@posts-images/2018/03/NärA_Kristoffer_Sandberg.png)
 
 ## Kan du berätta om din post? (T ex Arbetsuppgifter, utskottets/postens roll etc.)
 

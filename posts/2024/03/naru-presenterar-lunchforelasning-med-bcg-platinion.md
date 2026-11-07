@@ -6,7 +6,7 @@ tags:
   - "naru"
 ---
 
-![](../../images/2024/03/LiU-I-D-Lunch-Lecture-Facebook-Portalen-E-mail-1-1024x536.jpg)
+![](@posts-images/2024/03/LiU-I-D-Lunch-Lecture-Facebook-Portalen-E-mail-1-1024x536.jpg)
 
 Students with a passion for tech – mark your calendars with April 11th!
 

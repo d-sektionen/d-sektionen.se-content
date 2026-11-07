@@ -7,4 +7,4 @@ Fortnox tror på ett samhälle format av framgångsrika företag där entrepren�
 
 _Fortnox hjälper företag att starta, växa och utvecklas. Med smarta tekniska lösningar för företag och redovisningsbyråer, smidig finansiering och ett ekosystem av starka partnerskap är Fortnox ett nav för företagande i Sverige._
 
-![](../../images/2026/11/image-1-1-1.jpg)
+![](@posts-images/2026/11/image-1-1-1.jpg)

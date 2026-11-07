@@ -3,7 +3,7 @@ title: "Sektionsfotografering 2019"
 date: 2019-11-22
 ---
 
-![](../../images/2019/11/sektionsfotografering.jpg)
+![](@posts-images/2019/11/sektionsfotografering.jpg)
 
 Nu börjar det dra ihop sig till den årliga sektionsfotograferingen. Den kommer i år ske i Skrivsalen på Kårallen (garderoben under kravallerna) under datumen 2/12 - 4/12.
 

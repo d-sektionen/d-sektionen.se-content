@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-vintermote-2021"
 ---
 
-![](../../images/2021/01/msson_combined-2-1024x503.jpg)
+![](@posts-images/2021/01/msson_combined-2-1024x503.jpg)
 
 Vem är det då som ser till att alla undergrupper till Aktivitetsgruppen håller sina budgetar? Vem är det som är en gud på bokföring? Jo, det är ju aktivitetskassören Fredrik Martinsson, här kommer en intervju med honom!
 

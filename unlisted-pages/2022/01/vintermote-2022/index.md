@@ -5,7 +5,7 @@ date: 2022-01-17
 
 Vintermötet kommer hållas den **31 januari** 2022 klockan **17:15** på **Zoom**.
 
-[![](images/vintermote-2022-1024x533.png)](https://d-sektionen.se/wp-content/uploads/2022/01/vintermote-2022.png)
+[![](@unlisted-pages-images/vintermote-2022-1024x533.png)](https://d-sektionen.se/wp-content/uploads/2022/01/vintermote-2022.png)
 
 Hej kära D-student! Här kommer information om sektionens vintermöte att samlas. Ett sektionsmöte är sektionens högst beslutande organ, och det är sektionsmöten som beslutar om till exempel sektionens budgetering, framtida arbetssätt, stadgar, reglemente, med mera. För mer information om hur ett sektionsmöte fungerar finns en beskrivning av relevanta termer och processer på [d-sektionen.se/sektionsmote](https://d-sektionen.se/sektionsmote/).
 

@@ -3,7 +3,7 @@ title: "Sök till D-Band 20/21!"
 date: 2020-01-07
 ---
 
-![](../../images/2020/01/dband.png)
+![](@posts-images/2020/01/dband.png)
 
 Brinner du för att spela musik? Tycker du det är tokroligt att uppträda? Då borde du söka till D-Band 20/21!
 

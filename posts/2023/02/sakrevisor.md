@@ -6,7 +6,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](../../images/2023/02/118071393_3165526343561194_4506642490269083414_n-1024x1024.jpg)
+![](@posts-images/2023/02/118071393_3165526343561194_4506642490269083414_n-1024x1024.jpg)
 
 _Beskriv dig själv samt Sakrevisorns uppgifter_
 

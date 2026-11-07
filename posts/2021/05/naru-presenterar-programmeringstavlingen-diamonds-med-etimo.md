@@ -5,7 +5,7 @@ categories:
   - "platsannonser"
 ---
 
-[![](../../images/2021/05/Enkel-Foto-Va-r-Citat-Instagram-Inla-gg.png)](https://diamonds.etimo.se/)
+[![](@posts-images/2021/05/Enkel-Foto-Va-r-Citat-Instagram-Inla-gg.png)](https://diamonds.etimo.se/)
 
 **Koda bäst och vinn datortillbehör för 6000kr!**
 

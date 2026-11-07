@@ -9,4 +9,4 @@ Den 27e januari 2026 fyller sektionen 50 år. Ett halv århundrade. Detta måste
   
 För att hålla er uppdaterade på jubileumet kika in på denna sida eller gå in och följ D50 på [facebook](https://www.facebook.com/profile.php?id=61583460575658) så ni inte missar någonting!
 
-[![](images/Jubileum-Logotyp.png)](https://d-sektionen.se/wp-content/uploads/2025/11/Jubileum-Logotyp.png)
+[![](@unlisted-pages-images/Jubileum-Logotyp.png)](https://d-sektionen.se/wp-content/uploads/2025/11/Jubileum-Logotyp.png)

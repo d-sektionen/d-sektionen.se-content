@@ -3,7 +3,7 @@ title: "Välkomna till vintermötet 2023"
 date: 2023-01-15
 ---
 
-![](../../images/2023/01/logo-1-1024x163.png)
+![](@posts-images/2023/01/logo-1-1024x163.png)
 
 Medlemmar i sektionen kallas till ordinarie vintermöte 29 januari 2023 klockan 13:15.
 

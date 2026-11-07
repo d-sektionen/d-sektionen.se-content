@@ -3,7 +3,7 @@ title: "Sök värd till LINK 2019 1-14 oktober!"
 date: 2019-10-07
 ---
 
-![](../../images/2019/10/Värd-Omslagsbild-2037x754.png)
+![](@posts-images/2019/10/Värd-Omslagsbild-2037x754.png)
 
 Ta chansen att söka värd till LINK 2019! Förutom värdefulla kontakter och en bra erfarenhet får alla värdar en kick off, ryggsäck, schysst värdpresent och bankett!
 

@@ -5,8 +5,6 @@ categories:
   - "intervjuer-fortroendevalda-vintermote-2021"
 ---
 
-![](images/492fe146-3e0b-420c-b221-a65e92f01643)
-
 Nu är det dags för den tidigare utlovade intervjun med LINK:s kassör tillika vice projektledare, det vill säga Erik Nordell!
 
 Länkar för ansökan och nominering till samtliga poster hittas [här](https://d-sektionen.se/sok-fortroendeposter-vintermotet-2021/).
@@ -33,4 +31,4 @@ Man borde söka till LINK kassör/vice PL om man vill ha en ansvarsfull och lär
 
 ## Något mer att tillägga?
 
-Söksöksök, det blir jättekul, och såklart tagga LINK 2021 ![:tada:](../../images/2021/01/1f389.png)
+Söksöksök, det blir jättekul, och såklart tagga LINK 2021 ![:tada:](@posts-images/2021/01/1f389.png)

@@ -37,11 +37,11 @@ När vi lanserat ett projekt som vi arbetat med under en lång tid för att sen 
 
 **Du får väldigt gärna skicka en eller ett par bilder om du önskar!**
 
-![](../../images/2017/10/image2.jpg)
+![](@posts-images/2017/10/image2.jpg)
 
-![](../../images/2017/10/image2.jpg)Paus i arbetet för Niddhog 2-turnering.
+![](@posts-images/2017/10/image2.jpg)Paus i arbetet för Niddhog 2-turnering.
 
-![](../../images/2017/10/image1.jpg)![](../../images/2017/10/image1.jpg)
+![](@posts-images/2017/10/image1.jpg)![](@posts-images/2017/10/image1.jpg)
 
 Jag (hängandes) och vapendragen Martin (ståendes) utför ett vampyrhäfv för ettan
 

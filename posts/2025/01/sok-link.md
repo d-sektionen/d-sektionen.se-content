@@ -6,9 +6,9 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](../../images/2025/01/LINK_fb-1024x536.png)
+![](@posts-images/2025/01/LINK_fb-1024x536.png)
 
-Hej D-sektionen! Vill du vara med och planera årets LINK-dagar? Känner du att du vill testa leda en grupp? Och känner du att du vill lära känna ett helt nytt gäng med folk från flera sektioner? Då har vi något för dig! Just nu rekryterar vi 5 personer som tillsammans med oss kommer utgöra LINK 2025:s ledningsgrupp! ![?](../../images/2025/01/32.png)
+Hej D-sektionen! Vill du vara med och planera årets LINK-dagar? Känner du att du vill testa leda en grupp? Och känner du att du vill lära känna ett helt nytt gäng med folk från flera sektioner? Då har vi något för dig! Just nu rekryterar vi 5 personer som tillsammans med oss kommer utgöra LINK 2025:s ledningsgrupp! ![?](@posts-images/2025/01/32.png)
 
 De poster som söks är gruppansvariga till LINKs fem undergrupper: Event, Företag, Marknadsföring, Mässa och Webb & IT! 
 

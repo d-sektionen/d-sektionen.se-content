@@ -26,4 +26,4 @@ De söker just nu drivna studenter som vill göra exjobb på ett hett Linköping
 
 Läs mer om exjobben genom att antingen klicka [här](https://senion.com/careers/), eller på bilden nedan!
 
-[![senion](../../images/2016/11/senion-300x133.png)](https://senion.com/careers/)
+[![senion](@posts-images/2016/11/senion-300x133.png)](https://senion.com/careers/)

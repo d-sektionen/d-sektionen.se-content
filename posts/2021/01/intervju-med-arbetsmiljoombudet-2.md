@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-vintermote-2021"
 ---
 
-![](../../images/2021/01/amo_combined-1024x673.jpg)
+![](@posts-images/2021/01/amo_combined-1024x673.jpg)
 
 Vi fortsätter denna härliga lördagsafton med ytterligare en intervju med en medlem av styret! Lite mer specifikt är denna person Fabian Blom, som ser till att arbetsmiljön är så bra som möjligt för oss studenter!
 
@@ -21,7 +21,7 @@ Som arbetsmiljöombud sitter man med i många olika möten med både internt med
 
 ## Vad har varit roligast att göra som Arbetsmiljöombud?
 
-Det beror lite på hur man definierar "roligaste". Det mest tillfredställande med AMO rollen är just SSG-mötena för det är en så fantastisk känsla att ha en hel institutions öron fokuserade på vad du har att säga. Den delen jag kan släppa loss mest på, är att jag sitter i D-styret, vilka har varit en så kul grupp att hänga med(när vi fått möjlighet) (![:kissing\_heart:](../../images/2021/01/1f618.png) till Styret)
+Det beror lite på hur man definierar "roligaste". Det mest tillfredställande med AMO rollen är just SSG-mötena för det är en så fantastisk känsla att ha en hel institutions öron fokuserade på vad du har att säga. Den delen jag kan släppa loss mest på, är att jag sitter i D-styret, vilka har varit en så kul grupp att hänga med(när vi fått möjlighet) (![:kissing\_heart:](@posts-images/2021/01/1f618.png) till Styret)
 
 ## Behöver man ha några erfarenheter för att söka Arbetsmiljöombud?
 
@@ -33,4 +33,4 @@ Den som gillar att lyssna och prata. För det är inte lätt att uppfatta vad se
 
 ## Något mer att tillägga?
 
-![:seedling:](../../images/2021/01/1f331.png) is best emoji och glöm inte att ni alltid kan ta kontakt med mig om problem i er arbetsmiljö eller om min roll eller något annat på [amo@d-sektionen.se](mailto:amo@d-sektionen.se)
+![:seedling:](@posts-images/2021/01/1f331.png) is best emoji och glöm inte att ni alltid kan ta kontakt med mig om problem i er arbetsmiljö eller om min roll eller något annat på [amo@d-sektionen.se](mailto:amo@d-sektionen.se)

@@ -3,7 +3,7 @@ title: "Sektionsfotografering"
 date: 2017-11-04
 ---
 
-[![](images/6-1024x576.png)](https://d-sektionen.se/wp-content/uploads/2019/02/6.png)
+[![](@unlisted-pages-images/6-1024x576.png)](https://d-sektionen.se/wp-content/uploads/2019/02/6.png)
 
 Nästa vecka anordnar webb-/infoutskottet sektionens årliga fotografering, där vi fotograferar klasser och utskott i sektionen. Fotograferingen kommer ske i **skrivsalen i Kårallen** (garderoben på kravaller) torsdag 14/2 och fredag 15/2.
 

@@ -3,7 +3,7 @@ title: "Sök fötroendeposter till vårmötet 2024!"
 date: 2024-03-05
 ---
 
-![](../../images/2024/03/FB-banner-min-1024x576.png)
+![](@posts-images/2024/03/FB-banner-min-1024x576.png)
 
 Nu är ansökningsperioden för förtroendeposter som väljs in under vårmötet 2024 äntligen öppen!
 

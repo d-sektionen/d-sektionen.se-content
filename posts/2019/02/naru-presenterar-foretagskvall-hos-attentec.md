@@ -9,7 +9,7 @@ tags:
   - "naru"
 ---
 
-### ![](../../images/2019/02/Attentec.jpg)
+### ![](@posts-images/2019/02/Attentec.jpg)
 
 ### Välkomna på företagskväll hos Attentec!
 

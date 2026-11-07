@@ -6,7 +6,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](../../images/2022/12/dg_chief2-785x1024.jpg)
+![](@posts-images/2022/12/dg_chief2-785x1024.jpg)
 
 **D-Group Chief**
 
@@ -30,7 +30,7 @@ Har du något mer du vill tillägga?
 
 Jag kan inte trycka nog på hur roligt jag haft under den tiden jag har varit invald. Om man tycker att det låter intressant att vara Chief så kan jag inte göra mer än uppmana er att söka!
 
-![](../../images/2022/12/dg_kassor1-683x1024.jpg)
+![](@posts-images/2022/12/dg_kassor1-683x1024.jpg)
 
 **D-Group Kassör**
 

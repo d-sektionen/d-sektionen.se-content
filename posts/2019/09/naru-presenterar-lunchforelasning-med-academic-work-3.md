@@ -8,7 +8,7 @@ tags:
   - "lunchforelasning"
 ---
 
-![](../../images/2019/09/SE19_022-Event-invitations-FINAL4-002-1.png)
+![](@posts-images/2019/09/SE19_022-Event-invitations-FINAL4-002-1.png)
 
 Varför är just du rätt person för tjänsten? Hur ska du genom en hel rekryteringsprocess förmedla varför just du är rätt person för drömjobbet? Kan kännas rätt klurigt, va? Vi förstår.
 

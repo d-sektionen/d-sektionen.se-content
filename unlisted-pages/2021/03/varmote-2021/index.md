@@ -7,7 +7,7 @@ På [medlem.d-sektionen.se/vote](https://medlem.d-sektionen.se/vote) finns zoom-
 
 Välkommen på sektionsmöte! Vårmötet kommer ske **den 11 april 2021 kl 13:15 över zoom**. Rapporter och Meddelanden från styrelse och kansli är nu publicerade på [Rapporter och Meddelanden](/docs/2021/04/rom-varmote-1.pdf).
 
-[![](images/varmote_d-01-1024x576.jpg)](https://d-sektionen.se/wp-content/uploads/2021/03/varmote_d-01.jpg)
+[![](@unlisted-pages-images/varmote_d-01-1024x576.jpg)](https://d-sektionen.se/wp-content/uploads/2021/03/varmote_d-01.jpg)
 
 På denna sida kommer information om sektionens vintermöte att samlas. Ett sektionsmöte är sektionens högst beslutande organ, och det är sektionsmöten som beslutar om till exempel sektionens budgetering, framtida arbetssätt, stadgar, reglemente, med mera. För mer information om hur ett sektionsmöte fungerar finns en beskrivning av relevanta termer och processer på [d-sektionen.se/sektionsmote](https://d-sektionen.se/sektionsmote/).
 

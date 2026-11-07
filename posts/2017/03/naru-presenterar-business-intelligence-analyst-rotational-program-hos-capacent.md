@@ -13,4 +13,4 @@ For more information, please visit our website!
 
 http://capacent.se/career/students-bi-consulting
 
-[![](../../images/2017/03/Capacent-logo.jpg)](http://capacent.se/career/students-bi-consulting)
+[![](@posts-images/2017/03/Capacent-logo.jpg)](http://capacent.se/career/students-bi-consulting)

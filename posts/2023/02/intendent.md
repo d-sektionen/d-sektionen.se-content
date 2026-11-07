@@ -6,7 +6,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](../../images/2023/02/Screenshot_20220302-133319_Drive-485x1024.jpg)
+![](@posts-images/2023/02/Screenshot_20220302-133319_Drive-485x1024.jpg)
 
 _Beskriv dig själv samt Intendentens uppgifter_
 

@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-varmote-2021"
 ---
 
-![](../../images/2021/03/oliver-nara-1.jpg)
+![](@posts-images/2021/03/oliver-nara-1.jpg)
 
 Vad vore en onsdagsafton utan en härlig intervju? Kvällens intervju är med Näringslivsansvarige Oliver Börjesson!
 

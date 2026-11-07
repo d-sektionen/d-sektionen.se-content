@@ -4,7 +4,7 @@ category: "Utskott"
 date: 2014-12-09
 ---
 
-![](images/logotyp_linkdagarna.png)
+![](@pages-images/logotyp_linkdagarna.png)
 
   
 

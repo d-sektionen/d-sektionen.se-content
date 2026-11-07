@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-vintermote-2021"
 ---
 
-![](../../images/2021/01/20210106_184532-771x1024.jpg)
+![](@posts-images/2021/01/20210106_184532-771x1024.jpg)
 
 Halloj! Här kommer den andra halvan av dagens intervjuer! Medverkande i denna intervju är personen som har koll på Donnas stålar, nämligen Donnas kassör Jennifer Österman!
 

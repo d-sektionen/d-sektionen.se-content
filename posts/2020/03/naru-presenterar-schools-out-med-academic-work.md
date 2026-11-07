@@ -8,7 +8,7 @@ tags:
   - "naru"
 ---
 
-![](../../images/2020/03/SE19_114_Examenskampanj_schools_out_mejlheader_FINAL-1024x512.png)
+![](@posts-images/2020/03/SE19_114_Examenskampanj_schools_out_mejlheader_FINAL-1024x512.png)
 
 Ett nytt kapitel runt hörnet. En karriär som väntar på dig. Examen 2020 – är det din tur nu?
 

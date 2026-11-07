@@ -17,7 +17,7 @@ Hej där! Tobias heter jag och är en 21-årig örebroare som nu läser mitt tre
 
 <!--more-->
 
-![Bild på Tobias](../../images/2018/12/tobbe-1024x684.jpg)
+![Bild på Tobias](@posts-images/2018/12/tobbe-1024x684.jpg)
 
 ## Kan du berätta om din post?
 

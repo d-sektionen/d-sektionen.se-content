@@ -12,4 +12,4 @@ Idag kl 13:15 så börjar Vintermötet 2021 och styrelsen önskar alla medlemmar
 Ses snart!  
 Mvh, Styrelsen
 
-![](../../images/2021/01/vintermote_header-1024x536.png)
+![](@posts-images/2021/01/vintermote_header-1024x536.png)

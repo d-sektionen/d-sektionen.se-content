@@ -5,7 +5,7 @@ tags:
   - "19-20"
 ---
 
-![](../../images/2019/08/Styret-1024x622.png)
+![](@posts-images/2019/08/Styret-1024x622.png)
 
 _Datateknologsektionens styrelse 19/20_
 

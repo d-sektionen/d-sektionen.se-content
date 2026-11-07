@@ -9,7 +9,7 @@ Infoutskottet är ute på intervjuturné i en serie reportage vi har valt kalla 
 
 Vi önskar er god läsning!
 
-![](../../images/2019/11/Hugo-Cedervall.jpg)
+![](@posts-images/2019/11/Hugo-Cedervall.jpg)
 
 ## Vem är du? (Namn? Vilket år? Program?) 
 

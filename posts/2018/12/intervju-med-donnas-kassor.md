@@ -17,7 +17,7 @@ Sophie (eller Soffan/Soph), är en 22 årig göteborgare som hamnade här i Link
 
 <!--more-->
 
-![](../../images/2018/12/IMG_0604-2.jpg)
+![](@posts-images/2018/12/IMG_0604-2.jpg)
 
 ## Kan du berätta om din post?
 

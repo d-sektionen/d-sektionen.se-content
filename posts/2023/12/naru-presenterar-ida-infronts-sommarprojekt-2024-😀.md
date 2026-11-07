@@ -6,7 +6,7 @@ tags:
   - "sommarjobb"
 ---
 
-![](../../images/2023/12/Sommarprojekt-2024-1024x1024.jpg)
+![](@posts-images/2023/12/Sommarprojekt-2024-1024x1024.jpg)
 
 Vi söker tre personer som tycker programmering är bland det roligaste att syssla med och som vill göra oss sällskap under åtta veckor i sommar.
 

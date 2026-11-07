@@ -5,7 +5,7 @@ categories:
   - "studentnyheter"
 ---
 
-![](../../images/2021/04/LARM_ansokan.jpg)
+![](@posts-images/2021/04/LARM_ansokan.jpg)
 
 Här kommer ett meddelande från LARM, som söker folk till sin kommitté!
 

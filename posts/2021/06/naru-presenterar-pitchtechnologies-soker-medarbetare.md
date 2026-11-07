@@ -5,7 +5,7 @@ categories:
   - "platsannonser"
 ---
 
-![](../../images/2021/06/Jobb-Pitch-2021-3-1024x525.jpg)
+![](@posts-images/2021/06/Jobb-Pitch-2021-3-1024x525.jpg)
 
 Bli en av oss!
 

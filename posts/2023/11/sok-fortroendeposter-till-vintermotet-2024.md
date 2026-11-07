@@ -3,7 +3,7 @@ title: "Sök förtroendeposter till vintermötet 2024!"
 date: 2023-11-28
 ---
 
-![](../../images/2023/11/sok-fortroendeposter-vintermote-2024-1024x576.png)
+![](@posts-images/2023/11/sok-fortroendeposter-vintermote-2024-1024x576.png)
 
 Hej kära D-studenter!
 

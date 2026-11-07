@@ -15,7 +15,7 @@ Igår öppnade ansökan till posterna som ska väljas in under vintermötet, och
 
 Jag heter Oskar och är ordförande för utbildningsutskottet. Det här är mitt tredje år som sektionsaktiv och mitt andra år på en ordförandepost. Jag började som klassrepp, blev därefter studienämndsordförande och slutligen ordförande för utskottet.
 
-<!--more Läs resten av intervjun →--> ![](../../images/2018/03/S_Ordf_Oskar_Andersson.jpg)
+<!--more Läs resten av intervjun →--> ![](@posts-images/2018/03/S_Ordf_Oskar_Andersson.jpg)
 
 ## Kan du berätta om din post?
 

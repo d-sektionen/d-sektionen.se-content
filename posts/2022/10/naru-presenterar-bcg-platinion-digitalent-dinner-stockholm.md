@@ -21,4 +21,4 @@ Looking forward to meeting you!
 
 Travel expenses between Linköping and Stockholm will be reimbursed.
 
-![](../../images/2022/10/BCG-Platinion-DigiTalent-Dinner-STK-1024x536.jpg)
+![](@posts-images/2022/10/BCG-Platinion-DigiTalent-Dinner-STK-1024x536.jpg)

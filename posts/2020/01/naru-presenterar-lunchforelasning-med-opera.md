@@ -9,7 +9,7 @@ tags:
   - "opera"
 ---
 
-![](../../images/2020/01/liu_forelasning.jpg)
+![](@posts-images/2020/01/liu_forelasning.jpg)
 
 Did you know that Opera’s Android browser, used by more than 70 million users worldwide, is being developed in our office in central Linköping? Come and catch a glimpse into some of the challenges of working with a mature product with strong stability and quality requirements, while at the same time keeping a high pace of evolution and innovation to stay on the forefront. Follow the path we use to turn crazy ideas into released features. Welcome!  
   

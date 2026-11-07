@@ -21,7 +21,7 @@ Allmän tekniknörd från den värmländska idyllen Hammarö på 22 jordsnurr. F
 
 <!--more Läs resten av intervjun →-->
 
-![](../../images/2018/01/linkkassor.jpg)
+![](@posts-images/2018/01/linkkassor.jpg)
 
 ## Kan du berätta om din post som Kassör/Vice Projektledare i LINK?
 

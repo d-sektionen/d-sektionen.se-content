@@ -7,7 +7,7 @@ tags:
   - "naru"
 ---
 
-![](../../images/2019/11/LiUGC-2019-Poster-FINAL-3000px-1.jpeg)
+![](@posts-images/2019/11/LiUGC-2019-Poster-FINAL-3000px-1.jpeg)
 
 _LiU Game Conference_ är unikt event kring dataspelsutveckling med föreläsare från Epic Games, Electronic Arts, Bioware, Beat Saber och fler - samt forskning inom AI, visualisering och bildanalys, speltävling, party och en helt ny scen i restaurangen. Eventet är gratis och lockar studenter, spelutvecklare, företag och forskare - vi siktar på över 1000 besökare den 27 november, i Linköping!
 

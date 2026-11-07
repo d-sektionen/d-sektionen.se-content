@@ -18,7 +18,7 @@ Sista dag för ansökan och nomineringar är den 2 april.
 
 ## Vem är du?
 
-![](../../images/2020/03/IMG_8988-1-625x1024.jpg)
+![](@posts-images/2020/03/IMG_8988-1-625x1024.jpg)
 
 Jag heter Lovisa Stålebrink, är 21 år gammal och kommer ursprungligen från Smålands skogar. Jag flyttade hit till Linköping för att börja plugga D och nu är jag helt plötsligt inne på mitt tredje år. Att vara sektionsaktiv är något som ligger mig varmt om hjärtat. Jag har tidigare varit med i Donnastyret men just nu går mesta delen av tiden åt till arbetet i valberedningen, där jag sitter som ordförande, samt även STUBBEN. 
 

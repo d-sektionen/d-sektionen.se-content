@@ -25,4 +25,4 @@ Har du några funderingar eller frågor går det bra att kontakta tommy.wassgren
 
 P.S. Cygni kommer ha event i Linköping den 25e april, vi ses väl då?
 
-<!--![](images/fler-cygnianer-kontoret.jpg)-->
+<!--![](@posts-images/2017/03/fler-cygnianer-kontoret.jpg)-->

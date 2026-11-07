@@ -18,7 +18,7 @@ Ansökan och nomineringar stänger 2 april.
 
 ## Vem är du?
 
-![](../../images/2020/03/Snapchat-1206317700-767x1024.jpg)
+![](@posts-images/2020/03/Snapchat-1206317700-767x1024.jpg)
 
 Mitt namn är Casper Jensen, jag är en 20 år gammal stockholmare som råkat hamna här i linkan för att plugga. Jag går just nu andra året på datateknik vilket innebär att jag hoppade på utbildningen direkt efter gymnasiet. På fritiden gillar jag att engagera mig i olika saker så som VilleValla, D-snordf och mitt senaste äventyr STABEN. 
 

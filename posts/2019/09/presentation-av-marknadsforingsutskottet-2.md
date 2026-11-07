@@ -5,7 +5,7 @@ categories:
   - "presentation-av-utskott-ht19"
 ---
 
-![](../../images/2019/09/datateknologsektionencolor-1024x273.png)
+![](@posts-images/2019/09/datateknologsektionencolor-1024x273.png)
 
 Tiden är inne för [Marknadsföringsutskottet](https://d-sektionen.se/marknadsforing/), även kallat MafU, att presentera sig.
 
@@ -15,7 +15,7 @@ Mer information kring ansökan och kontaktpersoner för samtliga rekryterande ut
 
 ### Hej! Vem är det jag pratar med?
 
-![](../../images/2019/09/69896070_2323987761032445_4306358060370100224_n.jpg)
+![](@posts-images/2019/09/69896070_2323987761032445_4306358060370100224_n.jpg)
 
 Jag heter Rosanna Isaksson och är ordförande för Marknadsföringsutskottet 19/20!
 

@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](../../images/2021/01/gyllene_morot.jpg)
+![](@posts-images/2021/01/gyllene_morot.jpg)
 
 Halloj sektionen!
 

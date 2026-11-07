@@ -11,4 +11,4 @@ tags:
 
 Söker du nya utmaningar, kontakter och erfarenheter? Bli värd för LARM2018! LARM är ett av LiUs största studentdrivna projekt och just nu söker de din hjälp. Läs mer om rollerna som koordinator och ansök på: [http://lintek.larmdagarna.se/student/sok-vard/](http://lintek.larmdagarna.se/student/sok-vard/).
 
-![](../../images/2017/12/larm2018.png)
+![](@posts-images/2017/12/larm2018.png)

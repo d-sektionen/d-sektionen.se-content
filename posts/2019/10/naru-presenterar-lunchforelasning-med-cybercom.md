@@ -8,7 +8,7 @@ tags:
   - "naru"
 ---
 
-![](../../images/2019/10/smart-city-2.png)
+![](@posts-images/2019/10/smart-city-2.png)
 
 **Industrial IoT** (Internet of Things) är en viktig del i Industri 4.0 - den digitala revolutionen inom industrin. Begreppet syftar till digitalisering och uppkoppling av maskiner för att bland annat kunna förutse och planera underhåll och optimera processer.
 

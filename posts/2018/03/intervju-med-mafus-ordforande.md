@@ -16,7 +16,7 @@ Sök själv eller nominera någon till posten här: [d-sektionen.se/val](http://
 
 ## Berätta lite om dig själv!
 
-Jag heter Sofia Gyulai och är en tös på 22 år som kommer från orten Linghem utanför Linköping och pluggar mitt andra år på IT-programmet. När jag inte pluggar eller hänger med vänner gillar jag att roa mig med gymnastik, dels som tränare och att träna själv. <!--more Läs resten av intervjun →-->![](../../images/2018/03/Mafu_Sofia_Gyulai.JPG)
+Jag heter Sofia Gyulai och är en tös på 22 år som kommer från orten Linghem utanför Linköping och pluggar mitt andra år på IT-programmet. När jag inte pluggar eller hänger med vänner gillar jag att roa mig med gymnastik, dels som tränare och att träna själv. <!--more Läs resten av intervjun →-->![](@posts-images/2018/03/Mafu_Sofia_Gyulai.JPG)
 
 ## Kan du berätta om din post?
 

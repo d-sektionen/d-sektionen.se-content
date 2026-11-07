@@ -17,7 +17,7 @@ Jag heter Yen Dinh och är 21 år och läser nu mitt andra år på programmet mj
 
 <!--more-->
 
-![Bild på Yen](../../images/2018/12/received_330120074487585-1024x1024.jpeg)
+![Bild på Yen](@posts-images/2018/12/received_330120074487585-1024x1024.jpeg)
 
 ## Kan du berätta om din post?
 

@@ -3,7 +3,7 @@ title: "NärU presenterar: IDA INFRONTS SOMMARPROJEKT 2023"
 date: 2023-01-23
 ---
 
-![](../../images/2023/01/logo_highres-1024x213.png)
+![](@posts-images/2023/01/logo_highres-1024x213.png)
 
 Vi söker två personer som tycker programmering är bland det roligaste man kan göra och som vill göra oss sällskap under åtta veckor i sommar. Årets projekt handlar om att implementera en integration som gör Outlook-kontakter tillgängliga i användargränssnittet i vår produkt iipax case.
 

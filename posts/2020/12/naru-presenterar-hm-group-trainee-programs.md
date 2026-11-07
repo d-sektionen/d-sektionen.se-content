@@ -5,7 +5,7 @@ categories:
   - "platsannonser"
 ---
 
-[![](../../images/2020/12/Linko-ping.png)](https://career.hm.com/content/hmcareer/en_se/student/education/hm-trainee-programs.html)
+[![](@posts-images/2020/12/Linko-ping.png)](https://career.hm.com/content/hmcareer/en_se/student/education/hm-trainee-programs.html)
 
 Consumer behavior and customer expectations are rapidly changing, and so are we. The competitive landscape is being redrawn and digitalization is driving the need to transform and rethink. This presents us with many challenges, but more importantly, with many exciting opportunities!  
 

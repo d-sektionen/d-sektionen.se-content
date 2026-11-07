@@ -3,7 +3,7 @@ title: "Join BCG Platinion Stockholm as an intern in tech strategy consulting in
 date: 2025-09-28
 ---
 
-![](../../images/2025/09/VA-Post-Stockholm-2026-819x1024.png)
+![](@posts-images/2025/09/VA-Post-Stockholm-2026-819x1024.png)
 
 Are you a student passionate about technology and keen on a sneak peek into IT consulting? Applications are now open for 2026 Visiting  
  Associate internships at BCG Platinion, the tech advisory department of Boston Consulting Group (BCG)!

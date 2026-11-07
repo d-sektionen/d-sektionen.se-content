@@ -3,7 +3,7 @@ title: "NärU Presenterar: Lunchföreläsning med Saab"
 date: 2022-04-05
 ---
 
-![](../../images/2022/04/Digital_2048x904px75-1024x450.png)
+![](@posts-images/2022/04/Digital_2048x904px75-1024x450.png)
 
 Hur är det att gå från att vara student på D-Sektionen till att jobba på ett företag som SAAB? Hur går det egentligen till att bygga ett flygplan? Varför är lunchrasterna mycket bättre på sommaren?
 

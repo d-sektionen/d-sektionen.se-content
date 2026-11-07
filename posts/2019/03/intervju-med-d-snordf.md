@@ -15,7 +15,7 @@ Ansökan stänger 31 mars.
 
 Hej! Jag heter Robert, läser datateknik andra året. Jag älskar MAI! Ville bara säga det, och jag menar det ? Annars gillar jag att progga och sånt där nördigt som vi D-are gör, ni vet.
 
-![](../../images/2019/03/robert.jpg)
+![](@posts-images/2019/03/robert.jpg)
 
 <!--more-->
 

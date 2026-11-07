@@ -5,7 +5,7 @@ tags:
   - "staben"
 ---
 
-![](../../images/2019/10/71406004_388264255203884_378093482964680704_n.png)
+![](@posts-images/2019/10/71406004_388264255203884_378093482964680704_n.png)
 
 Tiden är kommen! Äntligen har ansökan till General och Kassör för nästa STABEN öppnat!
 

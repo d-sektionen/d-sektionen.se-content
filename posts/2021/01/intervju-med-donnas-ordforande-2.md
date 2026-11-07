@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-vintermote-2021"
 ---
 
-![](../../images/2021/01/Fil-000-1-498x1024.jpeg)
+![](@posts-images/2021/01/Fil-000-1-498x1024.jpeg)
 
 Vi lämnar nu styret ett tag och hoppar över till ett helt annat utskott, nämligen D-sektionens damförening Donna! Dagens intervjuer är med Donnas ordförande (även känd som Primadonna) och kassör, först ut är PrimaDonnan Elin Frankell!
 
@@ -29,7 +29,7 @@ Jag skulle inte säga att du behöver någon speciell erfarenhet, det främsta s
 
 ## Vem ska söka Primadonna?
 
-Någon som vill ta den ledande rollen i ett gäng och pusha alla framåt för att göra sitt bästa. Sen ska man ju, såklart, vilja främja samhörigheten för tjejer samt icke-binära på sektionen ![:slightly\_smiling\_face:](../../images/2021/01/1f642.png)
+Någon som vill ta den ledande rollen i ett gäng och pusha alla framåt för att göra sitt bästa. Sen ska man ju, såklart, vilja främja samhörigheten för tjejer samt icke-binära på sektionen ![:slightly\_smiling\_face:](@posts-images/2021/01/1f642.png)
 
 ## Något mer att tillägga?
 

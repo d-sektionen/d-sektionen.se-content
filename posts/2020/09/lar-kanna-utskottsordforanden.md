@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-<!--![](../../images/2020/09/SökUtskott_FBhead-01-1024x536.jpg)-->
+<!--![](@posts-images/2020/09/SökUtskott_FBhead-01-1024x536.jpg)-->
 
 Rerkryteringsperioden hösten 2020 är i full gång, men börjar närma sig sitt slut. Om du fortfarande är lite osäker på om något av utskotten är för dig så vill vi hjälpa dig på traven. Här kommer korta intervjuer av alla utskottsordföranden för att lära känna dem och deras utskott lite bättre!
 
@@ -20,7 +20,7 @@ Perioden att söka slutar nu på söndag den 20 september kl 23:59. Tills dess g
 ### **OBS! Detta är en intervju med förra årets webmaster!**
 
 **Hej! Vem är det jag pratar med?**
-![](../../images/2020/09/enbrakväll.jpg)
+![](@posts-images/2020/09/enbrakväll.jpg)
 Hej! Jag heter Emil och pluggar tredje året på mjukvaruteknik. Jag är webmaster i D-sektionen under läsåret 19/20.
 
 **Vad gör ditt utskott?**
@@ -47,7 +47,7 @@ Nej.
 ### **OBS! Detta är en intervju med förra årets infochef!**
 
 **Hej! Vem är det jag pratar med?**
-![](../../images/2020/09/82038259_10220857498330678_2755785058747940864_o.jpg)
+![](@posts-images/2020/09/82038259_10220857498330678_2755785058747940864_o.jpg)
 Hej! Johan heter jag och är sektionens Infochef, vilket innebär att jag ansvarar för innehållet på sektionens hemsida, det vill säga denna sida, samt våra sociala kanaler! Det innebär även att jag är ordförande i Infogruppen.
 
 **Vad gör ditt utskott?**
@@ -80,7 +80,7 @@ Om man har frågor kring Infogruppen så går det jättebra att skicka dem till�
 ### **OBS! Detta är en intervju med förra årets ordförande för alumniutskottet!**
 
 **Hej! Vem är det jag pratar med?**
-![](../../images/2020/09/Snapchat-936495102.jpg)
+![](@posts-images/2020/09/Snapchat-936495102.jpg)
 Tja, jag heter Robin och är ordförande för Alumniutskottet (xD). Jag är 21 år och pluggar andra året Mjukvaruteknik.
 
 **Vad gör ditt utskott?**
@@ -107,7 +107,7 @@ Kom igen det blir kul!
 ## Presentation Werkmästeriet
 
 **Hej! Vem är det jag pratar med?**
-![](../../images/2020/09/michelin-Michelle-Krejci.jpg)
+![](@posts-images/2020/09/michelin-Michelle-Krejci.jpg)
 Tjo! Michelle heter jag och är ordförande för Werkmästeriet. Jag är 21 år gammal och pluggar mitt tredje år på Datateknik. Förutom att gå runt i Configura och fråga "Varför ligger det här här?" brukar jag planera mitt liv i excel och lägga för många timmar på Elder Scrolls Online.
 
 **Vad gör ditt utskott?**
@@ -150,7 +150,7 @@ Man bör nog vara beredd på att lägga 3-4 timmar i veckan på NärU.
 
 **Hej! Vem är det jag pratar med?**
 
-<!--![](images/118919039_352846685850574_2445481076853855914_n-Malin-Widén.jpg)-->
+<!--![](@posts-images/2020/09/118919039_352846685850574_2445481076853855914_n-Malin-Widén.jpg)-->
 
 Jag heter Malin Widén och är Marknadsföringsansvarig. Jag är en 21-årig tjej, född och uppvuxen i Östergötland och läser U3.
 
@@ -171,7 +171,7 @@ Sök MafU! Det kommer bli ett roligt år!
 ## Presentation AktU
 
 **Hej! Vem är det jag pratar med?**
-<!--![](images/20200224_081328-Linnéa-Ivansson.jpg)-->
+<!--![](@posts-images/2020/09/20200224_081328-Linnéa-Ivansson.jpg)-->
 
 Hejsan, Linnéa heter jag och jag är ordförande för AktU. Jag pluggar just nu mitt tredje år på D och kommer ursprungligen från Kungsbacka på västkusten, men nu äntligen så känns Linköping mer som mitt hem! När jag inte pluggar eller lägger ner alldeles för mycket tid på ESO så gillar jag att baka och laga mat, men mest av allt så älskar jag att spendera tid med min katt Casper <3
 
@@ -195,7 +195,7 @@ SÖK, det blir kul (jag kan även utlova söta bilder på Casper till alla medle
 ## Presentation D-LAN
 
 **Hej! Vem är det jag pratar med?**
-![](../../images/2020/09/Snapchat-549067534-Arvid-Westerlund.jpg)
+![](@posts-images/2020/09/Snapchat-549067534-Arvid-Westerlund.jpg)
 H3j54n! Jag heter Arvid och är projektledare för D-LAN 2021. Jag har precis påbörjat mitt fjärde år på D och är 21 år gammal. Under mina tidigare år på universitet har jag hunnit engagera mig en del i sektionen, men har nu tagit på mig ansvaret för årets roligaste event, D-LAN.
 
 **Vad gör ditt utskott?**
@@ -218,7 +218,7 @@ Om man har frågor är man jättevälkommen att kontakta mig via mail (projektle
 ## Presentation Utbildningsutskottet
 
 **Hej! Vem är det jag pratar med?**
-<!--![](images/DSC_8837-Isabell-Öknegård-Enavall.jpg)-->
+<!--![](@posts-images/2020/09/DSC_8837-Isabell-Öknegård-Enavall.jpg)-->
 
 Hej! Jag heter Isabell Öknegård Enavall ordförande för utbildningsutskottet och går i IT3
 
@@ -239,7 +239,7 @@ Som klassrepresentant så utvärderar man de kurser man läst varje period med s
 ## Presentation PubU
 
 **Hej! Vem är det jag pratar med?**
-![](../../images/2020/09/yee-Sean-Zhong.jpg)
+![](@posts-images/2020/09/yee-Sean-Zhong.jpg)
 Tja! Sean Zhong heter jag och är ordförande för pubutskottet! Jag är 22 år och kommer ursprungligen från Stockholm. Jag pluggar mitt tredje år på datateknik.
 
 **Vad gör ditt utskott?**
@@ -264,7 +264,7 @@ _"För PubU, i tiden!"_
 ## Presentation Festkommittén
 
 **Hej! Vem är det jag pratar med?**
-![](../../images/2020/09/IMG_0902.jpg)
+![](@posts-images/2020/09/IMG_0902.jpg)
 Tja hej! Kimberley Andersson heter jag, pluggar mitt femte år datateknik här på D-sektionen och är Festgeneral för det kommande jubileumet
 
 **Vad gör ditt utskott?**

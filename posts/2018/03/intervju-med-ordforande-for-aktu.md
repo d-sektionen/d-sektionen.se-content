@@ -16,7 +16,7 @@ Här kommer en intervju med Juliette Winneroth, ordförande för aktivitetsutsko
 
 ## Berätta lite om dig själv!
 
-Hejsan! Jag heter Juliette, jag är 20 år gammal och går just nu andra året på D. När jag började på här på LiU valde jag att söka till AktU och har sen dess fastna för att vara sektionsaktiv och hitta på roliga saker mer andra sektionsmedlemmar. Annars på min fritid gillar jag att umgås med trevliga människor, äta god mat och då och då titta på hockey. <!--more Läs resten av intervjun →-->![](../../images/2018/03/AktU_Juliette_Winneroth.JPG)
+Hejsan! Jag heter Juliette, jag är 20 år gammal och går just nu andra året på D. När jag började på här på LiU valde jag att söka till AktU och har sen dess fastna för att vara sektionsaktiv och hitta på roliga saker mer andra sektionsmedlemmar. Annars på min fritid gillar jag att umgås med trevliga människor, äta god mat och då och då titta på hockey. <!--more Läs resten av intervjun →-->![](@posts-images/2018/03/AktU_Juliette_Winneroth.JPG)
 
 ## Kan du berätta om din post?
 

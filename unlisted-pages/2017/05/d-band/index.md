@@ -11,4 +11,4 @@ _Gitarr/Sång_ - Samuel Blomqvist (AktU-projektledare) _Sång_ - Sara Westberg _
 
 [D-Band på Facebook](https://www.facebook.com/dbandliu/)
 
-[![](images/d-band-logga-300x156.png)](https://d-sektionen.se/wp-content/uploads/2018/01/d-band-logga.png)
+[![](@unlisted-pages-images/d-band-logga-300x156.png)](https://d-sektionen.se/wp-content/uploads/2018/01/d-band-logga.png)

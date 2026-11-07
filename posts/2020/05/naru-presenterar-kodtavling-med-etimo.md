@@ -8,7 +8,7 @@ tags:
   - "naru"
 ---
 
-![](../../images/2020/05/etimo_board.png)
+![](@posts-images/2020/05/etimo_board.png)
 
 #### TÄVLINGEN ÄR IGÅNG!
 

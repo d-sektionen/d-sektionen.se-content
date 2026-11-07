@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-vintermote-2021"
 ---
 
-![](../../images/2021/01/tobias_compressed-1024x1024.jpg)
+![](@posts-images/2021/01/tobias_compressed-1024x1024.jpg)
 
 Ny dag, nya intervjuer med gamla förtroendevalda! Idag är det projektgruppen LINK:s tur, och dagens intervjuer är med inga mindre än dess projektledare och kassör/vice projektledare! Först ut är projektledaren Tobias Wang!
 

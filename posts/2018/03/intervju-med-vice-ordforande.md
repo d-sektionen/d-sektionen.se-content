@@ -15,7 +15,7 @@ tags:
 
 ## Berätta lite om dig själv!
 
-Läser andra året på IP (Innovativ programmering), 23årig entreprenör som kör långdistanstriathlon när jag inte kodar, går på roliga möten eller äter mat. <!--more Läs resten av intervjun →-->![](../../images/2018/03/Vice_ordf_Vera_Antonov.jpg)
+Läser andra året på IP (Innovativ programmering), 23årig entreprenör som kör långdistanstriathlon när jag inte kodar, går på roliga möten eller äter mat. <!--more Läs resten av intervjun →-->![](@posts-images/2018/03/Vice_ordf_Vera_Antonov.jpg)
 
 ## Kan du berätta om din post? (T ex Arbetsuppgifter, utskottets/postens roll etc.)
 

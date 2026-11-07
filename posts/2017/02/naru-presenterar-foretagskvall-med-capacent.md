@@ -15,4 +15,4 @@ Capacent söker nu unga talanger till deras Business Intelligence Analyst Rotati
 
 Läs mer om eventet [här](https://drive.google.com/file/d/0B9VsRGEbnmwPTWlBdkpjUmN3U2hpQzFoOVpCWklJVVNBVFZr/view?usp=sharing), eller genom att klicka på bilden nedan!
 
-[![capacent\_career](../../images/2017/02/capacent.png)](https://drive.google.com/file/d/0B9VsRGEbnmwPTWlBdkpjUmN3U2hpQzFoOVpCWklJVVNBVFZr/view?usp=sharing)
+[![capacent\_career](@posts-images/2017/02/capacent.png)](https://drive.google.com/file/d/0B9VsRGEbnmwPTWlBdkpjUmN3U2hpQzFoOVpCWklJVVNBVFZr/view?usp=sharing)

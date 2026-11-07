@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](../../images/2021/04/d_band_pianist-1024x939.jpg)
+![](@posts-images/2021/04/d_band_pianist-1024x939.jpg)
 
 Hej sektionen!
 

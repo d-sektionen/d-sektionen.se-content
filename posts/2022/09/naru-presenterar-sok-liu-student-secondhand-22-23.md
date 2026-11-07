@@ -9,4 +9,4 @@ Bland öppna positioner finns bl.a. 2 st webbansvariga, där du får ansvar för
   
 Ansök [här](https://docs.google.com/forms/d/e/1FAIpQLScup_I32sKX2YC1Adnc0I83Mw81JcFmPEi2eeZ8_-S8t9NceQ/viewform) senast söndag den 18 september. Du kan hittar mer information kring postdetaljerna och rekryteringen på vår [Instagram](https://www.instagram.com/liustudentsecondhand/). 
 
-![](../../images/2022/09/liu-student-secondhand-logo.jpg)
+![](@posts-images/2022/09/liu-student-secondhand-logo.jpg)

@@ -3,7 +3,7 @@ title: "D-sektionens vintermöte 2020"
 date: 2020-01-20
 ---
 
-![](../../images/2020/01/83422937_2756006654489812_1760434093071269888_o.jpg)
+![](@posts-images/2020/01/83422937_2756006654489812_1760434093071269888_o.jpg)
 
 Medlemmar i sektionen kallas till ordinarie vintermöte den 3 februari 2020. Detta är ett av sektionens tre ordinarie sektionsmöten. Sektionsmöten är sektionens högst beslutande organ där du som medlem har möjligheten att vara med och besluta om sektionens verksamhet.
 

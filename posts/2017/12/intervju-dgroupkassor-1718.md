@@ -13,7 +13,7 @@ Hej hallå, namnet är Kimberley Andersson, har en rad olika smeknamn, är 20 å
 
 <!--more Läs resten av intervjun →-->
 
-![](../../images/2017/12/D-Group_Kassör_Kimberley_Andersson.jpeg)
+![](@posts-images/2017/12/D-Group_Kassör_Kimberley_Andersson.jpeg)
 
 ## Kan du berätta om din post som kassör i D-Group?
 
