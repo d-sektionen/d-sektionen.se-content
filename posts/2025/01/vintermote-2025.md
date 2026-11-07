@@ -7,7 +7,7 @@ categories:
 
 Vintermötet kommer att hållas **2:a februari** 2025 klockan **12:00** i sal **C4**.
 
-![](../../images/2025/01/image.png)
+![](@posts-images/2025/01/image.png)
 
 Hej D-student! Här kommer information om sektionens vintermöte att samlas. Ett sektionsmöte är sektionens högst beslutande organ, och det är sektionsmöten som beslutar om till exempel sektionens budgetering, framtida arbetssätt, stadgar, reglemente, med mera. För mer information om hur ett sektionsmöte fungerar finns en beskrivning av relevanta termer och processer på [d-sektionen.se/sektionsmote](https://d-sektionen.se/sektionsmote/).
 
@@ -106,3 +106,117 @@ _Inga inkomna än_
 ## Motioner och Propositioner
 
 _Inga inkomna än_
+
+Vintermötet kommer att hållas **2:a februari** 2025 klockan **12:00** i sal **C4**.
+
+![](@posts-images/2025/01/Vintermote-1024x462.png)
+
+Hej D-student! Här kommer information om sektionens vintermöte att samlas. Ett sektionsmöte är sektionens högst beslutande organ, och det är sektionsmöten som beslutar om till exempel sektionens budgetering, framtida arbetssätt, stadgar, reglemente, med mera. För mer information om hur ett sektionsmöte fungerar finns en beskrivning av relevanta termer och processer på [d-sektionen.se/sektionsmote](https://d-sektionen.se/sektionsmote/).
+
+Observera att mycket information kommer läggas till under de kommande veckorna, så denna sida kommer att uppdateras kontinuerligt.
+
+Styrelsen kommer bjuda på pizza i samband med sektionsmötet, länk för anmälan: [https://docs.google.com/forms/d/e/1FAIpQLSf-bgR10iJ7fNMRV4l5LkeMQ8UkgiA-GUKtohqSCM8JiueiWQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSf-bgR10iJ7fNMRV4l5LkeMQ8UkgiA-GUKtohqSCM8JiueiWQ/viewform)
+
+Deadline för anmälan är 27 januari 2025.
+
+## Att motkandidera
+
+Glöm inte att du är mer än välkommen till att _motkandidera_ till någon av de poster som ska väljas in på mötet. Att motkandidera innebär att man, på mötet, kan nominera sig själv eller en annan till någon av posterna, utan att tidigare ha blivit nominerad av t.ex. valberedningen. Du kan även motkandidera genom att skicka ett mail till [sekreterare@d-sektionen.se](mailto:sekreterare@d-sektionen.se) där du skriver lite kort om dig själv samt vilken post du vill motkandidera till.
+
+## Att skicka in motioner
+
+Glöm dessutom inte att du är mer än välkommen att _skicka in motioner_. Detta görs enklast genom att skicka motionen via mail till [sekreterare@d-sektionen.se](mailto:sekreterare@d-sektionen.se). Motionsmall finns nedan under _Dokument_. Motioner måste skriftligen inkomma till sektionsstyrelsen senast sju läsdagar innan sektionsmötet (23 januari 2025).
+
+## Protokoll
+
+[Protokoll Vintermöte 2025](/docs/2025/02/Protokoll-Vintermote-2025-Signerad.pdf)
+
+## Föredragningslista
+
+[Preliminär föredragningslista](/docs/2025/01/Preliminar_foredragningslista_vintermote_2025.pdf)
+
+[Slutgiltig Föredragningslista](/docs/2025/01/Slutgiltiga-Foredragningslistan-Vintermote-2025.pdf)
+
+## Nomineringar
+
+Valberedningen har valt att nominera följande:
+
+- **Sektionsordförande**: Philip Batan
+
+- **Sektionskassör**: Vakant
+
+- **Vice ordförande**: Olle Håkansson
+
+- **Sekreterare**: Vakant
+
+- **Utbildningsutskottets ordförande**: Vakant
+
+- **Arbetsmiljöombud**: Therese Larsson
+
+- **Eventutskottets ordförande**: Emelie Thuresson
+
+- **Styrelseledamöter**: Jessica Kjellin & Elias Forsell
+
+- **Jubileumsgeneral:** Vakant
+
+- **Jubileumskassör:** Henrik Rehn
+
+- **Damföreningens ordförande:** Maja Cederbaum
+
+- **Damföreningens kassör:** Vakant
+
+- **Festeriets ordförande:** Charlotte Nestler & Markus Rydeborg
+
+- **Festeriets kassör:** Nils Modig
+
+### Motkandideringar
+
+- **Utbildningsutskottets ordförande:** Jessica Andersson
+
+- **Sekreterare:** Jesper Wrobel
+
+- **Styrelseledamot:** Melker Forsell
+
+### Presentation vid personval
+
+Då du kandiderar till en post ska du under mötet presentera dig för mötet genom att berätta lite om dig själv och svara på eventuella frågor. För att ge en bild av vad presentationen innebär har styrelsen tagit fram några punkter över vad du skulle kunna berätta om:
+
+- Vem du är
+
+- Eventuella tidigare erfarenheter/engagemang utanför LiU
+
+- Eventuella tidigare erfarenheter/engagemang på LiU
+
+- Varför du söker en post
+
+- Vad du skulle vilja göra med utskottet/posten
+
+Dessa är endast förslag, och du är självklart fri att välja helt egna punkter att ta upp. De listade punkterna kommer finnas synliga på en duk under tiden du är uppe och presenterar.
+
+## Dokument
+
+- [Kallelse Vintermöte 2025](/docs/2025/01/Kallelse_vintermote_2025.pdf)
+
+- [Måldokument 24/25](/docs/2024/12/Maldokument-24_25.pdf)
+
+- [Stadgar](https://styrdokument.d-sektionen.se/stadgar.pdf)
+
+- [Reglemente](/docs/2025/01/reglemente-2025_01_17.pdf)
+
+- Motionsmall [pdf](/docs/2019/10/Motionsmall-D-sektionen-2019.pdf), [odt](/docs/2019/10/Motionsmall-D-sektionen-2019.odt), [docx](/docs/2019/10/Motionsmall-D-sektionen-2019.docx)
+
+- [Policy för elektroniskt röstningssystem i samband med sektionsmöten](/docs/2019/10/elektroniskrostningpolicy.pdf)
+
+## Inkomna dokument
+
+- [Detaljbudget](/docs/2025/01/Budget-24_25-Forslag-vintermote-2025-02-02-Detaljbudget.pdf)
+
+- [Styrbudget - Projekt](/docs/2025/01/Budget-24_25-Forslag-vintermote-2025-02-02-Styrbudget-Projekt.pdf)
+
+- [Budgetrevidering](/docs/2025/01/Reviderade-budgetposter-Forslag-vintermote-2025-02-02-Master.pdf)
+
+- [Hedersmedlems nominering - Richard Johansson](/docs/2025/02/Hedersmedlem-nominering_-Richard-Johansson.pdf)
+
+## Motioner och Propositioner
+
+_Inga inkomna_
