@@ -91,7 +91,7 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 
 [Måldokument 24/25](/docs/2024/12/Maldokument-24_25.pdf)
 
-[Stadgar](https://styrdokument.d-sektionen.se/stadgar.pdf)
+[Stadgar](/docs/2026/04/Stadgar.pdf)
 
 [Reglemente](/docs/2025/01/reglemente-2025_01_17.pdf)
 
@@ -199,7 +199,7 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 
 - [Måldokument 24/25](/docs/2024/12/Maldokument-24_25.pdf)
 
-- [Stadgar](https://styrdokument.d-sektionen.se/stadgar.pdf)
+- [Stadgar](/docs/2026/04/Stadgar.pdf)
 
 - [Reglemente](/docs/2025/01/reglemente-2025_01_17.pdf)
 

@@ -86,8 +86,8 @@ Styrelsen har nominerat följande:
 ## Dokument
 
 - [Kallelse](/docs/2020/04/Kallelse-v%C3%A5rm%C3%B6te-2020.pdf)
-- [Stadgar](https://styrdokument.d-sektionen.se/stadgar.pdf)
-- [Reglemente](https://styrdokument.d-sektionen.se/reglemente.pdf)
+- [Stadgar](/docs/2026/04/Stadgar.pdf)
+- [Reglemente](/docs/2026/04/reglamente-2026-04-27.pdf)
 - [Motionsmall pdf](/docs/2019/12/Motionsmall-D-sektionen-2020.pdf), [odt](/docs/2019/12/Motionsmall-D-sektionen-2020.odt), [docx](/docs/2019/12/Motionsmall-D-sektionen-2020.docx)
 - [Policy för elektroniskt röstningssystem i samband med sektionsmöten](/docs/2019/10/elektroniskrostningpolicy.pdf)
 - [Process för inval av ledamöter](/docs/2020/01/Process-f%C3%B6r-inval-av-ledam%C3%B6ter.pdf)

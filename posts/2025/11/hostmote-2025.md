@@ -75,9 +75,9 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 
 - [Kallelse](/docs/2025/11/Kallelse_till_hostmote.pdf)
 
-- [Stadgar](https://styrdokument.d-sektionen.se/stadgar.pdf)
+- [Stadgar](/docs/2026/04/Stadgar.pdf)
 
-- [Reglemente](https://styrdokument.d-sektionen.se/reglemente.pdf)
+- [Reglemente](/docs/2026/04/reglamente-2026-04-27.pdf)
 
 - [Måldokument 25/26](/docs/2025/11/M%C3%A5ldokument-25_26.docx.pdf)
 

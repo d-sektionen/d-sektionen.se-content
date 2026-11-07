@@ -133,9 +133,9 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 
 - [Kallelse](/docs/2024/10/Kallelse-till-hostmote_2024.pdf)
 
-- [Stadgar](https://styrdokument.d-sektionen.se/stadgar.pdf)
+- [Stadgar](/docs/2026/04/Stadgar.pdf)
 
-- [Reglemente](https://styrdokument.d-sektionen.se/reglemente.pdf)
+- [Reglemente](/docs/2026/04/reglamente-2026-04-27.pdf)
 
 - Motionsmall [pdf](/docs/2019/10/Motionsmall-D-sektionen-2019.pdf), [odt](/docs/2019/10/Motionsmall-D-sektionen-2019.odt), [docx](/docs/2019/10/Motionsmall-D-sektionen-2019.docx)
 
