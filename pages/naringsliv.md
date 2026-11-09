@@ -4,7 +4,7 @@ category: "Utskott"
 date: 2014-01-30
 ---
 
-![NärU logga](images/Logga-NarU-vit.png)
+![NärU logga](@pages-images/Logga-NarU-vit.png)
 
 Näringslivsutskottets främsta uppgift är att sköta kontakten och samarbetet mellan sektionen och näringslivet. Det är vi som ansvarar för att vårda och utveckla kontakten mellan studenterna på sektionen mot vår huvudsponsor och samarbetspartners.
 

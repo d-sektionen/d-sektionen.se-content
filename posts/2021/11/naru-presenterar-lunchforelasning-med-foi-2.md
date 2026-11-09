@@ -5,7 +5,7 @@ categories:
   - "foretagsevent"
 ---
 
-![](../../images/2021/11/Lunchforelasning-min-1024x683.png)
+![](@posts-images/2021/11/Lunchforelasning-min-1024x683.png)
 
 Teknik för säkerhets skull  
 Totalförsvaret forskningsinstitut, FOI, kommer att bjuda på en teknikresa som sträcker sig från dåtid, vidare till nutid och ända in i framtiden.  

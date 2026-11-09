@@ -18,7 +18,7 @@ Detta program startades 1975 och är därmed den äldsta civilingenjörsutbildni
 
 [Anmäl dig på antagning.se](https://www.antagning.se/se/search?period=HT_2018&freeText=LIU-50100)
 
-![D](images/44_datateknik_2014-2015.jpg)
+![D](@pages-images/44_datateknik_2014-2015.jpg)
 
 ### Masterprofiler
 
@@ -49,7 +49,7 @@ Denna utbildning har ett stort fokus på att arbeta i grupp och utmanar studente
 
 [Anmäl dig på antagning.se](https://www.antagning.se/se/search?period=HT_2018&freeText=LIU-50106)
 
-![IT](images/50_inf_teknologi_2014-2015.jpg)
+![IT](@pages-images/50_inf_teknologi_2014-2015.jpg)
 
 ### Masterprofiler
 
@@ -78,7 +78,7 @@ Den här utbildning startades år 2013 där [Fredrik Heintz](https://www.ida.liu
 
 [Anmäl dig på antagning.se](https://www.antagning.se/se/search?period=HT_2018&freeText=LIU-50180)
 
-![U](images/57_mjukvaruteknik_2014-2015.jpg)
+![U](@pages-images/57_mjukvaruteknik_2014-2015.jpg)
 
 ### Masterprofiler
 
@@ -102,7 +102,7 @@ Detta är ett kandidatprogram för den som är intresserad av eller vill bli bra
 
 [Anmäl dig på antagning.se](https://www.antagning.se/se/search?period=HT_2018&freeText=LIU-50171)
 
-![IP](images/28_innovativ_programmering.jpg)
+![IP](@pages-images/28_innovativ_programmering.jpg)
 
 ### Läs mer
 

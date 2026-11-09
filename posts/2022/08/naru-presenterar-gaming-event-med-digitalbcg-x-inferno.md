@@ -3,7 +3,7 @@ title: "NärU presenterar: Gaming event med DigitalBCG x Inferno"
 date: 2022-08-23
 ---
 
-![](../../images/2022/08/BCG-x-Inferno-LIFB1926-1024x535.png)
+![](@posts-images/2022/08/BCG-x-Inferno-LIFB1926-1024x535.png)
 
 Are you passionate about gaming and interested in hearing more about management consulting with a digital twist?
 

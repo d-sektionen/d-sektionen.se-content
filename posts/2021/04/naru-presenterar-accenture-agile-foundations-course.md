@@ -5,7 +5,7 @@ categories:
   - "platsannonser"
 ---
 
-[![](../../images/2021/04/INSTA-FB-01-agile-course.jpg)](https://accenturece.avature.net/eventsEN/EventDetail?eventId=9970)
+[![](@posts-images/2021/04/INSTA-FB-01-agile-course.jpg)](https://accenturece.avature.net/eventsEN/EventDetail?eventId=9970)
 
 Hej data-student på Linköpings universitet! Vill du vara med på vår virtuella utbildning i agilt arbete? Boosta ditt CV, lär dig att arbeta agilt och bekanta dig med våra konsulter virtuellt.
 

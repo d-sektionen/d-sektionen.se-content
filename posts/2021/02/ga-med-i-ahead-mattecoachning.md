@@ -5,7 +5,7 @@ categories:
   - "studentnyheter"
 ---
 
-![](../../images/2021/02/aHead-1024x306.png)
+![](@posts-images/2021/02/aHead-1024x306.png)
 
 aHead är en ideell förening som består av universitetsstudenter som coachar gymnasieelever i matematik och andra ämnen. Som coach får du ta del av förmåner som gratis luncher, sittningar och andra roliga evenemang med andra coacher. Du får också en chans att sprida de kunskaper du fått under universitetsstudierna till gymnasieelever som behöver din hjälp, och ger dem en bättre inblick i vad det innebär att studera vid universitetet. 
 

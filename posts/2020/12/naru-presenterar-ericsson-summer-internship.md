@@ -5,7 +5,7 @@ categories:
   - "platsannonser"
 ---
 
-<!--[![](images/1c76c42b0f6ff945b38d863f49c9d5ae.png)](https://jobs.ericsson.com/search/?page=1&jobPipeline=careersite&utm_source=ericsson.com&utm_medium=referral&utm_campaign=search_widget&q=summer+internship&locationsearch=sweden&optionsFacetsDD_shifttype=)-->
+<!--[![](@posts-images/2020/12/1c76c42b0f6ff945b38d863f49c9d5ae.png)](https://jobs.ericsson.com/search/?page=1&jobPipeline=careersite&utm_source=ericsson.com&utm_medium=referral&utm_campaign=search_widget&q=summer+internship&locationsearch=sweden&optionsFacetsDD_shifttype=)-->
 
 Got any plans for summer vacation? We have one for you. How about taking a step towards your career by putting knowledge in to practice in a global company at the forefront of technology? Be the one who did and build your professional network to boot!
 

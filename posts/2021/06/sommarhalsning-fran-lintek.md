@@ -6,7 +6,7 @@ categories:
   - "studentnyheter"
 ---
 
-![](../../images/2021/06/Sommarhalsning_LinTek-1024x576.jpg)
+![](@posts-images/2021/06/Sommarhalsning_LinTek-1024x576.jpg)
 
 Halloj sektionen! Här kommer lite information från LinTek!
 

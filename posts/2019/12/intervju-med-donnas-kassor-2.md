@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-vintermote-2020"
 ---
 
-![](../../images/2019/12/IMG_3824.jpg)
+![](@posts-images/2019/12/IMG_3824.jpg)
 
 Ännu en intervju och vi har inte lämnat Donna än, utan vi måste först se till att Donnas kassör får säga sitt om posten! Sök posten [här](https://d-sektionen.se/sok-fortroendeposter-vintermotet-2020/) fort eller i annan föredragen hastighet!
 

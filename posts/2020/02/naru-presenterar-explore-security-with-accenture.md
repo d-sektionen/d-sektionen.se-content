@@ -8,7 +8,7 @@ tags:
   - "naru"
 ---
 
-![](../../images/2020/02/studentevent_jpg_1599_studentevent_851_315_girl.jpg)
+![](@posts-images/2020/02/studentevent_jpg_1599_studentevent_851_315_girl.jpg)
 
 Do you want to explore the field of security? Join us for an evening where you will learn more about security trends, concepts and how it is to work as a security consultant in one of the world’s largest IT-companies. The main part of the evening will be an interactive workshop where you will be working on a security case and propose a solution for an enterprise security problem. The evening will end with dinner and drinks. No pre-knowledge is required.
 

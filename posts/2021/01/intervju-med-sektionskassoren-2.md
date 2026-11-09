@@ -7,7 +7,7 @@ categories:
 
 <figure>
 
-![](../../images/2021/01/har_ingen_rolig_bild_fran_nollep-1024x1024.jpg)
+![](@posts-images/2021/01/har_ingen_rolig_bild_fran_nollep-1024x1024.jpg)
 
 <figcaption>
 
@@ -45,4 +45,4 @@ Den som vill testa på något ganska annorlunda från det vi studerar, och vill 
 
 ## **Något mer att tillägga?**
 
-Sök kassör, det blir kul, jag lovar ![:slightly\_smiling\_face:](../../images/2021/01/1f642.png) Om inte så blir det i alla fall intressant!
+Sök kassör, det blir kul, jag lovar ![:slightly\_smiling\_face:](@posts-images/2021/01/1f642.png) Om inte så blir det i alla fall intressant!

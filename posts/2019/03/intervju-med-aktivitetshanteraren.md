@@ -15,7 +15,7 @@ Ansökan stänger 31 mars.
 
 Jag heter Fabian, är 21 år, originellt från Linkan, går U3 och är Datateknologsektionens Aktivitetshanterare i år. Detta är mitt första år som sektionsaktiv och förutom att hålla på med AktU-stuff gillar jag spex, att simträna, prova öl, glömma att vattna min kaktus, och träffa folk.
 
-![](../../images/2019/03/fabian.jpg)
+![](@posts-images/2019/03/fabian.jpg)
 
 <!--more-->
 

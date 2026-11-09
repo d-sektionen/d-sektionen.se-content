@@ -15,7 +15,7 @@ Ansökan stänger 9 januari.
 
 Mitt namn är Payam Tavakoli, 23 år, från Stockholm, Sollentuna, läser andra året på Datateknik. Gillar att gamea när tiden tillåter, bygga datorer, memea loss, arrangera event samt delta i sådana. Mig hittar du ofta i sektionsrummet Netlight, frustrerad över att min kod inte funkar, eller i en bar på kårallen, brukar vara på bägge sidorna av dom bardiskarna rätt ofta. <!--more-->
 
-![Bild på Payam](../../images/2018/12/valberedningsbild.png)
+![Bild på Payam](@posts-images/2018/12/valberedningsbild.png)
 
 ## Kan du berätta om din post?
 

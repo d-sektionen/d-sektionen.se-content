@@ -5,7 +5,7 @@ categories:
   - "platsannonser"
 ---
 
-[![](../../images/2020/11/UpsalesFutureTalentv1.0.5-1024x296.jpg)](https://emp.jobylon.com/jobs/69104-upsales-nordic-ab-upsales-future-talent/)
+[![](@posts-images/2020/11/UpsalesFutureTalentv1.0.5-1024x296.jpg)](https://emp.jobylon.com/jobs/69104-upsales-nordic-ab-upsales-future-talent/)
 
 Upsales mål är att ständigt utmana branschen och oss själva. Vi vill och ska alltid leverera en produkt i framkant. För att lyckas med det behöver vi utöka vårt produktteam rejält. Vi vet att du som är snart klart med studierna på Universitetet kan hjälpa oss att bygga nästa generations säljstöd.
 

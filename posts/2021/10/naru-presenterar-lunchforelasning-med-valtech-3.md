@@ -3,7 +3,7 @@ title: "NärU Presenterar: Lunchföreläsning med Valtech"
 date: 2021-10-06
 ---
 
-![](../../images/2021/10/large-Welcome-to-the-Jungle-04-1024x684.jpg)
+![](@posts-images/2021/10/large-Welcome-to-the-Jungle-04-1024x684.jpg)
 
 Välkommen på lunchföreläsning med Valtech!
 

@@ -8,6 +8,6 @@ tags:
   - "naru"
 ---
 
-![](../../images/2020/02/Implema2.png)
+![](@posts-images/2020/02/Implema2.png)
 
 Klicka [här](https://www.facebook.com/events/198229341231305/) för att komma till evenemanget på Facebook.

@@ -3,4 +3,4 @@ title: "NärU Presenterar: Konsultföretaget Etimo"
 date: 2022-01-28
 ---
 
-![](../../images/2022/01/annonsJanuari-min-724x1024.png)
+![](@posts-images/2022/01/annonsJanuari-min-724x1024.png)

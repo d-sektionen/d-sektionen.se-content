@@ -7,7 +7,7 @@ categories:
 
 Idag kommer en presentation av pubutskottet! Om du känner dig sugen på att ansöka till ett utskott finns mer information, ansökan och kontaktpersoner på [d-sektionen.se/ansok](https://d-sektionen.se/ansok/).
 
-![Pubutskottets logga](../../images/2018/09/pubu-300x173.png) <!--more-->
+![Pubutskottets logga](@posts-images/2018/09/pubu-300x173.png) <!--more-->
 
 ## Vad gör pubutskottet?
 

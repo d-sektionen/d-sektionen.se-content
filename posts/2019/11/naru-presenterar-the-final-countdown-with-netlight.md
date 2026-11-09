@@ -5,7 +5,7 @@ categories:
   - "foretagsevent"
 ---
 
-![](../../images/2019/11/final-countdown.jpg)
+![](@posts-images/2019/11/final-countdown.jpg)
 
 Rumor has it that beyond the horizon of Östgötaslätten, a different kind of life exists. A life without exams, a life without microwave queues, a life outside LiU. We have all heard about it, but can this really be true? 
 

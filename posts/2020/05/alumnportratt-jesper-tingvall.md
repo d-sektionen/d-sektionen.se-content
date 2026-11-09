@@ -5,7 +5,7 @@ categories:
   - "alumni-blogg"
 ---
 
-![](../../images/2020/05/22312151_10159908859355355_1224922681_o-1024x684.jpg)
+![](@posts-images/2020/05/22312151_10159908859355355_1224922681_o-1024x684.jpg)
 
 **Namn:** Jesper Tingvall  
 **Program:** D  
@@ -23,9 +23,9 @@ Under den senaste tiden har jag arbetat hemifrån på grund av Corona. Annars br
 
 <figure>
 
-- ![](../../images/2020/05/SkeletalDanceParty_1539618891-1024x576.jpg)
+- ![](@posts-images/2020/05/SkeletalDanceParty_1539618891-1024x576.jpg)
     
-- ![](../../images/2020/05/SkeletalDanceParty_1569421534-1-1024x576.jpg)
+- ![](@posts-images/2020/05/SkeletalDanceParty_1569421534-1-1024x576.jpg)
     
 
 <figcaption>
@@ -38,9 +38,9 @@ _Skeletal Dance Party_
 
 <figure>
 
-- ![](../../images/2020/05/20171119200221_1-1024x576.jpg)
+- ![](@posts-images/2020/05/20171119200221_1-1024x576.jpg)
     
-- ![](../../images/2020/05/20171119200118_1-1024x576.jpg)
+- ![](@posts-images/2020/05/20171119200118_1-1024x576.jpg)
     
 
 <figcaption>
@@ -63,7 +63,7 @@ De bästa minnena ifrån studietiden skapades av att alla ens kompisar bodde så
 
 Jag var med i ett flertal studentföreningar, bland annat Mahjongföreningen Lirma och Holgerspexet. Jag är fortfarande delvis aktiv i programmeringsföreningen LiTHe kod där jag är en del i gruppen som arrangerar [LiU Game Jam](http://liugamejam.se/).
 
-![](../../images/2020/05/22292435_10159908858925355_1738178689_o-1024x684.jpg)
+![](@posts-images/2020/05/22292435_10159908858925355_1738178689_o-1024x684.jpg)
 
 ## Vilken var din favoritkurs under studietiden?
 

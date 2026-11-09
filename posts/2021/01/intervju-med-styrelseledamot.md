@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-vintermote-2021"
 ---
 
-![](../../images/2021/01/simon_combined_2-1024x563.jpg)
+![](@posts-images/2021/01/simon_combined_2-1024x563.jpg)
 
 Vi rundar av helgen till ära med, ni gissade rätt, ytterligare en intervju! Dagens intervju är med en av sektionens ledamöter, nämligen Simon Jakobsson!
 

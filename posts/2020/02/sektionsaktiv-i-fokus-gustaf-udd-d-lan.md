@@ -13,7 +13,7 @@ Just D-LAN är i full fart med att fixa årets LAN. Måndagen den 17/2 är det b
 
 <figure>
 
-![](../../images/2020/02/Copy-of-Cecilia-Olsson-6740.jpg)
+![](@posts-images/2020/02/Copy-of-Cecilia-Olsson-6740.jpg)
 
 <figcaption>
 

@@ -19,7 +19,7 @@ Jag heter Elise och är en nedflyttad norrlänning som i nuläget läser tredje 
 
 <!--more-->
 
-![](../../images/2018/12/IMG_0457-737x1024.jpg)
+![](@posts-images/2018/12/IMG_0457-737x1024.jpg)
 
 ## Kan du berätta om din post?
 

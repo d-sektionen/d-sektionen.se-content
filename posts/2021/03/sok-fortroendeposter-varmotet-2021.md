@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](../../images/2021/03/d_sek.jpg)
+![](@posts-images/2021/03/d_sek.jpg)
 
 **OBS:** Notera att ansökningsperioden har förlängts till och med söndagen den 28:e mars.
 

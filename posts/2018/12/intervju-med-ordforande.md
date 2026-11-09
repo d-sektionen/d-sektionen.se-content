@@ -17,7 +17,7 @@ Hanna heter jag och är 24 år och kommer från östgötaschlätten. Har studera
 
 <!--more-->
 
-![Bild på Hanna](../../images/2018/12/Image-uploaded-from-iOS-598x1024.jpg)
+![Bild på Hanna](@posts-images/2018/12/Image-uploaded-from-iOS-598x1024.jpg)
 
 ## Kan du berätta om din post?
 

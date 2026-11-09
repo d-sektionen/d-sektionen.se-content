@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-vintermote-2020"
 ---
 
-![](../../images/2019/12/Snapchat-1063420522.jpg)
+![](@posts-images/2019/12/Snapchat-1063420522.jpg)
 
 Massa intervjuer blir det när det finns massa poster att söka! Hoppas förresten att ni inte missar det kuliga vintermötet den 3:e februari, det är då man får se hur det går till när personer väljs ut till alla dessa kuliga poster!
 

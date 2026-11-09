@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-vintermote-2020"
 ---
 
-![](../../images/2019/12/IMG_0163.jpg)
+![](@posts-images/2019/12/IMG_0163.jpg)
 
 Vi hoppar nu över till ett annat utskott och fäller ut landstället hos D-sektionens damförening Donna! Posten som Donnas ordförande, samt övriga poster som ska tillsättas under vintermötet den 3:e februari, söks [här](https://d-sektionen.se/sok-fortroendeposter-vintermotet-2020/)!
 

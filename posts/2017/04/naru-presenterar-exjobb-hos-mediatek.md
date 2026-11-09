@@ -11,4 +11,4 @@ Under hösten 2017 har vi möjlighet att erbjuda spännande exjobb för dig som 
 
 För vidare information klicka [här](http://careers.mediatek.com/eREC/JobSearch/JobDetail/MSE120170411000).
 
-[![mediatek](../../images/2017/04/mediatek_everyday_genius.png)](http://careers.mediatek.com/eREC/JobSearch/JobDetail/MSE120170411000)
+[![mediatek](@posts-images/2017/04/mediatek_everyday_genius.png)](http://careers.mediatek.com/eREC/JobSearch/JobDetail/MSE120170411000)

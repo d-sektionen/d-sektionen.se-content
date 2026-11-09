@@ -10,7 +10,7 @@ tags:
   - "naru"
 ---
 
-[![](../../images/2018/09/ericsson-open-house-2018.png)](https://www.facebook.com/events/1037094779829320/) <!--more-->
+[![](@posts-images/2018/09/ericsson-open-house-2018.png)](https://www.facebook.com/events/1037094779829320/) <!--more-->
 
 **Welcome to this year’s edition of OPEN HOUSE @ ERICSSON SITE LINKÖPING September 26th!**
 

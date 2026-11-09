@@ -5,7 +5,7 @@ categories:
   - "exjobb"
 ---
 
-![](../../images/2021/09/wpWoKSZk5xu1wi19PHTsEdHVCOmgen4gqBkbdR4tvK2ryoiHQutqUYTHVRUhWSiDgrG52dS2_hi6El_EN4BIdmib-4hYWhx5EfegGeaynHEjH9SeAvw4pwEYzxcu_TkF_u-EJ1s=s0.png)
+![](@posts-images/2021/09/wpWoKSZk5xu1wi19PHTsEdHVCOmgen4gqBkbdR4tvK2ryoiHQutqUYTHVRUhWSiDgrG52dS2_hi6El_EN4BIdmib-4hYWhx5EfegGeaynHEjH9SeAvw4pwEYzxcu_TkF_u-EJ1s=s0.png)
 
   
 At Ericsson you can be an explorer, a change maker and a force for good.
@@ -42,4 +42,4 @@ Challenge yourself! Be where it begins!
   
 Join us and create the new technology of the future!
 
-![](../../images/2021/09/UwzTUNcJ5naKCwukPINZ_o0Ttjr5efWaBckDwLrNGbCB-m76peyuVVZtbfSIGKMKklkEVNvu0WbQ90KEk_RvUisBV06iw4w4PEjOUhl7QRPEokjNP7osib3Lcq6kyC9ihMs7Swg=s0.png)
+![](@posts-images/2021/09/UwzTUNcJ5naKCwukPINZ_o0Ttjr5efWaBckDwLrNGbCB-m76peyuVVZtbfSIGKMKklkEVNvu0WbQ90KEk_RvUisBV06iw4w4PEjOUhl7QRPEokjNP7osib3Lcq6kyC9ihMs7Swg=s0.png)

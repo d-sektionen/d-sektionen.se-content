@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](../../images/2019/02/pubutskottet-1.jpg)
+![](@posts-images/2019/02/pubutskottet-1.jpg)
 
 Är du en av D-sektionens matintresserade? Är du en av D-Sektionens ölintresserade? Är du en av D-Sektionens kulintresserade? Då är du precis det vi i Pubutskottet letar efter!
 

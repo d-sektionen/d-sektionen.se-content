@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](../../images/2021/02/Header_sok-1024x535.png)
+![](@posts-images/2021/02/Header_sok-1024x535.png)
 
 Planeringen för LINK 2021 har börjat men för att kunna komma framåt behöver vi er! Just nu rekryterar vi 5 personer som tillsammans med oss kommer bilda LINKs Ledningsgrupp 2021 och se till att nästa LINK blir oförglömligt.
 

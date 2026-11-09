@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](../../images/2020/12/julmus-header-1024x536.png)
+![](@posts-images/2020/12/julmus-header-1024x536.png)
 
 D-sektionens styrelse tillsammans med D-Band anordnar ett julmys för att bidra till musikhjälpen samtidigt som vi har det lite mysigt ihop på sektionen!
 

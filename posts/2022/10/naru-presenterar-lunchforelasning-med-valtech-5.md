@@ -3,7 +3,7 @@ title: "NärU presenterar: Lunchföreläsning med Valtech"
 date: 2022-10-21
 ---
 
-![](../../images/2022/10/2022-10-21-2.png)
+![](@posts-images/2022/10/2022-10-21-2.png)
 
 Välkommen på lunchföreläsning Valtech!
 
@@ -33,4 +33,4 @@ Detta event använder sig av D-sektionens pricksystem, info hittar du här:
 [https://d-sektionen.se/.../2022/02/Policy-for-avanmalan.pdf](https://l.facebook.com/l.php?u=https%3A%2F%2Fd-sektionen.se%2F...%2F2022%2F02%2FPolicy-for-avanmalan.pdf%3Ffbclid%3DIwAR2KIsnL9sA3rjxx0HcdCL5GpgH5CMOQv2O7ajUkeNHema-0QSc4k3spJB4&h=AT0M4pvbuL7xETZGBW5U2clpiTGpXQllj-2I4p2Aur92-jXar-AtqXe7fKvRyVLiZ3iJf_T7pRRJMxovtLEJh4cpDi_4uXlTCUkM7IrnJrbX7a_m3a5D29HOfO_0daDT-q9a&__tn__=q&c[0]=AT14UZ0ClJA9c0InDzUHg24g9rZVMkNgzJCAbQ2BMxHn_92NE7i4kVbgt5SEsh-t2U2GcKUoqF9uoRflxe7l-Rzz1zp0Tf_n-lEVzDtaV4SY2Ch72EdUM859KinyKvSmB5hivAcPm3Re6lwPpLJ4X38-CvaWoVkdQM25Zu6kJlxj2ugvFThujQ)  
 Avanmälan görs till thea.naru@d-sektionen.se senast 31/10 23:59
 
-![](../../images/2022/10/Annons-Lunch-Lkpg1.jpg)
+![](@posts-images/2022/10/Annons-Lunch-Lkpg1.jpg)

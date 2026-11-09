@@ -15,7 +15,7 @@ Ansökan stänger 31 mars.
 
 Hi again! Mitt namn är Emil, jag pluggar U2 och är sektionens infochef.
 
-![](../../images/2019/03/emil.jpg)
+![](@posts-images/2019/03/emil.jpg)
 
 <!--more-->
 

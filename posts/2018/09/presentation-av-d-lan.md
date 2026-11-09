@@ -5,7 +5,7 @@ date: 2018-09-19
 
 Lagom till dagens [inspirationsföreläsning och rekryteringspub](https://www.facebook.com/events/240172143336395/) kommer den sista presentationen. Den här gången handlar det om D-LANs projektgrupp! Om du känner dig sugen på att ansöka till ett utskott finns mer information, ansökan och kontaktpersoner på [d-sektionen.se/ansok](https://d-sektionen.se/ansok/).
 
-![D-LAN logga](../../images/2018/09/dlan-logo-300x182.png) <!--more-->
+![D-LAN logga](@posts-images/2018/09/dlan-logo-300x182.png) <!--more-->
 
 ## Vad gör D-LANs projektgrupp?
 

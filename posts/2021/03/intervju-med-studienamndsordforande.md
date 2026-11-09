@@ -5,9 +5,9 @@ categories:
   - "intervjuer-fortroendevalda-varmote-2021"
 ---
 
-- ![](../../images/2021/03/snordf_otto_1-520x1024.jpeg)
+- ![](@posts-images/2021/03/snordf_otto_1-520x1024.jpeg)
     
-- ![](../../images/2021/03/snordf_otto_2-545x1024.jpeg)
+- ![](@posts-images/2021/03/snordf_otto_2-545x1024.jpeg)
     
 
 Kvällens intervju är en limited-edition sådan! Det är nämligen så att Otto Heino, som är Studienämndsordförande för IT-programmet, även representerar sektionens övriga Studienämndsordförande i denna intervju! Man kan alltså säga att det fem intervjuer i en, en sällsynt syn alltså!

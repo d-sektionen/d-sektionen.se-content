@@ -17,7 +17,7 @@ Ni vet vem jag är.
 
 <!--more-->
 
-![Bild på Anton](../../images/2018/12/16716164_10154864427674713_4314025913932504609_o-1024x683.jpg)
+![Bild på Anton](@posts-images/2018/12/16716164_10154864427674713_4314025913932504609_o-1024x683.jpg)
 
 ## Kan du berätta om din post?
 

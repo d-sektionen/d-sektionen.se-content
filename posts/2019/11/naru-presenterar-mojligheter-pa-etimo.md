@@ -9,7 +9,7 @@ tags:
   - "naru"
 ---
 
-![](../../images/2019/11/Etimo.png)
+![](@posts-images/2019/11/Etimo.png)
 
 **Vi bygger Sveriges ledande utvecklingsorganisation**
 

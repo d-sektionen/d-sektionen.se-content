@@ -3,7 +3,7 @@ title: "Sök förtroendepost höstmötet 2023"
 date: 2023-10-02
 ---
 
-![](../../images/2023/10/d-sek-omslagsbild-1024x538.jpg)
+![](@posts-images/2023/10/d-sek-omslagsbild-1024x538.jpg)
 
 Tiden är kommen! Äntligen har ansökan till General/Kassör för STABEN 2024 och snart Projektledare/Kassör till LINK 2024 öppnat. Vi i Valberedningen söker just nu en General och en Kassör till nästa års STABEN. En Projektledare och en Kassör till LINK söker vi tillsammans med Y-sektionens Valberedning.
 

@@ -10,7 +10,7 @@ categories:
 
 - <figure>
     
-    ![](../../images/2021/03/Cecilia-Olsson-6088-1-1024x684.jpg)
+    ![](@posts-images/2021/03/Cecilia-Olsson-6088-1-1024x684.jpg)
     
     <figcaption>
     
@@ -20,7 +20,7 @@ categories:
     
     </figure>
     
-- ![](../../images/2021/03/michelin-1.jpg)
+- ![](@posts-images/2021/03/michelin-1.jpg)
     
 
 </figure>

@@ -5,7 +5,7 @@ categories:
   - "alumni-blogg"
 ---
 
-![](../../images/2020/06/profile.png)
+![](@posts-images/2020/06/profile.png)
 
 **Namn:** Simon Lindblad  
 **Program:** Mjukvaruteknik  

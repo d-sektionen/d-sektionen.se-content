@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-vintermote-2021"
 ---
 
-![](../../images/2021/01/cash_combined-576x1024.jpg)
+![](@posts-images/2021/01/cash_combined-576x1024.jpg)
 
 Nu är det dags för den andra halvan av D-Groups intervjuer! Denna intervju är med personen som ser till att CA$H:en flyter på hos D-Group, d.v.s. kassören Filip Ekström!
 
@@ -13,7 +13,7 @@ Länkar för ansökan och nominering till samtliga poster hittas [här](https:/
 
 ## Vem är du?
 
-Hej mitt namn är Filip Ekström, kan kallas för Blekström, för jag är blek. Pluggar Datateknik. Jag tycker om att åka skidor och att få fakturor på snapchat ![❤](../../images/2021/01/2764.png)
+Hej mitt namn är Filip Ekström, kan kallas för Blekström, för jag är blek. Pluggar Datateknik. Jag tycker om att åka skidor och att få fakturor på snapchat ![❤](@posts-images/2021/01/2764.png)
 
 ## Berätta lite mer om posten som D-Groups kassör.
 
@@ -25,12 +25,12 @@ Det roligaste med att vara kassör är att man jobbar mycket med samtliga i grup
 
 ## Behöver man ha några erfarenheter för att söka D-Groups kassör?
 
-Den enda erfarenheten som du borde ha om du söker kassör är vara lite skön ![❤](../../images/2021/01/2764.png)
+Den enda erfarenheten som du borde ha om du söker kassör är vara lite skön ![❤](@posts-images/2021/01/2764.png)
 
 ## Vem ska söka D-Groups kassör?
 
-Om du tycker om att jobba med människor intensivt och har en förmåga att ha koll på många saker samtidigt så är CA$H något för dig ![❤️](../../images/2021/01/2764.png)
+Om du tycker om att jobba med människor intensivt och har en förmåga att ha koll på många saker samtidigt så är CA$H något för dig ![❤️](@posts-images/2021/01/2764.png)
 
 ## Något mer att tillägga?
 
-Kärlek till folket ![??](../../images/2021/01/1f91f_1f3fc.png)
+Kärlek till folket ![??](@posts-images/2021/01/1f91f_1f3fc.png)

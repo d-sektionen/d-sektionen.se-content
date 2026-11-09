@@ -6,7 +6,7 @@ categories:
   - "studentnyheter"
 ---
 
-![](../../images/2021/03/d_fum-1024x768.png)
+![](@posts-images/2021/03/d_fum-1024x768.png)
 
 Hejhej, här kommer ett meddelande från oss i LinTek!
 

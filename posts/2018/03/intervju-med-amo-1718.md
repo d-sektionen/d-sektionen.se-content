@@ -14,7 +14,7 @@ Idag presenterar valberedningen en intervju med Kristian Nilsson, sektionens Arb
 
 ## Berätta lite om dig själv!
 
-Jag heter Kristian Nilsson, är 22 år gammal och är uppväxt i Borlänge. Läser nu mitt fjärde år på D programmet där jag börjat på en master inom AI och maskininlärning. På fritiden brukar jag ofta få för mig att lära mig lite värdelösa saker och sen så spelar jag i campushallens innebandyturnering. <!--more Läs resten av intervjun →-->![](../../images/2018/03/Kristian_Nilsson_AMO-MO.jpg)
+Jag heter Kristian Nilsson, är 22 år gammal och är uppväxt i Borlänge. Läser nu mitt fjärde år på D programmet där jag börjat på en master inom AI och maskininlärning. På fritiden brukar jag ofta få för mig att lära mig lite värdelösa saker och sen så spelar jag i campushallens innebandyturnering. <!--more Läs resten av intervjun →-->![](@posts-images/2018/03/Kristian_Nilsson_AMO-MO.jpg)
 
 ## Kan du berätta om din post? (T ex Arbetsuppgifter, utskottets/postens roll etc.)
 

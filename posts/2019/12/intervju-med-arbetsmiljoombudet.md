@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-vintermote-2020"
 ---
 
-![](../../images/2019/12/IMG_20190227_110603__01.jpg)
+![](@posts-images/2019/12/IMG_20190227_110603__01.jpg)
 
 Kvällens intervju är med en kille som bryr sig om allt och alla! Tycker du att det viktigaste som finns är att studenterna mår bra både psykiskt och fysiskt? Då är posten som arbetsmiljöombud perfekt för dig! Sök [här](https://d-sektionen.se/sok-fortroendeposter-vintermotet-2020/)!
 

@@ -19,4 +19,4 @@ Ansök senast den 11 november!
 
 <!--more-->
 
-![](../../images/2019/11/Myndighetsdoktorand.jpg)
+![](@posts-images/2019/11/Myndighetsdoktorand.jpg)

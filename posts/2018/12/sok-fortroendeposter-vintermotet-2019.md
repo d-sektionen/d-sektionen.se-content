@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](../../images/2018/12/sök-förtroende-1024x576.png)
+![](@posts-images/2018/12/sök-förtroende-1024x576.png)
 
 ANSÖKNINGSPERIODEN FÖRLÄNGS TILLS PÅ SÖNDAG! Kan du inte riktigt bestämt dig om du ska söka något? Känner du att tiden börjar bli knapp? Då kommer vi med ett glädjande besked att ansökningsperioden förlängs till på söndag! Wow, en sån här chans får man bara en gång i livet!
 

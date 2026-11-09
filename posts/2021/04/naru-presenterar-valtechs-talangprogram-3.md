@@ -5,7 +5,7 @@ categories:
   - "platsannonser"
 ---
 
-[![](../../images/2021/04/medium-030320-Linked-In-1.jpg)](https://www.valtech.com/sv-se/karriar/lediga-tjanster/talangprogrammet-tech-987564/)
+[![](@posts-images/2021/04/medium-030320-Linked-In-1.jpg)](https://www.valtech.com/sv-se/karriar/lediga-tjanster/talangprogrammet-tech-987564/)
 
 Kära studenter!
 

@@ -3,7 +3,7 @@ title: "NärU Presenterar: Sök Valtechs talangprogram"
 date: 2021-12-08
 ---
 
-![](../../images/2021/12/030320-LinkedIn-1-1024x536.png)
+![](@posts-images/2021/12/030320-LinkedIn-1-1024x536.png)
 
 **Varmt välkommen till Valtechs talangprogram!**
 

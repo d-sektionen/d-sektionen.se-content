@@ -13,4 +13,4 @@ Register your interest today!
 Hope to see you there!​  
 Team Ericsson ​
 
-![](../../images/2026/09/Newsletter-banner-1024x273.png)
+![](@posts-images/2026/09/Newsletter-banner-1024x273.png)

@@ -39,7 +39,7 @@ Utöver de ovan nämnda projekten och de dagliga rutinerna, som till exempel att
 
 D-sektionen har två sektionsrum: Bettan, Configura. Bettan ligger i Kårallen på nedervåningen, se kartan nedan. Configura ligger på ovanvåningen i HusETT (bakom A-huset).
 
-![](images/sektionsrummen.png)
+![](@pages-images/sektionsrummen.png)
 
 Sektionsrummen är inga förråd, speciellt inte om man inte kontaktar ReningsWerk innan.
 
@@ -67,7 +67,7 @@ Glöm inte att **alla** som kör någon av bilarna måste [logga sin körning](h
 
 D-sektionen har ett antal lokaler som kan användas som förråd\*.
 
-![](images/forrad.png)
+![](@pages-images/forrad.png)
 
 _Sektionens förråd: Pappers (1), B23 (2), VTI (3)_
 
@@ -91,7 +91,7 @@ Gula Ladan (ofta slarvigt kallat för 'VTI') är ett gult hus på VTI (som ligge
 
 D-sektionen har sedan förr en mycket kompetent uppsättning verktyg som utskotten kan låna. Fråga Werkmästeriet innan användning så ser vi till att werktygen lämnas ut på ett kontrollerat sätt. Undantaget är fraktvagnen som får nyttjas för transport men sedan ska återlämnas till B23 så snart som möjligt. Följande verktyg och redskap finns att tillgå (2018):
 
-![](images/nya-Werktyg.jpg)
+![](@pages-images/nya-Werktyg.jpg)
 
 **På bilden:** _Fotpump, cykelverktygssats inklusive insexnyckelsats och kedjebrytare, bågfil, skruvdragare med bitshållare, bitsmejsel, bitssats, hammare, fil/rasp, kniv, skiftnyckel, plåtsax, insexnyckelsats, brytbladskniv, multimeter, hylsnyckelsats, meterstockar (1 resp 2 meter), gummiklubba, vattenpass, kabeltång, borrsats, spännband, limpistol, limpatroner._ Utanför bilden finns även en såg, en hopfällbar fraktvagn som klarar 150kg, lödningskit (bokas av werk), tillbehör till skruvdragaren samt diverse bilvertyg (i bilen). I förrådet i Gula Ladan finns även spik, skruv, beslag och liknande i stora mängder.
 

@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](../../images/2019/04/varmote-1024x683.jpg)
+![](@posts-images/2019/04/varmote-1024x683.jpg)
 
 Medlemmar i sektionen kallas till ordinarie vårmöte den 17 april 2019. Detta är ett av sektionens tre ordinarie sektionsmöten. Sektionsmöten är sektionens högst beslutande organ där du som medlem har möjligheten att vara med och besluta om sektionens verksamhet.
 

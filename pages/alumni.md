@@ -4,7 +4,7 @@ category: "Utskott"
 date: 2014-12-09
 ---
 
-![](images/Skarmbild-2025-11-12-223755.png)
+![](@pages-images/Skarmbild-2025-11-12-223755.png)
 
 Syftet med verksamheten är att stärka relationen mellan före detta studenter (alumner), universitetet och omvärlden, för att ge möjlighet till ömsesidig utveckling av kunskap, kompetens och kontakter.
 

@@ -19,7 +19,7 @@ Mitt namn är Albin Vedin och jag är en pojkvasker på 22 vårar som läser and
 
 <!--more Läs resten av intervjun →-->
 
-![](../../images/2017/12/D-Group_Chief_Albin_Vedin.jpg)
+![](@posts-images/2017/12/D-Group_Chief_Albin_Vedin.jpg)
 
 ## Kan du berätta om din post som chief i D-Group?
 

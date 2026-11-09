@@ -5,7 +5,7 @@ categories:
   - "studentnyheter"
 ---
 
-![](../../images/2021/04/olglas_karservice-1024x1024.jpg)
+![](@posts-images/2021/04/olglas_karservice-1024x1024.jpg)
 
 Här följer ett meddelande från Kårservice och deras marknadsundersökning om studentlivet!
 

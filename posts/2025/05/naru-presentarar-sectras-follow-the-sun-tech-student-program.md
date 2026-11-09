@@ -10,4 +10,4 @@ Sectras Follow the Sun Tech Student Program är en unik möjlighet för dig som 
 Det här är mer än ett studentprogram. Det är en språngbräda till din framtida karriär, fylld av spännande utmaningar, personlig utveckling och minnen för livet.  
 [https://emp.](https://emp.jobylon.com/jobs/240037-sectra-follow-the-sun-tech-student-program/)[jobylon](https://emp.jobylon.com/jobs/240037-sectra-follow-the-sun-tech-student-program/)[.com/jobs/240037-sectra-follow-the-sun-tech-student-program/](https://emp.jobylon.com/jobs/240037-sectra-follow-the-sun-tech-student-program/)
 
-![](../../images/2025/05/brave_TqroW2USIZ-1024x882.png)
+![](@posts-images/2025/05/brave_TqroW2USIZ-1024x882.png)

@@ -13,4 +13,4 @@ Sista anmälningsdag är 2:a november 2015 och de utvalda presenteras i samband 
 
 Läs mer om hur du anmäler dig genom att klicka på bilden nedan!
 
-[![ECA 2015](../../images/2015/10/ECA-300x222.jpg)](https://drive.google.com/file/d/0B8jp0PaMtFjsMldVVTVtSkpOMEE/view)
+[![ECA 2015](@posts-images/2015/10/ECA-300x222.jpg)](https://drive.google.com/file/d/0B8jp0PaMtFjsMldVVTVtSkpOMEE/view)

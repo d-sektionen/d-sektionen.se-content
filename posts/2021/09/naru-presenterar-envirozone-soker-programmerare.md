@@ -5,7 +5,7 @@ categories:
   - "platsannonser"
 ---
 
-![](../../images/2021/09/Logotype-Envirozone-Main-1024x688.png)
+![](@posts-images/2021/09/Logotype-Envirozone-Main-1024x688.png)
 
 Envirozone söker nu programmerare till kunduppdrag.
 

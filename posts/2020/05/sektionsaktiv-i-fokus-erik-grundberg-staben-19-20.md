@@ -9,7 +9,7 @@ Här kommer ännu en härlig intervju med en av sektionens alla sektionsaktiva. 
 
 <figure>
 
-![](../../images/2020/05/Cecilia_Olsson_3944.jpg)
+![](@posts-images/2020/05/Cecilia_Olsson_3944.jpg)
 
 <figcaption>
 

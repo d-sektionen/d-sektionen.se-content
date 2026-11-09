@@ -3,7 +3,7 @@ title: "NärU Presenterar: Ericsson söker medarbetare till nya verksamheter"
 date: 2022-02-22
 ---
 
-**Cloud och Security på Ericsson – Vi expanderar!**  ![](../../images/2022/02/Ub5lC8kYH-qaiAG1pH15g1iyVmqhJjxfnUuEQgyF4bZlFbn37mecYD7cCQrltWteljHcQd1pNHtEg92IMBeZHh3tqvBRddIOb2I0jC3QmRav8s4jkn1QzmEQ_eVKSHm7jOSkATko.png)
+**Cloud och Security på Ericsson – Vi expanderar!**  ![](@posts-images/2022/02/Ub5lC8kYH-qaiAG1pH15g1iyVmqhJjxfnUuEQgyF4bZlFbn37mecYD7cCQrltWteljHcQd1pNHtEg92IMBeZHh3tqvBRddIOb2I0jC3QmRav8s4jkn1QzmEQ_eVKSHm7jOSkATko.png)
 
 **Prata med oss den 7-8 mars!**
 
@@ -45,7 +45,7 @@ Ta chansen – Bli en del av vårt globala team!
 
 \-----
 
-**Cloud and Security at Ericsson – We are growing!** ![](../../images/2022/02/Ub5lC8kYH-qaiAG1pH15g1iyVmqhJjxfnUuEQgyF4bZlFbn37mecYD7cCQrltWteljHcQd1pNHtEg92IMBeZHh3tqvBRddIOb2I0jC3QmRav8s4jkn1QzmEQ_eVKSHm7jOSkATko.png)
+**Cloud and Security at Ericsson – We are growing!** ![](@posts-images/2022/02/Ub5lC8kYH-qaiAG1pH15g1iyVmqhJjxfnUuEQgyF4bZlFbn37mecYD7cCQrltWteljHcQd1pNHtEg92IMBeZHh3tqvBRddIOb2I0jC3QmRav8s4jkn1QzmEQ_eVKSHm7jOSkATko.png)
 
 **Talk with us March 7-8th!**
 

@@ -6,7 +6,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![](../../images/2022/12/jorunn1-490x1024.jpg)
+![](@posts-images/2022/12/jorunn1-490x1024.jpg)
 
 **PrimaDonna - Jorunn**
 
@@ -32,7 +32,7 @@ Har du något mer du vill tillägga?
 
 Sök!!! Det är lätt att tänka det alltid finns någon annan som är mer lämpad än en själv på en viss post eller ett visst uppdrag, men ibland så är faktiskt den mest lämpade personen just DU. Så, om du tror att Donna är något för dig, sök!
 
-![](../../images/2022/12/299725378_6042255109124876_8974107192083509392_n-683x1024.jpg)
+![](@posts-images/2022/12/299725378_6042255109124876_8974107192083509392_n-683x1024.jpg)
 
 **Donnakassör - Emelie** 
 

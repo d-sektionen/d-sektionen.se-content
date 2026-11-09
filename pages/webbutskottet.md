@@ -4,7 +4,7 @@ category: "Utskott"
 date: 2019-11-12
 ---
 
-![Webbgruppens logga](images/webbgruppen-logo-1.png)
+![Webbgruppens logga](@pages-images/webbgruppen-logo-1.png)
 
 Webbutskottet är ansvarig för funktionaliteten på sektionens hemsida och dess tjänster. Förutom att se till att nuvarande system är i drift arbetar gruppen också med utveckling av ny funktionalitet som ämnar gagna medlemmarna och sektionens verksamhet i stort.
 

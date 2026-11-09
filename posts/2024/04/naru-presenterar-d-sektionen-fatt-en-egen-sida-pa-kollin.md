@@ -11,4 +11,4 @@ Sitter du hemma och pluggar tentor själv och inte har någon att fråga? Använ
 
 Med Kollin Share kan medlemmar på D-sektionen dela egna dokument inom sektionssidan på Kollin och kategorisera dem beroende på vilken typ av dokument det är. Genom att dela egenskrivna tentor, tentatips eller föreläsningsanteckningar kan studenter sprida kunskap och hjälpa varandra att samla allt kursmaterial på en och samma plats som är kategoriserad och strukturerad.
 
-![](../../images/2024/04/kollin.jpg)
+![](@posts-images/2024/04/kollin.jpg)

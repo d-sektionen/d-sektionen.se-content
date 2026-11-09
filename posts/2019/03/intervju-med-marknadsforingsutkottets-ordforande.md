@@ -15,7 +15,7 @@ Ansökan stänger 31 mars.
 
 Kasper heter jag! Hittills har jag hunnit bli 24 år gammal, är ursprungligen från Stockholm och pluggar D2. På fritiden lägger jag en hel del tid på musik, netflix och att posta oönskade memes i diverse chatter och kanaler.
 
-![](../../images/2019/03/kasper.jpg)
+![](@posts-images/2019/03/kasper.jpg)
 
 <!--more-->
 

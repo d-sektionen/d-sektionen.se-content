@@ -31,4 +31,4 @@ Hoppas vi ses på campus i februari!
 
 //Datateknologsektionens marknadsföringsutskott
 
-![](images/vit_bakgrund-5.jpg)
+![](@pages-images/vit_bakgrund-5.jpg)

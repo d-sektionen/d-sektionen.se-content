@@ -5,7 +5,7 @@ categories:
   - "sektionsnyheter"
 ---
 
-![D40IT20](../../images/2015/04/d40it20-300x54.png) Den 19 maj firar D-programmet och IT-programmet 40 respektive 20 år! Det firar vi med en jubileumskonferens fyllt med mingel och talare. Vid konferensen kommer du ha tillfället att träffa D- och IT-alumner från alla årgångar. Evenemanget är också gratis för alla studenter, vi bjuder!
+![D40IT20](@posts-images/2015/04/d40it20-300x54.png) Den 19 maj firar D-programmet och IT-programmet 40 respektive 20 år! Det firar vi med en jubileumskonferens fyllt med mingel och talare. Vid konferensen kommer du ha tillfället att träffa D- och IT-alumner från alla årgångar. Evenemanget är också gratis för alla studenter, vi bjuder!
 
 Vi hoppas att vi ser dig där!
 

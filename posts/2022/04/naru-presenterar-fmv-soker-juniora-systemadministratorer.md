@@ -7,4 +7,4 @@ FMV upphandlar, utvecklar och levererar materiel och tjänster till det svenska 
 
 [Junior systemadministratör mot Gripen och helikoptrar (fmv.se)](https://www.fmv.se/jobb--karriar/lediga-jobb/junior-systemadministrator-mot-gripen-och-helikoptrar/)
 
-![](../../images/2022/04/fmv-bild-1024x680.jpg)
+![](@posts-images/2022/04/fmv-bild-1024x680.jpg)

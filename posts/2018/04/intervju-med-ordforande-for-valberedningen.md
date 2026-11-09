@@ -19,7 +19,7 @@ Jag är medlem i Donnastyret, valberedningen och läser lite nationalekonomi vid
 
 Egenskaper jag tycker säger mycket om mig är självdistans, överseende och passionerad. Jag är en opinionsbildare i mångt och mycket, och är inte speciellt tävlingsinriktad förutom när det gäller sport och omgivningen andas glädje eller engagemang och tävling. Något jag tycker mycket om är meditation och mindfullness. Många skämtar om dessa träningsformer för fokus-, medvetenhet men jag är en gedigen och förälskad förespråkare av dessa.
 
-<!--more Läs resten av intervjun →-->![](../../images/2018/04/valberedningen_spex.jpg)
+<!--more Läs resten av intervjun →-->![](@posts-images/2018/04/valberedningen_spex.jpg)
 
 ## Kan du berätta om din post? (T ex Arbetsuppgifter, utskottets/postens roll etc.)
 

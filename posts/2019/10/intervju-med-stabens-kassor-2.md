@@ -15,7 +15,7 @@ Ansökan till kassör i STABEN 20/21 är öppen men stänger snart! Om du funder
 
 <figure>
 
-![](../../images/2019/10/kassor.png)
+![](@posts-images/2019/10/kassor.png)
 
 <figcaption>
 

@@ -5,7 +5,7 @@ categories:
   - "intervjuer-fortroendevalda-vintermote-2020"
 ---
 
-![](../../images/2019/12/Linn_Sophie.jpg)
+![](@posts-images/2019/12/Linn_Sophie.jpg)
 
 Idag startar vi med en limited edition-intervju. Det är en nämligen en intervju med två personer och dessa personer är inga mindre än sektionens två ledamöter! Intervjun är, som ni kanske vet vid det här laget, i samband med rekryteringsprocessen och ni kan söka alla möjliga poster [här](https://d-sektionen.se/sok-fortroendeposter-vintermotet-2020/)!
 

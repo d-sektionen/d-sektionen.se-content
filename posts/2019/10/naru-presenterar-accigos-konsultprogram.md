@@ -8,7 +8,7 @@ tags:
   - "naru"
 ---
 
-![](../../images/2019/10/Accigo.jpg)
+![](@posts-images/2019/10/Accigo.jpg)
 
 Accigo är verksamma inom flera tekniska områden, där vi agerar applikationsexperter och verksamhetsnära rådgivare. Vi hjälper bland annat våra kunder att installera, optimera, förvalta och felsöka affärskritiska applikationer, databaser och säkerställa att systemen är integrerade och kommunicerar med varandra. Som digitaliseringspartner stöttar vi våra kunder i deras digitaliseringsresa, vilket ofta innebär att flytta och bygga om komponenter i molnlösningar (Cloud) samt säkerställa kommunikationen mellan molnet och kundens interna nätverk. Vi har även ett stort fokus på IT-säkerhet, där vi agerar rådgivande partner inom användaridentitet och hantering av affärskritiska konton och lösenord.
 
