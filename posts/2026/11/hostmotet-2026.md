@@ -91,7 +91,7 @@ __Verksamhetsberättelser 25/26:__
 
 - [Eventutskottet](/docs/2026/10/EventU-2526.pdf)
 
-- Ekonomiutskottet
+- [Ekonomiutskottet](/docs/2026/11/Verksamhetsberättelse MafU 25_26.pdf)
 
 - [InfU](/docs/2026/10/InfU-2526.pdf)
 
@@ -105,7 +105,7 @@ __Verksamhetsberättelser 25/26:__
 
 - [STABEN](/docs/2026/10/STABEN-25.pdf)
 
-- Styrelsen
+- [Styrelsen](docs/2026/11/Verksamhetsberättelse - Styret 25_26.pdf)
 
 - [Utbildningsutskottet](/docs/2026/10/UtbU-2526.pdf)
 
