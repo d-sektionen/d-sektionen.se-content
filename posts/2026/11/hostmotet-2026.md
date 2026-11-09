@@ -72,10 +72,10 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 - [Donna 24/25](/docs/2026/10/Donna-2425.pdf)
 - [Donna 25/26](/docs/2026/10/Donna-2526.pdf)
 - [Eventutskottet](/docs/2026/10/EventU-2526.pdf)
-- [Ekonomiutskottet](/docs/2026/11/Verksamhetsberättelse MafU 25_26.pdf)
+- Ekonomiutskottet
 - [InfU](/docs/2026/10/InfU-2526.pdf)
 - [LINK](/docs/2026/10/LINK-2526.pdf)
-- Marknadsföringsutskottet
+- [Marknadsföringsutskottet](/docs/2026/11/Verksamhetsberättelse MafU 25_26.pdf)
 - [Näringslivsutskottet](/docs/2026/10/NarU-2526.pdf)
 - [Pubutskottet](/docs/2026/10/PubU-2526.pdf)
 - [STABEN](/docs/2026/10/STABEN-25.pdf)
