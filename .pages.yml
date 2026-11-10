@@ -15,6 +15,7 @@ media:
     label: Dokument
     input: public/docs
     output: /docs
+    rename: safe
     categories: [document]
 
 content:
