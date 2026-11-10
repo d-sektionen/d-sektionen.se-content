@@ -75,11 +75,11 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 - Ekonomiutskottet
 - [InfU](/docs/2026/10/InfU-2526.pdf)
 - [LINK](/docs/2026/10/LINK-2526.pdf)
-- [Marknadsföringsutskottet](/docs/2026/11/Verksamhetsberättelse MafU 25_26.pdf)
+- [Marknadsföringsutskottet](/docs/2026/11/VerksamhetsberättelseMafU25_26.pdf)
 - [Näringslivsutskottet](/docs/2026/10/NarU-2526.pdf)
 - [Pubutskottet](/docs/2026/10/PubU-2526.pdf)
 - [STABEN](/docs/2026/10/STABEN-25.pdf)
-- [Styrelsen](/docs/2026/11/Verksamhetsberättelse - Styret 25_26.pdf)
+- [Styrelsen](/docs/2026/11/Verksamhetsberättelse-Styret25_26.pdf)
 - [Utbildningsutskottet](/docs/2026/10/UtbU-2526.pdf)
 - [Valberedningen](/docs/2026/10/Valberedningen-2526.pdf)
 - [WebbU](/docs/2026/10/WebbU-2526.pdf)
