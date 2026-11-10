@@ -3,12 +3,14 @@ media:
     label: Sidbilder
     input: pages/images
     output: "@pages-images"
+    rename: safe
     categories: [image]
 
   - name: post-images
     label: Nyhetsbilder
     input: posts/images
     output: "@posts-images"
+    rename: safe
     categories: [image]
 
   - name: documents
