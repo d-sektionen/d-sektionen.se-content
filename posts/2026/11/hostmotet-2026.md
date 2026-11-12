@@ -27,6 +27,7 @@ Glöm dessutom inte att du är mer än välkommen att *skicka in motioner*. Det
 ## Föredragningslista
 
 [Preliminär föredragningslista](/docs/2026/10/Preliminar-foredragningslista.pdf)
+[Slutgiltig föredragningslista](/docs/2026/11/slutgiltigforedragningslista-2.pdf)
 
 ## Personval
 
@@ -43,7 +44,7 @@ Motkandideringar:
 
 ### Presentation vid personval
 
-jälv och svara på eventuella frågor. För att ge en bild av vad presentationen innebär har styrelsen tagit fram några punkter över vad du skulle kunna berätta om:
+Då du kandiderar till en post ska du under mötet presentera dig för mötet genom att berätta lite om dig själv och svara på eventuella frågor. För att ge en bild av vad presentationen innebär har styrelsen tagit fram några punkter över vad du skulle kunna berätta om:
 
 - Vem du är
 - Eventuella tidigare erfarenheter/engagemang utanför LiU
@@ -64,6 +65,11 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 
 ## Inkomna dokument
 
+[Förslag på budgetrevidering](/docs/2026/11/forslag-budgetrevidering-hostmotet-2026-11-15.pdf)
+[Nuvarande balansrapport 25/26](/docs/2026/11/balansrapport20252026.pdf)
+[Resultatrapport 25/26](/docs/2026/11/resultatrapport20252026.pdf)
+[Ekonomisk berättelse 25/26](/docs/2026/11/ekonomiskberattelse2025-26.pdf)
+
 **Verksamhetsberättelser 25/26:**
 
 - [Alumniutskottet](/docs/2026/10/Alumniutskottet-2526.pdf)
@@ -72,14 +78,14 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 - [Donna 24/25](/docs/2026/10/Donna-2425.pdf)
 - [Donna 25/26](/docs/2026/10/Donna-2526.pdf)
 - [Eventutskottet](/docs/2026/10/EventU-2526.pdf)
-- Ekonomiutskottet
+- [Ekonomiutskottet](/docs/2026/11/verksamhetsberattelse-ekonomiutskottet.pdf)
 - [InfU](/docs/2026/10/InfU-2526.pdf)
 - [LINK](/docs/2026/10/LINK-2526.pdf)
-- [Marknadsföringsutskottet](/docs/2026/11/VerksamhetsberättelseMafU25_26.pdf)
+- [Marknadsföringsutskottet](/docs/2026/11/VerksamhetsberattelseMafU25_26.pdf)
 - [Näringslivsutskottet](/docs/2026/10/NarU-2526.pdf)
 - [Pubutskottet](/docs/2026/10/PubU-2526.pdf)
 - [STABEN](/docs/2026/10/STABEN-25.pdf)
-- [Styrelsen](/docs/2026/11/Verksamhetsberättelse-Styret25_26.pdf)
+- [Styrelsen](/docs/2026/11/Verksamhetsberattelse-Styret25_26.pdf)
 - [Utbildningsutskottet](/docs/2026/10/UtbU-2526.pdf)
 - [Valberedningen](/docs/2026/10/Valberedningen-2526.pdf)
 - [WebbU](/docs/2026/10/WebbU-2526.pdf)
