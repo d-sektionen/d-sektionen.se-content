@@ -91,6 +91,7 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 - [WebbU](/docs/2026/10/WebbU-2526.pdf)
 - [Werk](/docs/2026/10/Werk-2526.pdf)
 - [Sakrevisor](/docs/2026/10/Sakrevision-2526.pdf)
+- [Sifferrevisorernas Verksamhetsberättelse](/docs/2026/11/revisionsberacurrencyttelse-20252026.pdf)
 
 ## Motioner och propositioner
 
