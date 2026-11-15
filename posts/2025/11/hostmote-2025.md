@@ -11,8 +11,6 @@ Höstmötet kommer hållas **16:e november** 2025 klockan **14:00** i sal **C1**
 
 ![](@posts-images/2025/11/image-1.png)
 
-Hej D-student! Här kommer information om sektionens höstmöte att samlas. Ett sektionsmöte är sektionens högst beslutande organ, och det är sektionsmöten som beslutar om till exempel sektionens budgetering, framtida arbetssätt, stadgar, reglemente, med mera. För mer information om hur ett sektionsmöte fungerar finns en beskrivning av relevanta termer och processer på [d-sektionen.se/sektionsmote](https://d-sektionen.se/sektionsmote/).
-
 Observera att mycket information kommer läggas till under de kommande veckorna, så denna sida kommer att uppdateras kontinuerligt.
 
 Styrelsen kommer bjuda på mat i samband med sektionsmötet, länk för anmälan: [https://forms.gle/Zw4aoPsiGHtFZ5cR7](https://forms.gle/Zw4aoPsiGHtFZ5cR7) Sista anmälningsdag är 11:e november 2025.
@@ -138,5 +136,3 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 - [Proposition angående förvaltande av dokumentation kring högtidlighållanden](/docs/2025/11/Proposition-Forvaltande-av-dokumentation-kring-hogtidlighallanden.pdf)
 
 - [Proposition angående tillägg av policydokument](/docs/2025/11/Proposition-Tillagg-av-policydokument.pdf)
-
-  

@@ -3,9 +3,7 @@ title: "Höstmöte 2023"
 date: 2023-10-21
 ---
 
-![](@posts-images/2023/10/d-sektionen-1024x222.jpg)
-
-Det är snart dags för läsårets första sektionsmöte! Läs mer på [https://d-sektionen.se/hostmote/](https://d-sektionen.se/hostmote/).
+Det är snart dags för läsårets första sektionsmöte!
 
 Höstmötet kommer hållas 6 november 2023 klockan 17:30 i sal A1.
 

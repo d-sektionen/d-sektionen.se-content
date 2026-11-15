@@ -13,8 +13,6 @@ Välkomna till D-sektionens vintermöte 2018!
 
 Läs mer om mötet och anmäl er nedan
 
-\[embed\]http://d-sektionen.se/vintermote\[/embed\]
-
 Vintermötet är den 29:e januari klockan 17:30 i sal C2.
 
 ## Introduktion
