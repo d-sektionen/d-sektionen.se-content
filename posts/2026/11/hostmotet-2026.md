@@ -65,10 +65,10 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 
 ## Inkomna dokument
 
-[Förslag på budgetrevidering](/docs/2026/11/forslag-budgetrevidering-hostmotet-2026-11-15.pdf)
-[Nuvarande balansrapport 25/26](/docs/2026/11/balansrapport20252026.pdf)
-[Resultatrapport 25/26](/docs/2026/11/resultatrapport20252026.pdf)
-[Ekonomisk berättelse 25/26](/docs/2026/11/ekonomiskberattelse2025-26.pdf)
+- [Förslag på budgetrevidering](/docs/2026/11/forslag-budgetrevidering-hostmotet-2026-11-15.pdf)
+- [Nuvarande balansrapport 25/26](/docs/2026/11/balansrapport20252026.pdf)
+- [Resultatrapport 25/26](/docs/2026/11/resultatrapport20252026.pdf)
+- [Ekonomisk berättelse 25/26](/docs/2026/11/ekonomiskberattelse2025-26.pdf)
 
 **Verksamhetsberättelser 25/26:**
 
@@ -91,6 +91,7 @@ Dessa är endast förslag, och du är självklart fri att välja helt egna punkt
 - [WebbU](/docs/2026/10/WebbU-2526.pdf)
 - [Werk](/docs/2026/10/Werk-2526.pdf)
 - [Sakrevisor](/docs/2026/10/Sakrevision-2526.pdf)
+- [Sifferrevisorernas Verksamhetsberättelse](/docs/2026/11/revisionsberacurrencyttelse-20252026.pdf)
 
 ## Motioner och propositioner
 
